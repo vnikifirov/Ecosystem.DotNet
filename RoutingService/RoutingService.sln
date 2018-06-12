@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoutingService", "RoutingService\RoutingService.csproj", "{90537190-9405-4C33-BF25-5FC6AD52D42B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoutingService.Tests", "RoutingService.Tests\RoutingService.Tests.csproj", "{9DF59AD8-558D-41B3-9CFD-7F3C16E257A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoutingServiceClient", "RoutingServiceClient\RoutingServiceClient.csproj", "{9686E45E-2B65-4634-94FD-313F5C8218EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoutingService.Common", "RoutingService.Common\RoutingService.Common\RoutingService.Common.csproj", "{FCF3DDAC-26A7-4E5D-AC3D-E78B75AEEF30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90537190-9405-4C33-BF25-5FC6AD52D42B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90537190-9405-4C33-BF25-5FC6AD52D42B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90537190-9405-4C33-BF25-5FC6AD52D42B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90537190-9405-4C33-BF25-5FC6AD52D42B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DF59AD8-558D-41B3-9CFD-7F3C16E257A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DF59AD8-558D-41B3-9CFD-7F3C16E257A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DF59AD8-558D-41B3-9CFD-7F3C16E257A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DF59AD8-558D-41B3-9CFD-7F3C16E257A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9686E45E-2B65-4634-94FD-313F5C8218EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9686E45E-2B65-4634-94FD-313F5C8218EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9686E45E-2B65-4634-94FD-313F5C8218EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9686E45E-2B65-4634-94FD-313F5C8218EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCF3DDAC-26A7-4E5D-AC3D-E78B75AEEF30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCF3DDAC-26A7-4E5D-AC3D-E78B75AEEF30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCF3DDAC-26A7-4E5D-AC3D-E78B75AEEF30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCF3DDAC-26A7-4E5D-AC3D-E78B75AEEF30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

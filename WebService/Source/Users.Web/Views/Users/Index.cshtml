@@ -1,0 +1,59 @@
+﻿@{
+    ViewBag.Title = "User List";
+}
+<div ng-cloak ng-app="UsersApp" ng-controller="UsersController">
+
+    <!-- We want to show this while the server process is running: -->
+    <div ng-show="users.loading" class="loading">
+        <p>Loading, please wait . . . <img src="../../Content/ajax-loader.gif"></p>
+    </div>
+
+    <!-- Content -->
+    <div ng-hide="users.loading" id="container">
+        <table class="table table-bordered table-hover table-condensed">
+            <tr style="font-weight: bold">
+                <td style="width:16%">Picture</td>
+                <td style="width:16%">Name</td>
+                <td style="width:16%">Email</td>
+                <td style="width:16%">Phone</td>
+                <td style="width:16%">Dob</td>
+                <td style="width:16%">Actions</td>
+            </tr>
+            <tbody>
+                <tr ng-repeat="user in users">
+                    <td><img src="{{user.Picture}}" alt="{{user.Name + ' Picture' }}" style="height:30px; width:30px" /></td>
+                    <td>
+                        <!-- editable Name (select-local) -->
+                        <span ng-hide="user.EditMode">{{  user.Name || 'Not set' }}</span>
+                        <input type="text" ng-model="user.Name" ng-show="user.EditMode" />
+                    </td>
+
+                    <td>
+                        <!-- editable Email (select-local) -->
+                        <span ng-hide="user.EditMode">{{  user.Email || 'Not set' }}</span>
+                        <input type="text" ng-model="user.Email" ng-show="user.EditMode" />
+                    </td>
+
+                    <td>
+                        <!-- editable Phone (select-local) -->
+                        <span ng-hide="user.EditMode">{{  user.Phone || 'Not set' }}</span>
+                        <input type="text" ng-model="user.Phone" ng-show="user.EditMode" />
+                    </td>
+
+                    <td>
+                        <!-- editable Dob (select-local) -->
+                        <span ng-hide="user.EditMode">{{  user.Dob || 'Not set' }}</span>
+                        <input type="text" ng-model="user.Dob" ng-show="user.EditMode" />
+                    </td>
+
+                    <td style="white-space: nowrap">
+                        <a class="btn btn-primary Edit" href="javascript:;" ng-hide="user.EditMode" ng-click="Edit($index)">Edit</a>
+                        <a class="btn btn-primary Update" href="javascript:;" ng-show="user.EditMode" ng-click="Update($index)">Update</a>
+                        <a class="btn btn-default Cancel" href="javascript:;" ng-show="user.EditMode" ng-click="Cancel($index)">Cancel</a>
+                        <a class="btn btn-danger" href="javascript:;" ng-hide="user.EditMode" ng-click="Delete($index)">Delete</a>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
