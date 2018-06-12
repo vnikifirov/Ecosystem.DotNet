@@ -1,0 +1,41 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="SourcePage.master.cs" Inherits="AdvertisingAgency.SourcePage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" type="text/css" href="Styles/stylescss.css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+
+        <header>
+            <div class="container">
+                <div id="branding">
+                    <h1><span class="highight">Ad</span>vertising agency</h1>
+                </div>
+                <nav>
+                    <ul>
+                        <li class="link1"><asp:HyperLink NavigateUrl="~/Pages/HomePage.aspx" Text="Home" runat="server"></asp:HyperLink></li>
+                        <li class="link2"><asp:HyperLink NavigateUrl="~/Pages/AboutPage.aspx" Text="About" runat="server"></asp:HyperLink></li>
+                        <li class="link3"><asp:HyperLink NavigateUrl="~/Pages/ServicesPage.aspx" Text="Services" runat="server"></asp:HyperLink></li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+
+        <footer>
+            <p>Advertising agency, Copyright &copy; 2017</p>
+        </footer>
+
+    </form>
+</body>
+</html>
