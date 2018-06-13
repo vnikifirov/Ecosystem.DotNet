@@ -1,0 +1,136 @@
+<h1>{{title}}</h1>
+  <!-- For debugging -->
+<!-- <p>
+  {{ _record | json }}
+</p> -->
+
+<form (ngSubmit)="onSubmit()" >
+  <div class="form-group">
+    <label for="pzn">Участник расчетов</label>
+    <select name="pzn" id="pzn" class="form-control" [(ngModel)]="_record.pzn">
+      <option value=""></option>
+      <option *ngFor="let p of _pzns" value="{{p.pzn}}" title="{{p.name}}">
+        {{ p.name }}
+      </option>
+    </select>
+  </div>
+
+  <div class="form-group">
+    <label for="tnp">Тип населенного пункта</label>
+    <select name="tnp" id="tnp" class="form-control" [(ngModel)]="_record.tnp">
+      <option value=""></option>
+      <option
+        *ngFor="let t of _tnps" value="{{t.tnp}}">
+        {{ t.fullname }}
+      </option>
+    </select>
+  </div>
+
+  <div class="form-group">
+    <label title="У частник (Пользователь) системы электронных расчетов"for="uer">
+      У частник системы электронных расчетов</label>
+      <select name="uer" id="uer" class="form-control" [(ngModel)]="_record.uer">
+        <option value=""></option>
+        <option
+          *ngFor="let u of _uers" value="{{u.uer}}">
+          {{ u.uername }}
+        </option>
+      </select>
+  </div>
+
+  <div class="form-group">
+    <label title="Регион Российской Федерации"for="rgn">
+        Регион</label>
+      <select name="rgn" id="rgn" class="form-control" [(ngModel)]="_record.rgn" >
+        <option value=""></option>
+        <option
+          *ngFor="let r of _regs" value="{{r.rgn}}">
+          {{r.name}}
+        </option>
+      </select>
+  </div>
+
+  <div class="form-group">
+    <label for="ind">Индекс</label>
+    <input id="ind" class="form-control" type="number" max="999999" [(ngModel)]="_record.ind" name="_record.ind" maxlength="6">
+  </div>
+
+  <div class="form-group">
+    <label for="nnp">Населенный пункт</label>
+    <input id="nnp" class="form-control" type="text" maxlength="25" [(ngModel)]="_record.nnp" name="nnp">
+  </div>
+
+  <div class="form-group">
+    <label for="adr">Адрес</label>
+    <input id="adr" class="form-control" type="text" maxlength="30" [(ngModel)]="_record.adr" name="adr">
+  </div>
+
+  <div class="form-group">
+    <label for="rkc">БИК РКЦ (ГРКЦ)</label>
+    <input id="rkc" class="form-control" type="text" maxlength="9" [(ngModel)]="_record.rkc" name="rkc">
+  </div>
+
+  <div class="form-group">
+    <label for="namep">Наименование участника расчетов</label>
+    <input id="namep" class="form-control" type="text" maxlength="45" [(ngModel)]="_record.namep" name="namep" required>
+  </div>
+
+  <div class="form-group">
+    <label for="newnum"
+            title="Банковский идентификационный код (БИК)">
+            БИК
+    </label>
+    <input id="newnum" class="form-control" type="number" max="999999999" [(ngModel)]="_record.newnum" name="newnum" required>
+  </div>
+
+  <div class="form-group">
+    <label for="newks" title="Корреспондентский счет (субсчет), действовавший до перехода на новый План счетов бухгалтерского учета">
+      Корреспондентский счет (субсчет)
+    </label>
+    <input id="newks" class="form-control"  type="number" max="999999999" [(ngModel)]="_record.newks" name="newks" required>
+  </div>
+
+  <div class="form-group">
+    <label for="telef">Телефон</label>
+    <input id="telef" class="form-control" type="tel" [(ngModel)]="_record.telef" name="telef" required>
+  </div>
+
+  <div class="form-group">
+    <label for="regn">Регистрационный номер</label>
+    <input id="regn" class="form-control" type="text" maxlength="9" [(ngModel)]="_record.regn" name="regn" required>
+  </div>
+
+  <div class="form-group">
+    <label for="okpo">Код ОКПО</label>
+    <input id="okpo" class="form-control" type="text" maxlength="8" [(ngModel)]="_record.okpo" name="okpo" required>
+  </div>
+
+  <div class="form-group">
+    <label for="dtizm">Дата последнего изменения записи</label>
+    <input type="date" id="dtizm" name="dtizm" [(ngModel)]='_record.dtizm' required >
+    <!-- <datetime required name="dtizm" [timepicker]="false" [datepicker]="datepickerOpts" [(ngModel)]='_record.dtizm'></datetime> -->
+  </div>
+
+  <div class="form-group">
+    <label for="ksnp">Номер Счета</label>
+    <input id="ksnp" class="form-control" type="text" maxlength="20" [(ngModel)]="_record.ksnp" name="_record.ksnp" required>
+  </div>
+
+  <div class="form-group">
+    <label for="datein">Дата включения информации об участнике расчетов в ЭБД</label>
+    <input type="date" id="datein" name="datein" [(ngModel)]='_record.datein' required >
+    <!-- <datetime id="datain" required name="datain" [timepicker]="false" [datepicker]="datepickerOpts" [(ngModel)]='_record.datain'></datetime> -->
+  </div>
+
+  <div class="form-group">
+    <label for="datech">Дата Контроля</label>
+    <input type="date" id="datech" name="datain" [(ngModel)]='_record.datech' required >
+    <!-- <datetime id="datech" required name="datech" [timepicker]="false" [datepicker]="datepickerOpts" [(ngModel)]='_record.datech'></datetime> -->
+  </div>
+
+  <div class="form-group">
+    <button class="btn btn-primary">Сохранить</button>
+    <button (click)="cancel()" class="btn btn-danger">Отмена</button>
+  </div>
+
+</form>

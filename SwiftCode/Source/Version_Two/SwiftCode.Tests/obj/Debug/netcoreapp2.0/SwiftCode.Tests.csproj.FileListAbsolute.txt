@@ -1,0 +1,76 @@
+C:\Projects\swift-code\tests\swift-code\SwiftCode.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Projects\swift-code\tests\swift-code\SwiftCode.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Projects\swift-code\tests\swift-code\SwiftCode.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Projects\swift-code\tests\swift-code\SwiftCode.Tests\bin\Debug\netcoreapp2.0\SwiftCode.Tests.deps.json
+C:\Projects\swift-code\tests\swift-code\SwiftCode.Tests\bin\Debug\netcoreapp2.0\SwiftCode.Tests.runtimeconfig.json
+C:\Projects\swift-code\tests\swift-code\SwiftCode.Tests\bin\Debug\netcoreapp2.0\SwiftCode.Tests.runtimeconfig.dev.json
+C:\Projects\swift-code\tests\swift-code\SwiftCode.Tests\bin\Debug\netcoreapp2.0\SwiftCode.Tests.dll
+C:\Projects\swift-code\tests\swift-code\SwiftCode.Tests\bin\Debug\netcoreapp2.0\SwiftCode.Tests.pdb
+C:\Projects\swift-code\tests\swift-code\SwiftCode.Tests\obj\Debug\netcoreapp2.0\SwiftCode.Tests.csproj.CoreCompileInputs.cache
+C:\Projects\swift-code\tests\swift-code\SwiftCode.Tests\obj\Debug\netcoreapp2.0\SwiftCode.Tests.AssemblyInfoInputs.cache
+C:\Projects\swift-code\tests\swift-code\SwiftCode.Tests\obj\Debug\netcoreapp2.0\SwiftCode.Tests.AssemblyInfo.cs
+C:\Projects\swift-code\tests\swift-code\SwiftCode.Tests\obj\Debug\netcoreapp2.0\SwiftCode.Tests.dll
+C:\Projects\swift-code\tests\swift-code\SwiftCode.Tests\obj\Debug\netcoreapp2.0\SwiftCode.Tests.pdb
+c:\Projects\swift-code\tests\swift-code\SwiftCode.Tests\bin\Debug\netcoreapp2.0\SwiftCode.Web.dll
+c:\Projects\swift-code\tests\swift-code\SwiftCode.Tests\bin\Debug\netcoreapp2.0\SwiftCode.Web.pdb
+c:\Projects\swift-code\tests\swift-code\SwiftCode.Tests\obj\Debug\netcoreapp2.0\SwiftCode.Tests.csprojResolveAssemblyReference.cache
+c:\Projects\swift-code\tests\swift-code\SwiftCode.Tests\obj\Debug\netcoreapp2.0\SwiftCode.Tests.csproj.CopyComplete
+C:\Projects\swift-code\tests\SwiftCode\SwiftCode.Tests\bin\Debug\netcoreapp2.0\SwiftCode.Web.dll
+C:\Projects\swift-code\tests\SwiftCode\SwiftCode.Tests\obj\Debug\netcoreapp2.0\SwiftCode.Tests.csprojResolveAssemblyReference.cache
+C:\Projects\swift-code\tests\SwiftCode\SwiftCode.Tests\obj\Debug\netcoreapp2.0\SwiftCode.Tests.csproj.CoreCompileInputs.cache
+C:\Projects\swift-code\tests\SwiftCode\SwiftCode.Tests\obj\Debug\netcoreapp2.0\SwiftCode.Tests.AssemblyInfoInputs.cache
+C:\Projects\swift-code\tests\SwiftCode\SwiftCode.Tests\obj\Debug\netcoreapp2.0\SwiftCode.Tests.AssemblyInfo.cs
+C:\Projects\swift-code\tests\SwiftCode\SwiftCode.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Projects\swift-code\tests\SwiftCode\SwiftCode.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\Projects\swift-code\tests\SwiftCode\SwiftCode.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+C:\Projects\swift-code\tests\SwiftCode\SwiftCode.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Projects\swift-code\tests\SwiftCode\SwiftCode.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Projects\swift-code\tests\SwiftCode\SwiftCode.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Projects\swift-code\tests\SwiftCode\SwiftCode.Tests\bin\Debug\netcoreapp2.0\SwiftCode.Tests.deps.json
+C:\Projects\swift-code\tests\SwiftCode\SwiftCode.Tests\bin\Debug\netcoreapp2.0\SwiftCode.Tests.runtimeconfig.json
+C:\Projects\swift-code\tests\SwiftCode\SwiftCode.Tests\bin\Debug\netcoreapp2.0\SwiftCode.Tests.runtimeconfig.dev.json
+C:\Projects\swift-code\tests\SwiftCode\SwiftCode.Tests\bin\Debug\netcoreapp2.0\SwiftCode.Tests.dll
+C:\Projects\swift-code\tests\SwiftCode\SwiftCode.Tests\bin\Debug\netcoreapp2.0\SwiftCode.Tests.pdb
+C:\Projects\swift-code\tests\SwiftCode\SwiftCode.Tests\bin\Debug\netcoreapp2.0\SwiftCode.Web.pdb
+C:\Projects\swift-code\tests\SwiftCode\SwiftCode.Tests\obj\Debug\netcoreapp2.0\SwiftCode.Tests.csproj.CopyComplete
+C:\Projects\swift-code\tests\SwiftCode\SwiftCode.Tests\obj\Debug\netcoreapp2.0\SwiftCode.Tests.dll
+C:\Projects\swift-code\tests\SwiftCode\SwiftCode.Tests\obj\Debug\netcoreapp2.0\SwiftCode.Tests.pdb
+C:\Projects\swift-code\tests\SwiftCode\SwiftCode.Tests\bin\Debug\netcoreapp2.0\SwiftCode.Tests.dll.config
+C:\Projects\swift-code\Build\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Projects\swift-code\Build\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\Projects\swift-code\Build\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+C:\Projects\swift-code\Build\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Projects\swift-code\Build\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Projects\swift-code\Build\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Projects\swift-code\Build\netcoreapp2.0\SwiftCode.Tests.dll.config
+C:\Projects\swift-code\Build\netcoreapp2.0\SwiftCode.Tests.deps.json
+C:\Projects\swift-code\Build\netcoreapp2.0\SwiftCode.Tests.runtimeconfig.json
+C:\Projects\swift-code\Build\netcoreapp2.0\SwiftCode.Tests.runtimeconfig.dev.json
+C:\Projects\swift-code\Build\netcoreapp2.0\SwiftCode.Tests.dll
+C:\Projects\swift-code\Build\netcoreapp2.0\SwiftCode.Tests.pdb
+C:\Projects\swift-code\Source\SwiftCode.Tests\obj\Debug\netcoreapp2.0\SwiftCode.Tests.csprojResolveAssemblyReference.cache
+C:\Projects\swift-code\Source\SwiftCode.Tests\obj\Debug\netcoreapp2.0\SwiftCode.Tests.csproj.CoreCompileInputs.cache
+C:\Projects\swift-code\Source\SwiftCode.Tests\obj\Debug\netcoreapp2.0\SwiftCode.Tests.AssemblyInfoInputs.cache
+C:\Projects\swift-code\Source\SwiftCode.Tests\obj\Debug\netcoreapp2.0\SwiftCode.Tests.AssemblyInfo.cs
+C:\Projects\swift-code\Source\SwiftCode.Tests\obj\Debug\netcoreapp2.0\SwiftCode.Tests.csproj.CopyComplete
+C:\Projects\swift-code\Source\SwiftCode.Tests\obj\Debug\netcoreapp2.0\SwiftCode.Tests.dll
+C:\Projects\swift-code\Source\SwiftCode.Tests\obj\Debug\netcoreapp2.0\SwiftCode.Tests.pdb
+C:\Users\nikif\Desktop\temp-dev-workspace\three-tiers - Copy\Build\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\nikif\Desktop\temp-dev-workspace\three-tiers - Copy\Build\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\Users\nikif\Desktop\temp-dev-workspace\three-tiers - Copy\Build\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+C:\Users\nikif\Desktop\temp-dev-workspace\three-tiers - Copy\Build\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\nikif\Desktop\temp-dev-workspace\three-tiers - Copy\Build\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\nikif\Desktop\temp-dev-workspace\three-tiers - Copy\Build\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\nikif\Desktop\temp-dev-workspace\three-tiers - Copy\Build\netcoreapp2.0\SwiftCode.Tests.dll.config
+C:\Users\nikif\Desktop\temp-dev-workspace\three-tiers - Copy\Build\netcoreapp2.0\SwiftCode.Tests.deps.json
+C:\Users\nikif\Desktop\temp-dev-workspace\three-tiers - Copy\Build\netcoreapp2.0\SwiftCode.Tests.runtimeconfig.json
+C:\Users\nikif\Desktop\temp-dev-workspace\three-tiers - Copy\Build\netcoreapp2.0\SwiftCode.Tests.runtimeconfig.dev.json
+C:\Users\nikif\Desktop\temp-dev-workspace\three-tiers - Copy\Build\netcoreapp2.0\SwiftCode.Tests.dll
+C:\Users\nikif\Desktop\temp-dev-workspace\three-tiers - Copy\Build\netcoreapp2.0\SwiftCode.Tests.pdb
+C:\Users\nikif\Desktop\temp-dev-workspace\three-tiers - Copy\Source\SwiftCode.Tests\obj\Debug\netcoreapp2.0\SwiftCode.Tests.csprojResolveAssemblyReference.cache
+C:\Users\nikif\Desktop\temp-dev-workspace\three-tiers - Copy\Source\SwiftCode.Tests\obj\Debug\netcoreapp2.0\SwiftCode.Tests.csproj.CoreCompileInputs.cache
+C:\Users\nikif\Desktop\temp-dev-workspace\three-tiers - Copy\Source\SwiftCode.Tests\obj\Debug\netcoreapp2.0\SwiftCode.Tests.AssemblyInfoInputs.cache
+C:\Users\nikif\Desktop\temp-dev-workspace\three-tiers - Copy\Source\SwiftCode.Tests\obj\Debug\netcoreapp2.0\SwiftCode.Tests.AssemblyInfo.cs
+C:\Users\nikif\Desktop\temp-dev-workspace\three-tiers - Copy\Source\SwiftCode.Tests\obj\Debug\netcoreapp2.0\SwiftCode.Tests.csproj.CopyComplete
+C:\Users\nikif\Desktop\temp-dev-workspace\three-tiers - Copy\Source\SwiftCode.Tests\obj\Debug\netcoreapp2.0\SwiftCode.Tests.dll
+C:\Users\nikif\Desktop\temp-dev-workspace\three-tiers - Copy\Source\SwiftCode.Tests\obj\Debug\netcoreapp2.0\SwiftCode.Tests.pdb

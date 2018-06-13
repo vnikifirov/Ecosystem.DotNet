@@ -1,0 +1,70 @@
+<form>
+  <h2>Загрузка записей</h2>
+  <div class="form-group">
+    <label for="inputFile">Фаил</label>
+    <input id="inputFile" class="form-control" type="file" title="Выберите фаил" #fileInput>
+    <p class="help-block">Выберите файл Справочника БИК.</p>
+    <button (click)="uploadFile()" class="btn btn-default">Добавить</button>
+  </div>
+  <h2>Список записей</h2>
+  <p>
+    <a [routerLink]="['/records/new']" class="btn btn-primary">Добавить новую запись</a>
+  </p>
+
+  <div class="form-group well"><label for="PZN"></label>
+    <select name="" id="PZN" class="form-control" [(ngModel)]="filter.PZN" (change)="onFilterChange()">
+      <option value=""></option>
+      <option *ngFor="let p of pzns"  value="{{ p.VKEY }}">{{ p.NAME }}</option>
+    </select>
+  </div>
+  <table class='table' *ngIf="records">
+    <thead>
+      <tr>
+        <th>REAL</th>
+        <th>PZN</th>
+        <th>UER</th>
+        <th>RGN</th>
+        <th>IND</th>
+        <th>TNP</th>
+        <th>NNP</th>
+        <th>ADR</th>
+        <th>RKC</th>
+        <th>NAMEP</th>
+        <th>NEWNUM</th>
+        <th>AT1, AT2</th>
+        <th>TELEF</th>
+        <th>REGN</th>
+        <th>OKPO</th>
+        <th>DT_IZM</th>
+        <th>CKS</th>
+        <th>KSNP</th>
+        <th>DATE_IN</th>
+        <th>DATE_CH</th>
+      </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let record of records">
+          <td>{{ record.REAL }}</td>
+          <td>{{ record.PZN }}</td>
+          <td>{{ record.UER }}</td>
+          <td>{{ record.RGN }}</td>
+          <td>{{ record.IND }}</td>
+          <td>{{ record.TNP }}</td>
+          <td>{{ record.NNP }}</td>
+          <td>{{ record.ADR }}</td>
+          <td>{{ record.RKC }}</td>
+          <td>{{ record.NAMEP }}</td>
+          <td>{{ record.NEWNUM }}</td>
+          <td>{{ record.AT1 }}, {{ record.AT2 }}</td>
+          <td>{{ record.TELEF }}</td>
+          <td>{{ record.REGN }}</td>
+          <td>{{ record.OKPO }}</td>
+          <td>{{ record.DT_IZM }}</td>
+          <td>{{ record.CKS }}</td>
+          <td>{{ record.KSNP }}</td>
+          <td>{{ record.DATE_IN }}</td>
+          <td>{{ record.DATE_CH }}</td>
+        </tr>
+      </tbody>
+  </table>
+</form>

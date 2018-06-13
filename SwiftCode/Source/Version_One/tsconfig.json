@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "module": "es2015",
+    "moduleResolution": "node",
+    "target": "es5",
+    "sourceMap": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "skipDefaultLibCheck": true,
+    "skipLibCheck": true, // Workaround for https://github.com/angular/angular/issues/17863. Remove this if you upgrade to a fixed version of Angular.
+    "lib": [ "es6", "dom" ],
+    "types": [ "webpack-env", "jquery" ],
+    "noImplicitAny": false,
+    // "declaration": false
+    // "strictNullChecks": false,
+    "strict": true,
+    "strictPropertyInitialization": false
+  },
+  "exclude": [ "bin", "node_modules" ],
+  "include": [
+    "**/*.ts",
+    "../node_modules/ng2-datetime/ng2-datetime.ts"
+  ],
+  "atom": { "rewriteTsconfig": false }
+}

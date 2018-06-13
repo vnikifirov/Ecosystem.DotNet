@@ -1,0 +1,92 @@
+<p *ngIf="!records">
+  <em>Загрузка...</em>
+</p>
+
+<form>
+  <h1>Записи</h1>
+  <!-- Filters -->
+  <div class="well">
+    <div class="form-inline">
+      <label class="mr-sm-2"  for="newnum">Поиск по БИК</label>
+      <input type="text" class="form-control mb-2 mr-sm-2 mb-sm-0"
+              id="newnum"
+              name="filter.newnum"
+              [(ngModel)]="filter.newnum">
+
+      <label class="mr-sm-2"  for="reg">Поиск по регионам</label>
+      <input type="text" class="form-control mb-2 mr-sm-2 mb-sm-0"
+            id="reg"
+            name="filter.regname"
+            [(ngModel)]="filter.regname">
+
+      <label class="mr-sm-2" for="pzn" title="Поиск по участнику системы электронных расчетов">Поиск по участнику</label>
+      <select class="form-control mb-2 mr-sm-2 mb-sm-0"
+          id="pzn"
+          name="filter.pzn"
+          [(ngModel)]="filter.pzn">
+        <option value=""></option>
+        <option *ngFor="let p of pzns"  value="{{ p.pzn }}">{{ p.name }}</option>
+      </select>
+
+      <button type="button"
+              class="btn btn-primary"
+              (click)="onFilterChange()">Поиск</button>
+      <button type="button"
+              class="btn btn-secondary"
+              (click)="onResetFilter()">Сбросить</button>
+    </div>
+  </div>
+
+
+  <!-- Records -->
+  <!-- <table class='table' *ngIf="records"> -->
+  <table class='table'>
+    <thead>
+      <tr>
+        <th title="Участник расчетов">Участник расчетов</th>
+        <th title="Участник системы электронных расчетов">Участник электронных расчетов</th>
+        <th title="Регион Российской Федерации">Регион РФ</th>
+        <th>Индекс</th>
+        <th title="Тип населенного пункта">Тип НП</th>
+        <th>Населенного пункт</th>
+        <th>Адрес</th>
+        <th title="БИК РКЦ (ГРКЦ)">БИК РКЦ</th>
+        <th title="Наименование участника расчетов">Наименование</th>
+        <th>БИК</th>
+        <th>Телефон</th>
+        <th>Регистрационный Номер</th>
+        <th>Код ОКПО</th>
+        <th title="Дата последнего изменения записи">Дата изменения</th>
+        <th>Номер Счета</th>
+        <th title="Дата включения информации об учаснике расчетов в ЭБД">Дата включения в ЭБД</th>
+        <th>Дата Контроля</th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- <tr *ngFor="let record of records | regFilter:filter.reg.name"> -->
+      <tr *ngFor="let record of records">
+        <td>{{ record.pzn.name }}</td>
+        <td >{{ record.uer.uername | titleCase }}</td>
+        <td>{{ record.reg.name | titleCase }}</td>
+        <td>{{ record.ind }}</td>
+        <td>{{ record.tnp.fullname | titleCase }}</td>
+        <td>{{ record.nnp | titleCase }}</td>
+        <td>{{ record.adr | titleCase }}</td>
+        <td>{{ record.rkc }}</td>
+        <td>{{ record.namep  | titleCase }}</td>
+        <td>{{ record.newnum }}</td>
+        <td>+7 {{ record.telef }}</td>
+        <td>{{ record.regn }}</td>
+        <td>{{ record.okpo | titleCase }}</td>
+        <td>{{ ((record.dtizm !== '0001-01-01T00:00:00') ? (record.dtizm | date: 'dd/MM/yyyy') : '' ) }}</td>
+        <td>{{ record.ksnp }}</td>
+        <td>{{ ((record.datech !== '0001-01-01T00:00:00') ? (record.datech | date: 'dd/MM/yyyy') : '' ) }}</td>
+        <td>{{ ((record.datein !== '0001-01-01T00:00:00') ? (record.datech | date: 'dd/MM/yyyy') : '' ) }} </td>
+        <td style="white-space: nowrap">
+            <a [routerLink]="[ '/update/', record.vkey ]" role="button" class="btn btn-primary">Редактировать</a>
+            <a type="button" class="btn btn-danger" role="button" (click)="delete(record.vkey);">Удалить</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</form>
