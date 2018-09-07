@@ -20,6 +20,10 @@
 
 9. [ClearScript Threads](https://github.com/vnikifirov/DotNet/tree/master/ClearScript_Threads)
 
+10. [xUnitTest and ASP.NET Core](https://github.com/vnikifirov/DotNet/tree/master/xUnitTest)
+
+11. [xUnitTest and ASP.NET Core](https://github.com/vnikifirov/DotNet/tree/master/SolidPrinciples)
+
 # Note
 
 * If you want to reach out to me, feel free. Here's my Twitter: @nikifovadim and email: nikifovadim@gmail.com
