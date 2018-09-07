@@ -20,13 +20,9 @@
 
 9. [ClearScript Threads](https://github.com/vnikifirov/DotNet/tree/master/ClearScript_Threads)
 
-<<<<<<< HEAD
 10. [xUnitTest and ASP.NET Core](https://github.com/vnikifirov/DotNet/tree/master/xUnitTest)
 
-11. [xUnitTest and ASP.NET Core](https://github.com/vnikifirov/DotNet/tree/master/SolidPrinciples)
-=======
-10. [xUnitTest](https://github.com/vnikifirov/DotNet/tree/master/xUnitTest)
->>>>>>> 5844e1bdefeaa38fdd91db884f38e32da9fe0e27
+11. [SOLID Principles](https://github.com/vnikifirov/DotNet/tree/master/SolidPrinciples)
 
 # Note
 
