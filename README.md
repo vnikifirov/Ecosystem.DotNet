@@ -26,8 +26,6 @@
 
 # Note
 
-* If you want to reach out to me, feel free. Here's my Twitter: @nikifovadim and email: nikifovadim@gmail.com
-
 * If you like this repo and find it useful, please consider ★ starring it (on top right of the page) :)
 
 # Feedback
