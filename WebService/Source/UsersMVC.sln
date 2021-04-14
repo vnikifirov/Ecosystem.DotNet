@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Users.Web", "Users.Web\Users.Web.csproj", "{416FD147-692B-42B6-8AAF-AB6360032213}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "User.Web.Installer", "User.Web.Installer\User.Web.Installer.vdproj", "{6816AC15-2AD6-4D0D-B61B-12DFDE2D4E4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{416FD147-692B-42B6-8AAF-AB6360032213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{416FD147-692B-42B6-8AAF-AB6360032213}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{416FD147-692B-42B6-8AAF-AB6360032213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{416FD147-692B-42B6-8AAF-AB6360032213}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6816AC15-2AD6-4D0D-B61B-12DFDE2D4E4C}.Debug|Any CPU.ActiveCfg = Debug
+		{6816AC15-2AD6-4D0D-B61B-12DFDE2D4E4C}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DBB3A9F-AD03-44E3-8BB2-49269B062724}
+	EndGlobalSection
+EndGlobal
