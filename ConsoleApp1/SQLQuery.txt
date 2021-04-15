@@ -1,0 +1,17 @@
+# Find duplicate values in multiple columns
+SELECT 
+    value, 
+    COUNT(value)
+FROM
+    Test
+GROUP BY value
+HAVING COUNT(value) > 1;
+    
+# Delete duplicate values in multiple columns
+DELETE
+FROM Test
+WHERE id IN (
+    SELECT t1.id 
+    FROM Test t1, Test t2 
+    WHERE t1.value = t2.value AND t1.id > t2.id
+);
