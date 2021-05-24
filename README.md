@@ -24,6 +24,10 @@
 
 11. [SOLID Principles](https://github.com/vnikifirov/DotNet/tree/master/SolidPrinciples)
 
+12. [Console App 1](https://github.com/vnikifirov/DotNet/tree/master/ConsoleApp1)
+
+13. [Test Full Stack](https://github.com/vnikifirov/DotNet/tree/master/test-full-stack)
+
 # Note
 
 * If you like this repo and find it useful, please consider ★ starring it (on top right of the page) :)
