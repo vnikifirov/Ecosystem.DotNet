@@ -1,0 +1,64 @@
+<h3 ng-class="{loadingbar:loading}"><a href="#/home">Guestbook</a> <span ng-show="title"> => {{title}}</span></h3>
+
+<div class="row">
+	<table class="table table-striped">
+		<tbody>
+			<tr>
+				<td>ID</td>
+				<td>{{message.ID}}</td>
+			</tr>
+			<tr>
+				<td>Created</td>
+				<td>{{message.Created|moment:'YYYY-MM-DD HH:mm:ss'}}</td>
+			</tr>
+			<tr>
+				<td>Author</td>
+				<td>{{message.Author}}</td>
+			</tr>
+			<tr>
+				<td>Title</td>
+				<td>{{message.Title}}</td>
+			</tr>
+			<tr>
+				<td>Content</td>
+				<td>{{message.Content}}</td>
+			</tr>
+			<tr>
+				<td>Rating</td>
+				<td><span ng-show="message.Rating >= 0">{{message.Rating.toFixed(2)}}</span><span ng-show="message.Rating < 0">unknown</span></td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+
+<a href="#/home" class="btn btn-default">back</a>
+<a href="#/message/edit/{{message.ID}}" class="btn btn-primary">edit</a>
+<a href="#/message/delete/{{message.ID}}" class="btn btn-danger">delete</a>
+<a href="#/message/vote/{{message.ID}}" class="btn btn-success">vote</a>
+
+<h3>Comments</h3>
+<div ng-repeat="comment in message.Comments | orderBy:'Created'" class="bs-example">
+	<blockquote>
+		<p>{{comment.Content}}</p>
+		<footer><strong>{{comment.Author}}</strong> at {{message.Created|moment:'YYYY-MM-DD HH:mm:ss'}}</footer>
+		<br><p><a href="#/comment/view/{{comment.ID}}"><i class="fa fa-search" aria-hidden="true"></i> view</a> | <a href="#/comment/edit/{{comment.ID}}"><i class="fa fa-pencil-square-o" aria-hidden="true"></i> edit</a></p>
+	</blockquote>
+</div>
+
+<div>
+	<p>new comment:</p>
+	<table class="table table-striped">
+		<tr>
+			<td>Author</td>
+			<td><input type="text" class="form-control" ng-model="newComment.Author"></td>
+		</tr>
+		<tr>
+			<td>Content</td>
+			<td><textarea class="form-control" cols="80" rows="10" ng-model="newComment.Content"></textarea></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td><button ng-click="addComment()" class="btn btn-success">add new comment</button></td>
+		</tr>
+	</table>
+</div>

@@ -1,0 +1,67 @@
+Сервер предоставляет следующее API для работы с данными (все ответы в формате json вида {answer:data, error:{code:0}} ):
+
+GET /api/message - возвращает список сообщений
+	формат поля answer:
+		{list:[message1,message2,...,messageN]}
+	где
+		messageN - объект, содержащий поля сообщения (см. запрос GET /api/message?id=:messageID )
+
+GET /api/message?id=:messageID - возвращает указанное сообщение
+	формат поля answer:
+		{
+			ID:"4f7e9cce-a697-47fd-8129-a7ae0149709f",
+			Created:1499878767,
+			Author:"Вася",
+			Title:"Хорошая погода.",
+			Content:"Посмотрите, какой сегодня солнечный день!",
+			Comments:[comment1,comment2,...,commentN],
+			CommentsCount:N,
+			Rating:-1,
+		}
+	где
+		commentN - объект, содержащий поля комментария (см. запрос GET /api/comment?id=:commentID )
+		Comments - заполняется только в этом запросе (не заполняется в запросе к списку сообщений)
+		Rating - содержит -1 в случае, если рейтинг ещё не выставлен
+
+POST /api/message - сохраняет сообщение (в случае, если не указан ID, создаёт новое, в противном случае модифицирует имеющееся)
+	формат POST-запроса:
+		ID:4f7e9cce-a697-47fd-8129-a7ae0149709f
+		Title:Хорошая погода.
+		Author:Вася
+		Content:Посмотрите, какой сегодня солнечный день!
+	формат поля answer:
+		messageN
+
+DELETE /api/message?id=:messageID - удаляет указанное сообщение
+	формат поля answer:
+		messageN
+
+POST /api/rating - добавляет оценку к сообщений
+	формат POST-запроса:
+		MessageID:bae364de-1ada-4a84-8c93-a7ae014920b2
+		Value:2
+	формат поля answer:
+		ratingN
+	где
+		ratingN - объект вида {ID:"b7b4b324-0e0a-4971-bd52-a7af015702e8",Value:2}
+
+GET /api/comment?id=:commentID - возвращает указанный комментарий
+	формат поля answer:
+		{
+			ID:"295adfa6-c227-435c-92b9-a7ae014a2604",
+			Created:1499878922,
+			Author:"Коля",
+			Content:"Вообще жара!",
+		}
+
+POST /api/comment - сохраняет комментарий (в случае, если не указан ID, создаёт новый, в противном случае модифицирует имеющийся)
+	формат POST-запроса:
+		ID:295adfa6-c227-435c-92b9-a7ae014a2604
+		Author:Коля
+		Content:Вообще жара!
+	формат поля answer:
+		commentN
+
+DELETE /api/comment?id=:commentID - удаляет указанный комментарий
+	формат поля answer:
+		messageN

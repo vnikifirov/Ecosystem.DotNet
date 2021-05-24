@@ -1,0 +1,7 @@
+ќписание основных файлов:
+
+/_front/index.html - страница, в которую встроено приложение angularJS
+/_front/js/app.js - роуты дл€ angularJS
+/_front/js/controller.js - контроллеры angularJS
+/_front/js/services.js - сервис rest, оборачивающий http-запросы к API сервера
+/_front/template/* - шаблоны дл€ angularJS

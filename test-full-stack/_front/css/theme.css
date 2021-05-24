@@ -1,0 +1,181 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  padding-top: 60px;
+  padding-bottom: 30px;
+  margin-bottom: 60px;	/* Margin bottom by footer height */
+}
+#footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 60px;	/* Set the fixed height of the footer here */
+  background-color: #f5f5f5;
+}
+
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.dndPlaceholder{
+list-style-type:none;
+}
+
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+/*
+body > .container {
+  padding: 60px 15px 0;
+}
+*/
+.container .text-muted {
+  margin: 20px 0;
+}
+
+#footer > .container {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+input.ng-invalid-maxlength, input.ng-invalid-minlength { /* for elemnts wit validate-error */
+  border: rgba(255, 10, 10, 0.8); 
+  box-shadow: 0px 0px 5px rgb(255, 0, 0);
+  color: #f00;
+}
+
+/***						Order-view page							***/
+
+tr.Undefined  > td, .table-striped > tbody > tr.Undefined:nth-child(2n+1) > th,
+tr.SendFailed  > td, .table-striped > tbody > tr.SendFailed:nth-child(2n+1) > th,
+tr.R_New  > td, .table-striped > tbody > tr.R_New:nth-child(2n+1) > th
+{
+	background-color : #FFF;
+}
+
+.Undefined, tr.Undefined  > td, .table-striped > tbody > tr.Undefined:nth-child(2n+1) > th       { background-color : rgba(160, 160, 160, 0.2) !important; }
+.SendFailed, tr.SendFailed  > td, .table-striped > tbody > tr.SendFailed:nth-child(2n+1) > th { background-color : rgba(255, 110, 110, 0.1) !important; }
+.PaymentFailed , tr.PaymentFailed   > td, .table-striped > tbody > tr.PaymentFailed :nth-child(2n+1) > th { background-color : rgba(90, 0, 157, 0.1) !important; }
+.R_New , tr.R_New  > td, .table-striped > tbody > tr.R_New:nth-child(2n+1) > th      {	background-color : rgba(110, 255, 110, 0.1) !important; }
+.Sended , tr.Sended  > td, .table-striped > tbody > tr.Sended:nth-child(2n+1) > th{    background-color : rgba(110, 255, 110, 0.1) !important; }
+.Saved , tr.Saved  > td, .table-striped > tbody > tr.Saved:nth-child(2n+1) > th{    background-color : rgba(205, 215, 155, 0.1) !important; }
+
+.schelule { float:right; }
+
+.hour_checkbox, .day_checkbox { display : none !important; }
+
+.hour_checkbox + label, .day_checkbox + label {
+	
+	padding : 0.8em;
+	background-color : #7F8C8D;
+	margin : -1px !important;
+	margin-bottom : 2em !important;
+	cursor : pointer;
+	width : 26px;
+	height : 26px;
+	text-align : center;
+
+}
+
+.day_checkbox + label {
+	
+	margin-top : 2em !important;
+	width : auto;
+	height : auto;
+}
+
+.hour_checkbox:checked + label, .day_checkbox:checked + label  {
+	
+	background-color : #F1C40F;
+}
+
+.day_checkbox:checked + label  {
+	background: #F1C40F url('/file/images/check.png') no-repeat 50% 50%;
+}
+
+.time_hour {
+	
+	margin-top : -2em;
+	padding : 0.2em;
+}
+
+/*********************************************************************************/
+
+/* tree data */
+.treeDataBlock {
+	background:#eee;
+	margin:20px 0;
+}
+
+.treeDataTitle {
+	display:inline-block;
+	margin-right:100px;
+	font-size:1.5em;
+}
+
+.treeDataNode {
+	;
+}
+.treeDataNode .line {
+	padding-left:7px;
+	font-size:17px;
+}
+.treeDataNode .childs {
+	padding-left:21px;
+}
+.treeDataNode .line.hoverIntent {
+	background:#afa;cursor:pointer;
+}
+.treeDataNode .line.checked {
+	background:#ff7;
+	font-weight:bold;
+}
+.treeDataNode .line.radioSelected {
+	background:#aaf;
+	font-weight:bold;
+}
+.treeDataNode .line a {
+	margin:0 10px;
+}
+.treeDataNode .line input {
+	font-size:16px;
+}
+.treeDataNode .line span.nodeName {
+	display:inline-block;
+	padding: 3px;
+	width:45%;
+}
+
+.treeModifiers .line span.nodeName {
+	display:inline-block;
+	padding: 3px;
+	width:35%;
+}
+
+.treeDataNode span.nodeIcon {
+	width:15px;
+	text-align:center;
+}
+.treeDataNode span.nodeStatus {
+	width:15px;
+	text-align:center;
+}
+.treeDataNode span.nodePointer {
+	cursor:pointer;
+}
+.treeDataNode span.nodePointerless {
+	cursor:not-allowed;
+}
+.invisible {
+	visibility: hidden;
+}
+
+.loadingbar {
+	background: url('/file/images/loadingbar.gif');
+	background-size: 100% 100%;
+}

@@ -1,0 +1,28 @@
+<h3 ng-class="{loadingbar:loading}"><a href="#/home">Guestbook</a> <span ng-show="title"> => {{title}}</span></h3>
+
+<a href="#/message/add" class="btn btn-success"><i class="fa fa-plus" aria-hidden="true"></i> add new message</a>
+
+<div class="row">
+	<table class="table table-striped">
+		<thead>
+			<tr>
+				<td>Created</td>
+				<td>Author</td>
+				<td>Title</td>
+				<td>Content</td>
+				<td>Comments</td>
+				<td></td>
+			</tr>
+		</thead>
+		<tbody>
+			<tr ng-repeat="message in list | orderBy:'Created'">
+				<td>{{message.Created|moment:'YYYY-MM-DD HH:mm:ss'}}</td>
+				<td>{{message.Author}}</td>
+				<td>{{message.Title}}</td>
+				<td>{{message.Content}}</td>
+				<td><span class="badge">{{message.CommentsCount}}</span></td>
+				<td><a href="#/message/view/{{message.ID}}">view</a></td>
+			</tr>
+		</tbody>
+	</table>
+</div>

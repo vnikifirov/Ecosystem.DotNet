@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8DE0B532-2BF1-4DD3-8EFC-118CF6119322}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TestGuestbook</RootNamespace>
+    <AssemblyName>TestGuestbook</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\bin-debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\..\bin-release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CJE">
+      <HintPath>..\_bin\CJE.dll</HintPath>
+    </Reference>
+    <Reference Include="CJECommon">
+      <HintPath>..\_bin\CJECommon.dll</HintPath>
+    </Reference>
+    <Reference Include="CJEHttpServer">
+      <HintPath>..\_bin\CJEHttpServer.dll</HintPath>
+    </Reference>
+    <Reference Include="FluentNHibernate">
+      <HintPath>..\_bin\FluentNHibernate.dll</HintPath>
+    </Reference>
+    <Reference Include="NHibernate">
+      <HintPath>..\_bin\NHibernate.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Data\Comment.cs" />
+    <Compile Include="Data\Message.cs" />
+    <Compile Include="Data\Rating.cs" />
+    <Compile Include="DB\Comment.cs" />
+    <Compile Include="DB\Controller.cs" />
+    <Compile Include="DB\Mapping\CommentMap.cs" />
+    <Compile Include="DB\Mapping\MessageMap.cs" />
+    <Compile Include="DB\Mapping\RatingMap.cs" />
+    <Compile Include="DB\Message.cs" />
+    <Compile Include="DB\Rating.cs" />
+    <Compile Include="Form\Comment.cs" />
+    <Compile Include="Form\Message.cs" />
+    <Compile Include="Form\Rating.cs" />
+    <Compile Include="GuestbookModule.cs" />
+    <Compile Include="Handler\Comment.cs" />
+    <Compile Include="Handler\Message.cs" />
+    <Compile Include="Handler\Main.cs" />
+    <Compile Include="Handler\Rating.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>xcopy "$(TargetPath)" "$(SolutionDir)\Executable\Library" /F /Y
+if $(ConfigurationName) == Debug xcopy "$(TargetDir)$(TargetName).pdb" "$(SolutionDir)\Executable\Library" /F /Y</PostBuildEvent>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,27 @@
+<h3 ng-class="{loadingbar:loading}"><a href="#/home">Guestbook</a> <span ng-show="title"> => {{title}}</span></h3>
+
+<div class="row">
+	<table class="table table-striped">
+		<tbody>
+			<tr>
+				<td>ID</td>
+				<td>{{newComment.ID}}</td>
+			</tr>
+			<tr>
+				<td>Created</td>
+				<td>{{newComment.Created|moment:'YYYY-MM-DD HH:mm:ss'}}</td>
+			</tr>
+			<tr>
+				<td>Author</td>
+                <td><input type="text" class="form-control" ng-model="newComment.Author"></td>
+			</tr>
+			<tr>
+				<td>Content</td>
+                <td><input type="text" class="form-control" ng-model="newComment.Content"></td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+ 
+<a href="#/message/view/{{message.ID}}" class="btn btn-default">back</a>
+<button ng-click="addComment()" class="btn btn-success">save</button>

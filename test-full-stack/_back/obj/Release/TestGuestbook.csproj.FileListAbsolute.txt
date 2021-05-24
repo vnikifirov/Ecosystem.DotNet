@@ -1,0 +1,7 @@
+C:\Users\nikif\OneDrive\Рабочий стол\bin-release\TestGuestbook.dll
+C:\Users\nikif\OneDrive\Рабочий стол\bin-release\TestGuestbook.pdb
+C:\Users\nikif\OneDrive\Рабочий стол\test-full-stack\_back\obj\Release\TestGuestbook.csprojAssemblyReference.cache
+C:\Users\nikif\OneDrive\Рабочий стол\test-full-stack\_back\obj\Release\TestGuestbook.csproj.CoreCompileInputs.cache
+C:\Users\nikif\OneDrive\Рабочий стол\test-full-stack\_back\obj\Release\TestGuestbook.csproj.CopyComplete
+C:\Users\nikif\OneDrive\Рабочий стол\test-full-stack\_back\obj\Release\TestGuestbook.dll
+C:\Users\nikif\OneDrive\Рабочий стол\test-full-stack\_back\obj\Release\TestGuestbook.pdb

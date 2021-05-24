@@ -1,0 +1,44 @@
+<h3 ng-class="{loadingbar:loading}"><a href="#/home">Guestbook</a> <span ng-show="title"> => {{title}}</span></h3>
+
+<div class="row">
+	<table class="table table-striped">
+		<tbody>
+			<tr>
+				<td>ID</td>
+				<td>{{message.ID}}</td>
+			</tr>
+			<tr>
+				<td>Created</td>
+				<td>{{message.Created|moment:'YYYY-MM-DD HH:mm:ss'}}</td>
+			</tr>
+			<tr>
+				<td>Author</td>
+				<td>{{message.Author}}</td>
+			</tr>
+			<tr>
+				<td>Title</td>
+				<td>{{message.Title}}</td>
+			</tr>
+			<tr>
+				<td>Content</td>
+				<td>{{message.Content}}</td>
+			</tr>
+			<tr>
+				<td>Rating</td>
+				<td><span ng-show="message.Rating >= 0">{{message.Rating.toFixed(2)}}</span><span ng-show="message.Rating < 0">unknown</span></td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+
+<div>
+    Set rating: 
+    <button ng-click="setVote(1)" class="btn btn-outline-warning">1 star</button>
+    <button ng-click="setVote(2)" class="btn btn-outline-warning">2 star</button>
+    <button ng-click="setVote(3)" class="btn btn-outline-warning">3 star</button>
+    <button ng-click="setVote(4)" class="btn btn-outline-warning">4 star</button>
+    <button ng-click="setVote(5)" class="btn btn-outline-warning">5 star</button>
+</div>
+
+<a href="#/message/view/{{message.ID}}" class="btn btn-default">back</a>
+<button ng-click="addVote()" class="btn btn-success">vote</button>
