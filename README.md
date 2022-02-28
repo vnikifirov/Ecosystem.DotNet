@@ -14,7 +14,7 @@
 
 6. [WCF Routing - My initiative Service](https://github.com/vnikifirov/DotNet/tree/master/RoutingService)
 
-7. [University project Advertising - KIU Agency](https://github.com/vnikifirov/DotNet/tree/master/AdvertisingAgency)
+7. [University project Advertising Agency - KIU](https://github.com/vnikifirov/DotNet/tree/master/AdvertisingAgency)
 
 8. [ClearScript Threads](https://github.com/vnikifirov/DotNet/tree/master/ClearScript_Threads)
 
