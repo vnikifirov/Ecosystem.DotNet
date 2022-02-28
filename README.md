@@ -24,19 +24,19 @@
 
 11. [Junior/Middle Test Full Stack - ARORA marketing agency](https://github.com/vnikifirov/DotNet/tree/master/test-full-stack)
 
-12. [Middle/Senior Test TestTaskTracker SDE (.Net) - Akvelon agency](https://github.com/vnikifirov/DotNet/tree/master/TestTaskTracker)
+12. [Middle/Senior Test TestTaskTracker SDE (.Net) - Akvelon](https://github.com/vnikifirov/DotNet/tree/master/TestTaskTracker)
 
-13. [Junior/Middle Test Tasks - SimbirSoft agency](https://github.com/vnikifirov/DotNet/tree/master/WordCounter)
+13. [Junior/Middle Test Tasks - SimbirSoft](https://github.com/vnikifirov/DotNet/tree/master/WordCounter)
 
-14. [Middle/Senior Test SentenceComposer - FriendWork agency](https://github.com/vnikifirov/DotNet/tree/master/SentenceComposer)
+14. [Middle/Senior Test SentenceComposer - FriendWork](https://github.com/vnikifirov/DotNet/tree/master/SentenceComposer)
 
-15. [Middle/Senior Test CyclicTask - SharpDev agency](https://github.com/vnikifirov/DotNet/tree/master/CyclicTask)
+15. [Middle/Senior Test CyclicTask - SharpDev](https://github.com/vnikifirov/DotNet/tree/master/CyclicTask)
 
-16. [Middle/Senior Test BalanceOfParentheses - mentor Алексей Захаров Senior .Net-developer agency](https://github.com/vnikifirov/DotNet/tree/master/BalanceOfParentheses)
+16. [Middle/Senior Test BalanceOfParentheses - mentor Алексей Захаров Senior .Net-developer](https://github.com/vnikifirov/DotNet/tree/master/BalanceOfParentheses)
 
-17. [All of our lessons examples TimeZoneTest - mentor Алексей Захаров Senior .Net-developer agency](https://github.com/vnikifirov/DotNet/tree/master/mentor)
+17. [All of our lessons examples TimeZoneTest - mentor Алексей Захаров Senior .Net-developer agency](https://github.com/vnikifirov/DotNet/tree/master/TimeZoneTest)
 
-18. [Example of Closure in .NET - mentor Алексей Захаров Senior .Net-developer agency](https://github.com/vnikifirov/DotNet/tree/master/Closure)
+18. [Example of Closure in .NET - mentor Алексей Захаров Senior .Net-developer](https://github.com/vnikifirov/DotNet/tree/master/Closure)
 
 # Note
 
