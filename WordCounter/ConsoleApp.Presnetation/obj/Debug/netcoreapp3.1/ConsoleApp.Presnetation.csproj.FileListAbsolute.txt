@@ -1,0 +1,12 @@
+/Users/lucifer/Projects/WordCounter/ConsoleApp.Presnetation/bin/Debug/netcoreapp3.1/ConsoleApp.Presnetation.deps.json
+/Users/lucifer/Projects/WordCounter/ConsoleApp.Presnetation/bin/Debug/netcoreapp3.1/ConsoleApp.Presnetation.runtimeconfig.json
+/Users/lucifer/Projects/WordCounter/ConsoleApp.Presnetation/bin/Debug/netcoreapp3.1/ConsoleApp.Presnetation.runtimeconfig.dev.json
+/Users/lucifer/Projects/WordCounter/ConsoleApp.Presnetation/bin/Debug/netcoreapp3.1/ConsoleApp.Presnetation.dll
+/Users/lucifer/Projects/WordCounter/ConsoleApp.Presnetation/bin/Debug/netcoreapp3.1/ConsoleApp.Presnetation.pdb
+/Users/lucifer/Projects/WordCounter/ConsoleApp.Presnetation/obj/Debug/netcoreapp3.1/ConsoleApp.Presnetation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucifer/Projects/WordCounter/ConsoleApp.Presnetation/obj/Debug/netcoreapp3.1/ConsoleApp.Presnetation.AssemblyInfoInputs.cache
+/Users/lucifer/Projects/WordCounter/ConsoleApp.Presnetation/obj/Debug/netcoreapp3.1/ConsoleApp.Presnetation.AssemblyInfo.cs
+/Users/lucifer/Projects/WordCounter/ConsoleApp.Presnetation/obj/Debug/netcoreapp3.1/ConsoleApp.Presnetation.csproj.CoreCompileInputs.cache
+/Users/lucifer/Projects/WordCounter/ConsoleApp.Presnetation/obj/Debug/netcoreapp3.1/ConsoleApp.Presnetation.dll
+/Users/lucifer/Projects/WordCounter/ConsoleApp.Presnetation/obj/Debug/netcoreapp3.1/ConsoleApp.Presnetation.pdb
+/Users/lucifer/Projects/WordCounter/ConsoleApp.Presnetation/obj/Debug/netcoreapp3.1/ConsoleApp.Presnetation.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+/Users/lucifer/Projects/CyclicTask/CyclicTask/bin/Debug/netcoreapp3.1/CyclicTask.deps.json
+/Users/lucifer/Projects/CyclicTask/CyclicTask/bin/Debug/netcoreapp3.1/CyclicTask.runtimeconfig.json
+/Users/lucifer/Projects/CyclicTask/CyclicTask/bin/Debug/netcoreapp3.1/CyclicTask.runtimeconfig.dev.json
+/Users/lucifer/Projects/CyclicTask/CyclicTask/bin/Debug/netcoreapp3.1/CyclicTask.dll
+/Users/lucifer/Projects/CyclicTask/CyclicTask/bin/Debug/netcoreapp3.1/CyclicTask.pdb
+/Users/lucifer/Projects/CyclicTask/CyclicTask/obj/Debug/netcoreapp3.1/CyclicTask.csproj.AssemblyReference.cache
+/Users/lucifer/Projects/CyclicTask/CyclicTask/obj/Debug/netcoreapp3.1/CyclicTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucifer/Projects/CyclicTask/CyclicTask/obj/Debug/netcoreapp3.1/CyclicTask.AssemblyInfoInputs.cache
+/Users/lucifer/Projects/CyclicTask/CyclicTask/obj/Debug/netcoreapp3.1/CyclicTask.AssemblyInfo.cs
+/Users/lucifer/Projects/CyclicTask/CyclicTask/obj/Debug/netcoreapp3.1/CyclicTask.csproj.CoreCompileInputs.cache
+/Users/lucifer/Projects/CyclicTask/CyclicTask/obj/Debug/netcoreapp3.1/CyclicTask.dll
+/Users/lucifer/Projects/CyclicTask/CyclicTask/obj/Debug/netcoreapp3.1/CyclicTask.pdb
+/Users/lucifer/Projects/CyclicTask/CyclicTask/obj/Debug/netcoreapp3.1/CyclicTask.genruntimeconfig.cache

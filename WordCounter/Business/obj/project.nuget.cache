@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ojAYGRKnh8UG9lvPf7XocfkbachBX6XXRMDfGH7z1aYpfN2NgIwmkb+oHCk/9L/wlayiC8EGyqpw+hXe2v1NRw==",
+  "success": true,
+  "projectFilePath": "/Users/lucifer/Projects/WordCounter/Business/Business.csproj",
+  "expectedPackageFiles": [
+    "/Users/lucifer/.nuget/packages/htmlagilitypack/1.11.42/htmlagilitypack.1.11.42.nupkg.sha512"
+  ],
+  "logs": []
+}

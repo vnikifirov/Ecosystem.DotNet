@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Business</name>
+    </assembly>
+    <members>
+        <member name="T:Business.Services.Domain.Responses.TaskResponse">
+            <summary>
+            Task
+            </summary>
+        </member>
+        <member name="P:Business.Services.Domain.Responses.TaskResponse.Name">
+            <summary>
+            Name
+            </summary>
+        </member>
+        <member name="P:Business.Services.Domain.Responses.TaskResponse.Description">
+            <summary>
+            Description
+            </summary>
+        </member>
+        <member name="T:Business.Services.Implementations.TaskService">
+            <inheritdoc/>
+        </member>
+        <member name="M:Business.Services.Implementations.TaskService.GetAll(System.Threading.CancellationToken)">
+            <inheritdoc/>
+        </member>
+        <member name="M:Business.Services.Implementations.TaskService.GetById(System.Int64,System.Threading.CancellationToken)">
+            <inheritdoc/>
+        </member>
+        <member name="T:Business.Services.Interfaces.ITaskService">
+            <summary>
+            Tasks business logic
+            </summary>
+        </member>
+        <member name="M:Business.Services.Interfaces.ITaskService.GetById(System.Int64,System.Threading.CancellationToken)">
+            <summary>
+            Get task by id
+            </summary>
+            <param name="id">Id</param>
+            <param name="cansellationToken"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Business.Services.Interfaces.ITaskService.GetAll(System.Threading.CancellationToken)">
+            <summary>
+            Get all tasks
+            </summary>
+            <param name="cansellationToken"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

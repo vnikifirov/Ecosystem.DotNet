@@ -1,0 +1,13 @@
+/Users/lucifer/Projects/Closure/Closure/bin/Debug/netcoreapp3.1/Closure.deps.json
+/Users/lucifer/Projects/Closure/Closure/bin/Debug/netcoreapp3.1/Closure.runtimeconfig.json
+/Users/lucifer/Projects/Closure/Closure/bin/Debug/netcoreapp3.1/Closure.runtimeconfig.dev.json
+/Users/lucifer/Projects/Closure/Closure/bin/Debug/netcoreapp3.1/Closure.dll
+/Users/lucifer/Projects/Closure/Closure/bin/Debug/netcoreapp3.1/Closure.pdb
+/Users/lucifer/Projects/Closure/Closure/obj/Debug/netcoreapp3.1/Closure.csproj.AssemblyReference.cache
+/Users/lucifer/Projects/Closure/Closure/obj/Debug/netcoreapp3.1/Closure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucifer/Projects/Closure/Closure/obj/Debug/netcoreapp3.1/Closure.AssemblyInfoInputs.cache
+/Users/lucifer/Projects/Closure/Closure/obj/Debug/netcoreapp3.1/Closure.AssemblyInfo.cs
+/Users/lucifer/Projects/Closure/Closure/obj/Debug/netcoreapp3.1/Closure.csproj.CoreCompileInputs.cache
+/Users/lucifer/Projects/Closure/Closure/obj/Debug/netcoreapp3.1/Closure.dll
+/Users/lucifer/Projects/Closure/Closure/obj/Debug/netcoreapp3.1/Closure.pdb
+/Users/lucifer/Projects/Closure/Closure/obj/Debug/netcoreapp3.1/Closure.genruntimeconfig.cache

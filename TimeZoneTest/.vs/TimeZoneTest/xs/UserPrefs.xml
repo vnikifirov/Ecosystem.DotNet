@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{F10CEFC9-91CA-4B1F-B593-590C0AA632A2}|Default">
+  <MonoDevelop.Ide.ItemProperties.TimeZoneTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TimeZoneTest/Sem.cs">
+    <Files>
+      <File FileName="TimeZoneTest/Sem.cs" Line="45" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TimeZoneTest" expanded="True">
+            <Node name="TimeZoneTest" expanded="True">
+              <Node name="Sem.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

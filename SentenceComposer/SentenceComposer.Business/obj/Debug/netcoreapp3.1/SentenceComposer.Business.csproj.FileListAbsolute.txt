@@ -1,0 +1,9 @@
+/Users/lucifer/Projects/SentenceComposer/SentenceComposer.Business/bin/Debug/netcoreapp3.1/SentenceComposer.Business.deps.json
+/Users/lucifer/Projects/SentenceComposer/SentenceComposer.Business/bin/Debug/netcoreapp3.1/SentenceComposer.Business.dll
+/Users/lucifer/Projects/SentenceComposer/SentenceComposer.Business/bin/Debug/netcoreapp3.1/SentenceComposer.Business.pdb
+/Users/lucifer/Projects/SentenceComposer/SentenceComposer.Business/obj/Debug/netcoreapp3.1/SentenceComposer.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucifer/Projects/SentenceComposer/SentenceComposer.Business/obj/Debug/netcoreapp3.1/SentenceComposer.Business.AssemblyInfoInputs.cache
+/Users/lucifer/Projects/SentenceComposer/SentenceComposer.Business/obj/Debug/netcoreapp3.1/SentenceComposer.Business.AssemblyInfo.cs
+/Users/lucifer/Projects/SentenceComposer/SentenceComposer.Business/obj/Debug/netcoreapp3.1/SentenceComposer.Business.csproj.CoreCompileInputs.cache
+/Users/lucifer/Projects/SentenceComposer/SentenceComposer.Business/obj/Debug/netcoreapp3.1/SentenceComposer.Business.dll
+/Users/lucifer/Projects/SentenceComposer/SentenceComposer.Business/obj/Debug/netcoreapp3.1/SentenceComposer.Business.pdb

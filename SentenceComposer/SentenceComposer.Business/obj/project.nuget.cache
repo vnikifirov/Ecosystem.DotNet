@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "s0eDid7LF5LOT7yoATu14a1g+KaO/CLPaH9YS9ehrAqc+VF8Qu+PND3ruMa6UCk5d7rHrExYSuAc5XZBsPDpDg==",
+  "success": true,
+  "projectFilePath": "/Users/lucifer/Projects/SentenceComposer/SentenceComposer.Business/SentenceComposer.Business.csproj",
+  "expectedPackageFiles": [
+    "/Users/lucifer/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/lucifer/.nuget/packages/system.text.encoding.codepages/6.0.0/system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

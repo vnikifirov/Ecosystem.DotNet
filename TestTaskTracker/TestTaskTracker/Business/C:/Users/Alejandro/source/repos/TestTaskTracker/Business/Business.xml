@@ -1,0 +1,383 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Business</name>
+    </assembly>
+    <members>
+        <member name="T:Business.Services.Domain.Requests.CreateProjectRequest">
+            <summary>
+            On Create Project API resource
+            </summary>
+        </member>
+        <member name="P:Business.Services.Domain.Requests.CreateProjectRequest.Id">
+            <summary>
+            Id
+            </summary>
+        </member>
+        <member name="P:Business.Services.Domain.Requests.CreateProjectRequest.Name">
+            <summary>
+            Name
+            </summary>
+        </member>
+        <member name="P:Business.Services.Domain.Requests.CreateProjectRequest.Start">
+            <summary>
+            Start date
+            </summary>
+        </member>
+        <member name="P:Business.Services.Domain.Requests.CreateProjectRequest.Completion">
+            <summary>
+            Completion date
+            </summary>
+        </member>
+        <member name="P:Business.Services.Domain.Requests.CreateProjectRequest.Status">
+            <summary>
+            Status
+            </summary>
+        </member>
+        <member name="P:Business.Services.Domain.Requests.CreateProjectRequest.Tasks">
+            <summary>
+            Tasks
+            </summary>
+        </member>
+        <member name="P:Business.Services.Domain.Requests.CreateProjectRequest.Priority">
+            <summary>
+            Priority
+            </summary>
+        </member>
+        <member name="T:Business.Services.Domain.Requests.CreateTaskRequest">
+            <summary>
+            On Create Task API resource
+            </summary>
+        </member>
+        <member name="P:Business.Services.Domain.Requests.CreateTaskRequest.Id">
+            <summary>
+            Id
+            </summary>
+        </member>
+        <member name="P:Business.Services.Domain.Requests.CreateTaskRequest.Status">
+            <summary>
+            Status
+            </summary>
+        </member>
+        <member name="P:Business.Services.Domain.Requests.CreateTaskRequest.Name">
+            <summary>
+            Name
+            </summary>
+        </member>
+        <member name="P:Business.Services.Domain.Requests.CreateTaskRequest.Description">
+            <summary>
+            Description
+            </summary>
+        </member>
+        <member name="P:Business.Services.Domain.Requests.CreateTaskRequest.Project">
+            <summary>
+            Project
+            </summary>
+        </member>
+        <member name="P:Business.Services.Domain.Requests.CreateTaskRequest.Id_Project">
+            <summary>
+            Id_Project
+            </summary>
+        </member>
+        <member name="P:Business.Services.Domain.Requests.CreateTaskRequest.Priority">
+            <summary>
+            Priority
+            </summary>
+        </member>
+        <member name="T:Business.Services.Domain.Requests.SaveProjectRequest">
+            <summary>
+            On Save Project API resource
+            </summary>
+        </member>
+        <member name="P:Business.Services.Domain.Requests.SaveProjectRequest.Id">
+            <summary>
+            Id
+            </summary>
+        </member>
+        <member name="P:Business.Services.Domain.Requests.SaveProjectRequest.Name">
+            <summary>
+            Name
+            </summary>
+        </member>
+        <member name="P:Business.Services.Domain.Requests.SaveProjectRequest.Start">
+            <summary>
+            Start date
+            </summary>
+        </member>
+        <member name="P:Business.Services.Domain.Requests.SaveProjectRequest.Completion">
+            <summary>
+            Completion date
+            </summary>
+        </member>
+        <member name="P:Business.Services.Domain.Requests.SaveProjectRequest.Status">
+            <summary>
+            Status
+            </summary>
+        </member>
+        <member name="P:Business.Services.Domain.Requests.SaveProjectRequest.Tasks">
+            <summary>
+            Tasks
+            </summary>
+        </member>
+        <member name="P:Business.Services.Domain.Requests.SaveProjectRequest.Priority">
+            <summary>
+            Priority
+            </summary>
+        </member>
+        <member name="T:Business.Services.Domain.Requests.SaveTaskRequest">
+            <summary>
+            On Save Task API resource
+            </summary>
+        </member>
+        <member name="P:Business.Services.Domain.Requests.SaveTaskRequest.Id">
+            <summary>
+            Id
+            </summary>
+        </member>
+        <member name="P:Business.Services.Domain.Requests.SaveTaskRequest.Status">
+            <summary>
+            Status
+            </summary>
+        </member>
+        <member name="P:Business.Services.Domain.Requests.SaveTaskRequest.Name">
+            <summary>
+            Name
+            </summary>
+        </member>
+        <member name="P:Business.Services.Domain.Requests.SaveTaskRequest.Description">
+            <summary>
+            Description
+            </summary>
+        </member>
+        <member name="P:Business.Services.Domain.Requests.SaveTaskRequest.Project">
+            <summary>
+            Project
+            </summary>
+        </member>
+        <member name="P:Business.Services.Domain.Requests.SaveTaskRequest.Id_Project">
+            <summary>
+            Id_Project
+            </summary>
+        </member>
+        <member name="P:Business.Services.Domain.Requests.SaveTaskRequest.Priority">
+            <summary>
+            Priority
+            </summary>
+        </member>
+        <member name="T:Business.Services.Domain.Responses.ProjectResponse">
+            <summary>
+            Project respone API resource
+            </summary>
+        </member>
+        <member name="P:Business.Services.Domain.Responses.ProjectResponse.Id">
+            <summary>
+            Id
+            </summary>
+        </member>
+        <member name="P:Business.Services.Domain.Responses.ProjectResponse.Name">
+            <summary>
+            Name
+            </summary>
+        </member>
+        <member name="P:Business.Services.Domain.Responses.ProjectResponse.Start">
+            <summary>
+            Start date
+            </summary>
+        </member>
+        <member name="P:Business.Services.Domain.Responses.ProjectResponse.Completion">
+            <summary>
+            Completion date
+            </summary>
+        </member>
+        <member name="P:Business.Services.Domain.Responses.ProjectResponse.Status">
+            <summary>
+            Status
+            </summary>
+        </member>
+        <member name="P:Business.Services.Domain.Responses.ProjectResponse.Tasks">
+            <summary>
+            Tasks
+            </summary>
+        </member>
+        <member name="P:Business.Services.Domain.Responses.ProjectResponse.Priority">
+            <summary>
+            Priority
+            </summary>
+        </member>
+        <member name="T:Business.Services.Domain.Responses.TaskResponse">
+            <summary>
+            Task respone API resource
+            </summary>
+        </member>
+        <member name="P:Business.Services.Domain.Responses.TaskResponse.Id">
+            <summary>
+            Id
+            </summary>
+        </member>
+        <member name="P:Business.Services.Domain.Responses.TaskResponse.Status">
+            <summary>
+            Status
+            </summary>
+        </member>
+        <member name="P:Business.Services.Domain.Responses.TaskResponse.Name">
+            <summary>
+            Name
+            </summary>
+        </member>
+        <member name="P:Business.Services.Domain.Responses.TaskResponse.Description">
+            <summary>
+            Description
+            </summary>
+        </member>
+        <member name="P:Business.Services.Domain.Responses.TaskResponse.Project">
+            <summary>
+            Project
+            </summary>
+        </member>
+        <member name="P:Business.Services.Domain.Responses.TaskResponse.Id_Project">
+            <summary>
+            Id_Project
+            </summary>
+        </member>
+        <member name="P:Business.Services.Domain.Responses.TaskResponse.Priority">
+            <summary>
+            Priority
+            </summary>
+        </member>
+        <member name="T:Business.Services.Implementations.ProjectService">
+            <inheritdoc/>
+        </member>
+        <member name="M:Business.Services.Implementations.ProjectService.AddAsync(Business.Services.Domain.Requests.CreateProjectRequest,System.Threading.CancellationToken)">
+            <inheritdoc/>
+        </member>
+        <member name="M:Business.Services.Implementations.ProjectService.AddRangeAsync(System.Collections.Generic.IEnumerable{Business.Services.Domain.Requests.CreateProjectRequest},System.Threading.CancellationToken)">
+            <inheritdoc/>
+        </member>
+        <member name="M:Business.Services.Implementations.ProjectService.GetAllAsync(Business.Services.Domain.Responses.ProjectQuery,System.Threading.CancellationToken)">
+            <inheritdoc/>
+        </member>
+        <member name="M:Business.Services.Implementations.ProjectService.GetByIdAsync(System.Int64,System.Threading.CancellationToken,System.Boolean)">
+            <inheritdoc/>
+        </member>
+        <member name="M:Business.Services.Implementations.ProjectService.RemoveAsync(System.Int64,System.Threading.CancellationToken)">
+            <inheritdoc/>
+        </member>
+        <member name="M:Business.Services.Implementations.ProjectService.UpdateAsync(Business.Services.Domain.Requests.SaveProjectRequest,System.Threading.CancellationToken)">
+            <inheritdoc/>
+        </member>
+        <member name="T:Business.Services.Implementations.TaskService">
+            <inheritdoc/>
+        </member>
+        <member name="M:Business.Services.Implementations.TaskService.AddAsync(Business.Services.Domain.Requests.CreateTaskRequest,System.Threading.CancellationToken)">
+            <inheritdoc/>
+        </member>
+        <member name="M:Business.Services.Implementations.TaskService.AddRangeAsync(System.Collections.Generic.IEnumerable{Business.Services.Domain.Requests.CreateTaskRequest},System.Threading.CancellationToken)">
+            <inheritdoc/>
+        </member>
+        <member name="M:Business.Services.Implementations.TaskService.GetAllAsync(System.Threading.CancellationToken,System.Boolean)">
+            <inheritdoc/>
+        </member>
+        <member name="M:Business.Services.Implementations.TaskService.GetByIdAsync(System.Int64,System.Threading.CancellationToken,System.Boolean)">
+            <inheritdoc/>
+        </member>
+        <member name="M:Business.Services.Implementations.TaskService.RemoveAsync(System.Int64,System.Threading.CancellationToken)">
+            <inheritdoc/>
+        </member>
+        <member name="M:Business.Services.Implementations.TaskService.UpdateAsync(Business.Services.Domain.Requests.SaveTaskRequest,System.Threading.CancellationToken)">
+            <inheritdoc/>
+        </member>
+        <member name="T:Business.Services.Interfaces.IProjectService">
+            <summary>
+            Proejcts business logic
+            </summary>
+        </member>
+        <member name="M:Business.Services.Interfaces.IProjectService.GetByIdAsync(System.Int64,System.Threading.CancellationToken,System.Boolean)">
+            <summary>
+            Get project by id
+            </summary>
+            <param name="id">Id</param>
+            <param name="cansellationToken"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Business.Services.Interfaces.IProjectService.GetAllAsync(Business.Services.Domain.Responses.ProjectQuery,System.Threading.CancellationToken)">
+            <summary>
+            Get all projects and you can apply complex query (eg get project by its name, start date)
+            </summary>
+            <param name="queryObj">Query object</param>
+            <param name="cansellationToken"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Business.Services.Interfaces.IProjectService.AddAsync(Business.Services.Domain.Requests.CreateProjectRequest,System.Threading.CancellationToken)">
+            <summary>
+            Insert new project into DataBase 
+            </summary>
+            <param name="project">Project</param>
+        </member>
+        <member name="M:Business.Services.Interfaces.IProjectService.AddRangeAsync(System.Collections.Generic.IEnumerable{Business.Services.Domain.Requests.CreateProjectRequest},System.Threading.CancellationToken)">
+            <summary>
+            Insert new project into DataBase 
+            </summary>
+            <param name="project">Project</param>
+        </member>
+        <member name="M:Business.Services.Interfaces.IProjectService.UpdateAsync(Business.Services.Domain.Requests.SaveProjectRequest,System.Threading.CancellationToken)">
+            <summary>
+            Update existing project in DataBase 
+            </summary>
+            <param name="project">Project</param>
+        </member>
+        <member name="M:Business.Services.Interfaces.IProjectService.RemoveAsync(System.Int64,System.Threading.CancellationToken)">
+            <summary>
+            Remove existing project from DataBase by id
+            </summary>
+            <param name="id">Project id</param>
+        </member>
+        <member name="T:Business.Services.Interfaces.ITaskService">
+            <summary>
+            Tasks business logic
+            </summary>
+        </member>
+        <member name="M:Business.Services.Interfaces.ITaskService.GetByIdAsync(System.Int64,System.Threading.CancellationToken,System.Boolean)">
+            <summary>
+            Get task by id
+            </summary>
+            <param name="id">Id</param>
+            <param name="cansellationToken"></param>
+            <param name="includeRelated"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Business.Services.Interfaces.ITaskService.GetAllAsync(System.Threading.CancellationToken,System.Boolean)">
+            <summary>
+            Get all tasks
+            </summary>
+            <param name="cansellationToken"></param>
+            <param name="includeRelated"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Business.Services.Interfaces.ITaskService.AddAsync(Business.Services.Domain.Requests.CreateTaskRequest,System.Threading.CancellationToken)">
+            <summary>
+            Insert new Task into DataBase 
+            </summary>
+            <param name="task">Task</param>
+        </member>
+        <member name="M:Business.Services.Interfaces.ITaskService.AddRangeAsync(System.Collections.Generic.IEnumerable{Business.Services.Domain.Requests.CreateTaskRequest},System.Threading.CancellationToken)">
+            <summary>
+            Insert new Tasks into DataBase 
+            </summary>
+            <param name="tasks">Task</param>
+        </member>
+        <member name="M:Business.Services.Interfaces.ITaskService.UpdateAsync(Business.Services.Domain.Requests.SaveTaskRequest,System.Threading.CancellationToken)">
+            <summary>
+            Update existing Task in DataBase 
+            </summary>
+            <param name="id">id of task</param>
+            <param name="task">Task</param>
+            <param name="cancellationToken"></param>
+        </member>
+        <member name="M:Business.Services.Interfaces.ITaskService.RemoveAsync(System.Int64,System.Threading.CancellationToken)">
+            <summary>
+            Remove existing Task from DataBase 
+            </summary>
+            <param name="id">Task id</param>
+        </member>
+    </members>
+</doc>

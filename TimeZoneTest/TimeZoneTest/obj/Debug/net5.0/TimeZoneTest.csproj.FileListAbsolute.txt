@@ -1,0 +1,16 @@
+C:\Users\Alejandro\source\repos\TimeZoneTest\TimeZoneTest\bin\Debug\net5.0\TimeZoneTest.exe
+C:\Users\Alejandro\source\repos\TimeZoneTest\TimeZoneTest\bin\Debug\net5.0\TimeZoneTest.deps.json
+C:\Users\Alejandro\source\repos\TimeZoneTest\TimeZoneTest\bin\Debug\net5.0\TimeZoneTest.runtimeconfig.json
+C:\Users\Alejandro\source\repos\TimeZoneTest\TimeZoneTest\bin\Debug\net5.0\TimeZoneTest.runtimeconfig.dev.json
+C:\Users\Alejandro\source\repos\TimeZoneTest\TimeZoneTest\bin\Debug\net5.0\TimeZoneTest.dll
+C:\Users\Alejandro\source\repos\TimeZoneTest\TimeZoneTest\bin\Debug\net5.0\ref\TimeZoneTest.dll
+C:\Users\Alejandro\source\repos\TimeZoneTest\TimeZoneTest\bin\Debug\net5.0\TimeZoneTest.pdb
+C:\Users\Alejandro\source\repos\TimeZoneTest\TimeZoneTest\obj\Debug\net5.0\TimeZoneTest.csproj.AssemblyReference.cache
+C:\Users\Alejandro\source\repos\TimeZoneTest\TimeZoneTest\obj\Debug\net5.0\TimeZoneTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\source\repos\TimeZoneTest\TimeZoneTest\obj\Debug\net5.0\TimeZoneTest.AssemblyInfoInputs.cache
+C:\Users\Alejandro\source\repos\TimeZoneTest\TimeZoneTest\obj\Debug\net5.0\TimeZoneTest.AssemblyInfo.cs
+C:\Users\Alejandro\source\repos\TimeZoneTest\TimeZoneTest\obj\Debug\net5.0\TimeZoneTest.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\source\repos\TimeZoneTest\TimeZoneTest\obj\Debug\net5.0\TimeZoneTest.dll
+C:\Users\Alejandro\source\repos\TimeZoneTest\TimeZoneTest\obj\Debug\net5.0\ref\TimeZoneTest.dll
+C:\Users\Alejandro\source\repos\TimeZoneTest\TimeZoneTest\obj\Debug\net5.0\TimeZoneTest.pdb
+C:\Users\Alejandro\source\repos\TimeZoneTest\TimeZoneTest\obj\Debug\net5.0\TimeZoneTest.genruntimeconfig.cache
