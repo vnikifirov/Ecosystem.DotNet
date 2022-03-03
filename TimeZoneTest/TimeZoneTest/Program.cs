@@ -13,7 +13,7 @@ namespace TimeZoneTest
     {
         static void Main(string[] args)
         {
-            new Conc().GlobalAdd();
+            //new Conc().GlobalAdd();
             
             var sem = new Sem(); // heap
             sem.Count();
@@ -78,6 +78,30 @@ namespace TimeZoneTest
             results.Wait();
 
             Console.WriteLine(f2.sum);
+
+            Console.ReadLine();
+
+
+            var x = 3;
+            var y = 3;
+
+            var sw = Stopwatch.StartNew();
+            var robot = Robot.GetPathF(x, y);
+            sw.Stop();
+            Console.WriteLine(robot);
+            Console.WriteLine(sw.ElapsedMilliseconds);
+
+            var swM = Stopwatch.StartNew();
+            var robotM = Robot.GetPathFMemoize(x, y);
+            swM.Stop();
+            Console.WriteLine(robotM);
+            Console.WriteLine(swM.ElapsedMilliseconds);
+
+            var swL = Stopwatch.StartNew();
+            var robotL = Robot.GetPathFMemoizeLazy(x, y);
+            swL.Stop();
+            Console.WriteLine(robotL);
+            Console.WriteLine(swL.ElapsedMilliseconds);
 
             Console.ReadLine();
         }
