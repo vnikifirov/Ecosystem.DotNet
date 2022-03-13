@@ -34,7 +34,7 @@
 
 16. [Middle/Senior Test BalanceOfParentheses - mentor Алексей Захаров Senior .Net-developer](https://github.com/vnikifirov/DotNet/tree/master/BalanceOfParentheses)
 
-17. [All of our lessons examples TimeZoneTest - mentor Алексей Захаров Senior .Net-developer agency](https://github.com/vnikifirov/DotNet/tree/master/TimeZoneTest)
+17. [All of our lessons examples TimeZoneTest - mentor Алексей Захаров Senior .Net-developer](https://github.com/vnikifirov/DotNet/tree/master/TimeZoneTest)
 
 18. [Example of Closure in .NET - mentor Алексей Захаров Senior .Net-developer](https://github.com/vnikifirov/DotNet/tree/master/Closure)
 
