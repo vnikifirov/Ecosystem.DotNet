@@ -1,0 +1,13 @@
+/Users/lucifer/Projects/PolindromePhrase/PolindromePhrase/bin/Debug/netcoreapp3.1/PolindromePhrase.deps.json
+/Users/lucifer/Projects/PolindromePhrase/PolindromePhrase/bin/Debug/netcoreapp3.1/PolindromePhrase.runtimeconfig.json
+/Users/lucifer/Projects/PolindromePhrase/PolindromePhrase/bin/Debug/netcoreapp3.1/PolindromePhrase.runtimeconfig.dev.json
+/Users/lucifer/Projects/PolindromePhrase/PolindromePhrase/bin/Debug/netcoreapp3.1/PolindromePhrase.dll
+/Users/lucifer/Projects/PolindromePhrase/PolindromePhrase/bin/Debug/netcoreapp3.1/PolindromePhrase.pdb
+/Users/lucifer/Projects/PolindromePhrase/PolindromePhrase/obj/Debug/netcoreapp3.1/PolindromePhrase.csproj.AssemblyReference.cache
+/Users/lucifer/Projects/PolindromePhrase/PolindromePhrase/obj/Debug/netcoreapp3.1/PolindromePhrase.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucifer/Projects/PolindromePhrase/PolindromePhrase/obj/Debug/netcoreapp3.1/PolindromePhrase.AssemblyInfoInputs.cache
+/Users/lucifer/Projects/PolindromePhrase/PolindromePhrase/obj/Debug/netcoreapp3.1/PolindromePhrase.AssemblyInfo.cs
+/Users/lucifer/Projects/PolindromePhrase/PolindromePhrase/obj/Debug/netcoreapp3.1/PolindromePhrase.csproj.CoreCompileInputs.cache
+/Users/lucifer/Projects/PolindromePhrase/PolindromePhrase/obj/Debug/netcoreapp3.1/PolindromePhrase.dll
+/Users/lucifer/Projects/PolindromePhrase/PolindromePhrase/obj/Debug/netcoreapp3.1/PolindromePhrase.pdb
+/Users/lucifer/Projects/PolindromePhrase/PolindromePhrase/obj/Debug/netcoreapp3.1/PolindromePhrase.genruntimeconfig.cache

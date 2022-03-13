@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{5C4B572B-8C46-4D93-AFAE-0859D935D32C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PolindromePhrase/Program.cs">
+    <Files>
+      <File FileName="PolindromePhrase/Program.cs" Line="87" Column="97" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PolindromePhrase" expanded="True">
+            <Node name="PolindromePhrase" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PolindromePhrase PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
