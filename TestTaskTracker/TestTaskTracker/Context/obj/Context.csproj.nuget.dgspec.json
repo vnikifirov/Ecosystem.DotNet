@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/lucifer/Projects/TestTaskTracker/TestTaskTracker/Context/Context.csproj": {}
+    "/Users/lucifer/Projects/Repos/DotNet/TestTaskTracker/TestTaskTracker/Context/Context.csproj": {}
   },
   "projects": {
-    "/Users/lucifer/Projects/TestTaskTracker/TestTaskTracker/Context/Context.csproj": {
+    "/Users/lucifer/Projects/Repos/DotNet/TestTaskTracker/TestTaskTracker/Context/Context.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lucifer/Projects/TestTaskTracker/TestTaskTracker/Context/Context.csproj",
+        "projectUniqueName": "/Users/lucifer/Projects/Repos/DotNet/TestTaskTracker/TestTaskTracker/Context/Context.csproj",
         "projectName": "Context",
-        "projectPath": "/Users/lucifer/Projects/TestTaskTracker/TestTaskTracker/Context/Context.csproj",
+        "projectPath": "/Users/lucifer/Projects/Repos/DotNet/TestTaskTracker/TestTaskTracker/Context/Context.csproj",
         "packagesPath": "/Users/lucifer/.nuget/packages/",
-        "outputPath": "/Users/lucifer/Projects/TestTaskTracker/TestTaskTracker/Context/obj/",
+        "outputPath": "/Users/lucifer/Projects/Repos/DotNet/TestTaskTracker/TestTaskTracker/Context/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/lucifer/.config/NuGet/NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/lucifer/Projects/TestTaskTracker/TestTaskTracker/TasksTests/TasksTests.csproj": {}
+    "/Users/lucifer/Projects/Repos/DotNet/TestTaskTracker/TestTaskTracker/TasksTests/TasksTests.csproj": {}
   },
   "projects": {
-    "/Users/lucifer/Projects/TestTaskTracker/TestTaskTracker/Business/Business.csproj": {
+    "/Users/lucifer/Projects/Repos/DotNet/TestTaskTracker/TestTaskTracker/Business/Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lucifer/Projects/TestTaskTracker/TestTaskTracker/Business/Business.csproj",
+        "projectUniqueName": "/Users/lucifer/Projects/Repos/DotNet/TestTaskTracker/TestTaskTracker/Business/Business.csproj",
         "projectName": "Business",
-        "projectPath": "/Users/lucifer/Projects/TestTaskTracker/TestTaskTracker/Business/Business.csproj",
+        "projectPath": "/Users/lucifer/Projects/Repos/DotNet/TestTaskTracker/TestTaskTracker/Business/Business.csproj",
         "packagesPath": "/Users/lucifer/.nuget/packages/",
-        "outputPath": "/Users/lucifer/Projects/TestTaskTracker/TestTaskTracker/Business/obj/",
+        "outputPath": "/Users/lucifer/Projects/Repos/DotNet/TestTaskTracker/TestTaskTracker/Business/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/lucifer/.config/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "/Users/lucifer/Projects/TestTaskTracker/TestTaskTracker/Context/Context.csproj": {
-                "projectPath": "/Users/lucifer/Projects/TestTaskTracker/TestTaskTracker/Context/Context.csproj"
+              "/Users/lucifer/Projects/Repos/DotNet/TestTaskTracker/TestTaskTracker/Context/Context.csproj": {
+                "projectPath": "/Users/lucifer/Projects/Repos/DotNet/TestTaskTracker/TestTaskTracker/Context/Context.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "/Users/lucifer/Projects/TestTaskTracker/TestTaskTracker/Context/Context.csproj": {
+    "/Users/lucifer/Projects/Repos/DotNet/TestTaskTracker/TestTaskTracker/Context/Context.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lucifer/Projects/TestTaskTracker/TestTaskTracker/Context/Context.csproj",
+        "projectUniqueName": "/Users/lucifer/Projects/Repos/DotNet/TestTaskTracker/TestTaskTracker/Context/Context.csproj",
         "projectName": "Context",
-        "projectPath": "/Users/lucifer/Projects/TestTaskTracker/TestTaskTracker/Context/Context.csproj",
+        "projectPath": "/Users/lucifer/Projects/Repos/DotNet/TestTaskTracker/TestTaskTracker/Context/Context.csproj",
         "packagesPath": "/Users/lucifer/.nuget/packages/",
-        "outputPath": "/Users/lucifer/Projects/TestTaskTracker/TestTaskTracker/Context/obj/",
+        "outputPath": "/Users/lucifer/Projects/Repos/DotNet/TestTaskTracker/TestTaskTracker/Context/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/lucifer/.config/NuGet/NuGet.Config"
@@ -128,14 +128,14 @@
         }
       }
     },
-    "/Users/lucifer/Projects/TestTaskTracker/TestTaskTracker/TasksTests/TasksTests.csproj": {
+    "/Users/lucifer/Projects/Repos/DotNet/TestTaskTracker/TestTaskTracker/TasksTests/TasksTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lucifer/Projects/TestTaskTracker/TestTaskTracker/TasksTests/TasksTests.csproj",
+        "projectUniqueName": "/Users/lucifer/Projects/Repos/DotNet/TestTaskTracker/TestTaskTracker/TasksTests/TasksTests.csproj",
         "projectName": "TasksTests",
-        "projectPath": "/Users/lucifer/Projects/TestTaskTracker/TestTaskTracker/TasksTests/TasksTests.csproj",
+        "projectPath": "/Users/lucifer/Projects/Repos/DotNet/TestTaskTracker/TestTaskTracker/TasksTests/TasksTests.csproj",
         "packagesPath": "/Users/lucifer/.nuget/packages/",
-        "outputPath": "/Users/lucifer/Projects/TestTaskTracker/TestTaskTracker/TasksTests/obj/",
+        "outputPath": "/Users/lucifer/Projects/Repos/DotNet/TestTaskTracker/TestTaskTracker/TasksTests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/lucifer/.config/NuGet/NuGet.Config"
@@ -150,8 +150,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "/Users/lucifer/Projects/TestTaskTracker/TestTaskTracker/Business/Business.csproj": {
-                "projectPath": "/Users/lucifer/Projects/TestTaskTracker/TestTaskTracker/Business/Business.csproj"
+              "/Users/lucifer/Projects/Repos/DotNet/TestTaskTracker/TestTaskTracker/Business/Business.csproj": {
+                "projectPath": "/Users/lucifer/Projects/Repos/DotNet/TestTaskTracker/TestTaskTracker/Business/Business.csproj"
               }
             }
           }

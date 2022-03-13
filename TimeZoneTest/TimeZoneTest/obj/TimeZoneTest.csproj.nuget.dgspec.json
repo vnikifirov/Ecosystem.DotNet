@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/lucifer/Projects/TimeZoneTest/TimeZoneTest/TimeZoneTest.csproj": {}
+    "/Users/lucifer/Projects/Repos/DotNet/TimeZoneTest/TimeZoneTest/TimeZoneTest.csproj": {}
   },
   "projects": {
-    "/Users/lucifer/Projects/TimeZoneTest/TimeZoneTest/TimeZoneTest.csproj": {
+    "/Users/lucifer/Projects/Repos/DotNet/TimeZoneTest/TimeZoneTest/TimeZoneTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lucifer/Projects/TimeZoneTest/TimeZoneTest/TimeZoneTest.csproj",
+        "projectUniqueName": "/Users/lucifer/Projects/Repos/DotNet/TimeZoneTest/TimeZoneTest/TimeZoneTest.csproj",
         "projectName": "TimeZoneTest",
-        "projectPath": "/Users/lucifer/Projects/TimeZoneTest/TimeZoneTest/TimeZoneTest.csproj",
+        "projectPath": "/Users/lucifer/Projects/Repos/DotNet/TimeZoneTest/TimeZoneTest/TimeZoneTest.csproj",
         "packagesPath": "/Users/lucifer/.nuget/packages/",
-        "outputPath": "/Users/lucifer/Projects/TimeZoneTest/TimeZoneTest/obj/",
+        "outputPath": "/Users/lucifer/Projects/Repos/DotNet/TimeZoneTest/TimeZoneTest/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/lucifer/.config/NuGet/NuGet.Config"

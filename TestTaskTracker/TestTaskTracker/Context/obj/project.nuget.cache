@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "STHZx2pv3rQ+mGOxj+r4MPSMXsrH0voJ5tDfKWgUGbpgBiEBMX0RF7gOGR0iPA0yptDR0PMjurjAJwEeV27XBQ==",
+  "dgSpecHash": "ScbQ3fFAstb5Or+rlCYrjNhH//uIuV3WdFPKFGdMdqlW9YAIj78aaHScyrjj1y8uD7H9q8/eU6X9UhMZFnezRg==",
   "success": true,
-  "projectFilePath": "/Users/lucifer/Projects/TestTaskTracker/TestTaskTracker/Context/Context.csproj",
+  "projectFilePath": "/Users/lucifer/Projects/Repos/DotNet/TestTaskTracker/TestTaskTracker/Context/Context.csproj",
   "expectedPackageFiles": [
     "/Users/lucifer/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
     "/Users/lucifer/.nuget/packages/microsoft.data.sqlclient/2.0.1/microsoft.data.sqlclient.2.0.1.nupkg.sha512",

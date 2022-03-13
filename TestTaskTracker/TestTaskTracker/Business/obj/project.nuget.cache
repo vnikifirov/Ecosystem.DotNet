@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DruUbEzLZGeAm4LFLl/oYfJSt0ii9SB3Lv0v3l/0KSEsW/wBAAGsOJ6f03pLoV6u//nYoiZwoz+wcigpfHwAfA==",
+  "dgSpecHash": "AocbOSMN7HcIhKDoA1uYKtuby0NbzY5g8CjeaLXKI6CzACTNMK3gTpePdsHxDk/11BP/FS4nGW91AnhncGt1uw==",
   "success": true,
-  "projectFilePath": "/Users/lucifer/Projects/TestTaskTracker/TestTaskTracker/Business/Business.csproj",
+  "projectFilePath": "/Users/lucifer/Projects/Repos/DotNet/TestTaskTracker/TestTaskTracker/Business/Business.csproj",
   "expectedPackageFiles": [
     "/Users/lucifer/.nuget/packages/automapper/8.0.0/automapper.8.0.0.nupkg.sha512",
     "/Users/lucifer/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",

@@ -1,0 +1,13 @@
+/Users/lucifer/Projects/ReverseLinkedList/ReverseLinkedList/bin/Debug/netcoreapp3.1/ReverseLinkedList.deps.json
+/Users/lucifer/Projects/ReverseLinkedList/ReverseLinkedList/bin/Debug/netcoreapp3.1/ReverseLinkedList.runtimeconfig.json
+/Users/lucifer/Projects/ReverseLinkedList/ReverseLinkedList/bin/Debug/netcoreapp3.1/ReverseLinkedList.runtimeconfig.dev.json
+/Users/lucifer/Projects/ReverseLinkedList/ReverseLinkedList/bin/Debug/netcoreapp3.1/ReverseLinkedList.dll
+/Users/lucifer/Projects/ReverseLinkedList/ReverseLinkedList/bin/Debug/netcoreapp3.1/ReverseLinkedList.pdb
+/Users/lucifer/Projects/ReverseLinkedList/ReverseLinkedList/obj/Debug/netcoreapp3.1/ReverseLinkedList.csproj.AssemblyReference.cache
+/Users/lucifer/Projects/ReverseLinkedList/ReverseLinkedList/obj/Debug/netcoreapp3.1/ReverseLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucifer/Projects/ReverseLinkedList/ReverseLinkedList/obj/Debug/netcoreapp3.1/ReverseLinkedList.AssemblyInfoInputs.cache
+/Users/lucifer/Projects/ReverseLinkedList/ReverseLinkedList/obj/Debug/netcoreapp3.1/ReverseLinkedList.AssemblyInfo.cs
+/Users/lucifer/Projects/ReverseLinkedList/ReverseLinkedList/obj/Debug/netcoreapp3.1/ReverseLinkedList.csproj.CoreCompileInputs.cache
+/Users/lucifer/Projects/ReverseLinkedList/ReverseLinkedList/obj/Debug/netcoreapp3.1/ReverseLinkedList.dll
+/Users/lucifer/Projects/ReverseLinkedList/ReverseLinkedList/obj/Debug/netcoreapp3.1/ReverseLinkedList.pdb
+/Users/lucifer/Projects/ReverseLinkedList/ReverseLinkedList/obj/Debug/netcoreapp3.1/ReverseLinkedList.genruntimeconfig.cache

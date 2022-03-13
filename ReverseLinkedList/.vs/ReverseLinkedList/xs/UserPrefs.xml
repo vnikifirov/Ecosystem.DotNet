@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{4970626C-F1B3-42B4-9453-CF587143910A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ReverseLinkedList/Program.cs">
+    <Files>
+      <File FileName="ReverseLinkedList/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ReverseLinkedList" expanded="True">
+            <Node name="ReverseLinkedList" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ReverseLinkedList FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

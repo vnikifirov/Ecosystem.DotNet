@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ntYbogFzGT0VKHhJ/+gvvWjyg2q3C2XEVy724HLamAHkNTDYB9sXupbC/oWOWitFxLu7xUdXfOk8fWDU/yVskA==",
+  "dgSpecHash": "oMA/smRkrELuIPacEylzyCSR4l1US/I7D2RUGTJee9MIu04D9UKHNT42Ety3sJ5kahcR+SqWszEBR9YANxo4/w==",
   "success": true,
-  "projectFilePath": "/Users/lucifer/Projects/TestTaskTracker/TestTaskTracker/TasksTests/TasksTests.csproj",
+  "projectFilePath": "/Users/lucifer/Projects/Repos/DotNet/TestTaskTracker/TestTaskTracker/TasksTests/TasksTests.csproj",
   "expectedPackageFiles": [
     "/Users/lucifer/.nuget/packages/automapper/8.0.0/automapper.8.0.0.nupkg.sha512",
     "/Users/lucifer/.nuget/packages/castle.core/4.2.1/castle.core.4.2.1.nupkg.sha512",

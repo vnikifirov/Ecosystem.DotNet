@@ -38,6 +38,12 @@
 
 18. [Example of Closure in .NET - mentor Алексей Захаров Senior .Net-developer](https://github.com/vnikifirov/DotNet/tree/master/Closure)
 
+19. [Algorithm reverse linkedlist in C# / .NET - ](https://github.com/vnikifirov/DotNet/tree/master/ReverseLinkedList)
+
+20. [Algorithm SlidingWindow in C# / .NET - ](https://github.com/vnikifirov/DotNet/tree/master/SlidingWindow)
+
+21. [Intern/Senior polindrome phrase in C# / .NET - ](https://github.com/vnikifirov/DotNet/tree/master/PolindromePhrase)
+
 # Note
 
 * If you like this repo and find it useful, please consider ★ starring it (on top right of the page) :)

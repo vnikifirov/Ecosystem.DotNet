@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SyI2vfGLO47z+sSmkH6GJAjlgpiXg1KEgGgZycge+MnaRFM18Mh3fNbmPHN8xfjOI0rkGcn877vWeCyxYHyxvg==",
+  "dgSpecHash": "uevftFiMruor44LSumwTynWOYcC21tvjO0+fA63QjFcphsfoW+iX53DOAxFRkbM+Jm2qdw3CbwOCtOXpb7Hisw==",
   "success": true,
-  "projectFilePath": "/Users/lucifer/Projects/TestTaskTracker/TestTaskTracker/TestTaskTracker/TestTaskTracker.csproj",
+  "projectFilePath": "/Users/lucifer/Projects/Repos/DotNet/TestTaskTracker/TestTaskTracker/TestTaskTracker/TestTaskTracker.csproj",
   "expectedPackageFiles": [
     "/Users/lucifer/.nuget/packages/automapper/8.0.0/automapper.8.0.0.nupkg.sha512",
     "/Users/lucifer/.nuget/packages/microsoft.aspnetcore.jsonpatch/3.1.0/microsoft.aspnetcore.jsonpatch.3.1.0.nupkg.sha512",
