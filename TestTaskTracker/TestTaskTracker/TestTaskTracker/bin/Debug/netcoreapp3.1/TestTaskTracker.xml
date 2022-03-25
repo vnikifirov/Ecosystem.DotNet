@@ -77,5 +77,10 @@
             <param name="id">id of task</param>
             <returns><see cref="T:System.Int64"/></returns>
         </member>
+        <member name="M:TestTaskTracker.Filters.XPassFilter.OnActionExecutionAsync(Microsoft.AspNetCore.Mvc.Filters.ActionExecutingContext,Microsoft.AspNetCore.Mvc.Filters.ActionExecutionDelegate)">
+            <param name="context">Current context of request</param>
+            <param name="next">What will be executing next</param>
+            <returns></returns>
+        </member>
     </members>
 </doc>

@@ -1,5 +1,6 @@
 using AutoMapper;
 using Business;
+using Business.Configuration;
 using Business.Mapping;
 using Business.Services.Implementations;
 using Business.Services.Interfaces;
@@ -21,6 +22,7 @@ using System.IO;
 using System.Linq;
 using System.Reflection;
 using System.Threading.Tasks;
+using TestTaskTracker.Filters;
 
 namespace TestTaskTracker
 {
@@ -73,6 +75,9 @@ namespace TestTaskTracker
             IMapper mapper = configMapper.CreateMapper();
             //configMapper.AssertConfigurationIsValid();
             services.AddSingleton(mapper);
+
+            services.Configure<TaskConfig>(Configuration.GetSection(nameof(TaskConfig)));
+            services.AddMvc(x => x.Filters.Add<XPassFilter>());
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using Business.Services.Interfaces;
 using Context.Models;
 
 namespace Business.Services.Domain.Requests
@@ -8,7 +6,7 @@ namespace Business.Services.Domain.Requests
     /// <summary>
     /// On Save Task API resource
     /// </summary>
-    public class SaveTaskRequest
+    public class SaveTaskRequest : IXPass
     {
         /// <summary>
         /// Id
@@ -44,5 +42,8 @@ namespace Business.Services.Domain.Requests
         /// Priority
         /// </summary>
         public long Priority { get; set; }
+
+        /// <inheritdoc/>
+        public string XPass { get; set; }
     }
 }

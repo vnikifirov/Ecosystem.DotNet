@@ -72,8 +72,6 @@ namespace TestTaskTracker.Controllers
         [ProducesResponseType(500)]
         public async Task<IActionResult> Create([FromBody] CreateTaskRequest resource, CancellationToken cancellationToken)
         {
-            if (resource == null) return BadRequest();
-
             await _taskService.AddAsync(resource, cancellationToken);
 
             return Ok(resource);
@@ -93,9 +91,6 @@ namespace TestTaskTracker.Controllers
         [ProducesResponseType(500)]
         public async Task<IActionResult> Update(long id, [FromBody] SaveTaskRequest resource, CancellationToken cancellationToken)
         {
-            if (id <= 0) return NotFound();
-            if (resource == null) return BadRequest();
-
             await _taskService.UpdateAsync(resource, cancellationToken);
 
             return Ok(resource);
@@ -114,8 +109,6 @@ namespace TestTaskTracker.Controllers
         [ProducesResponseType(500)]
         public async Task<IActionResult> Delete(long id, CancellationToken cancellationToken)
         {
-            if (id <= 0) return NotFound();
-
             await _taskService.RemoveAsync(id, cancellationToken);
         
             return Ok(id);

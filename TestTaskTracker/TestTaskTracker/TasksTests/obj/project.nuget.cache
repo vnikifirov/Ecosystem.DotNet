@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "oMA/smRkrELuIPacEylzyCSR4l1US/I7D2RUGTJee9MIu04D9UKHNT42Ety3sJ5kahcR+SqWszEBR9YANxo4/w==",
+  "dgSpecHash": "PJ7ajLJxpjbOBMhkKurzHHNia0hsGfHU2UuObJiTRTIO9SqcUOxDSgkzDXpdjTygE7ykaoQH9sKFCCNnSHVIpQ==",
   "success": true,
   "projectFilePath": "/Users/lucifer/Projects/Repos/DotNet/TestTaskTracker/TestTaskTracker/TasksTests/TasksTests.csproj",
   "expectedPackageFiles": [

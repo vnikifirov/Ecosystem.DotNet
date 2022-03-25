@@ -164,6 +164,9 @@
             Priority
             </summary>
         </member>
+        <member name="P:Business.Services.Domain.Requests.SaveTaskRequest.XPass">
+            <inheritdoc/>
+        </member>
         <member name="T:Business.Services.Domain.Responses.ProjectResponse">
             <summary>
             Project respone API resource
@@ -378,6 +381,11 @@
             Remove existing Task from DataBase 
             </summary>
             <param name="id">Task id</param>
+        </member>
+        <member name="T:Business.Services.Interfaces.IXPass">
+            <summary>
+            Store password 
+            </summary>
         </member>
     </members>
 </doc>

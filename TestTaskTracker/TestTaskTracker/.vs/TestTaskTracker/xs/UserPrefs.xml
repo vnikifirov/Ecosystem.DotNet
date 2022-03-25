@@ -1,31 +1,42 @@
 ﻿<Properties StartupConfiguration="{ECEF575C-3CD3-425C-8EB9-8C97147030C6}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Context/Repository/Implementations/ProjectRepository.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Business/Services/Implementations/TaskService.cs">
     <Files>
       <File FileName="Business/Services/Domain/Responses/ProjectQuery.cs" Line="21" Column="24" />
       <File FileName="Business/Extentions/IQueryableExtentions.cs" />
       <File FileName="Context/Models/Projects.cs" />
-      <File FileName="TasksTests/ProjectTest.cs" Line="132" Column="42" />
+      <File FileName="TasksTests/ProjectTest.cs" />
       <File FileName="Context/Repository/Implementations/ProjectRepository.cs" Line="8" Column="1" />
+      <File FileName="TasksTests/TaskTests.cs" Line="69" Column="1" />
+      <File FileName="TestTaskTracker/Controllers/TasksController.cs" Line="95" Column="1" />
+      <File FileName="Business/Services/Interfaces/ITaskService.cs" Line="51" Column="14" />
+      <File FileName="Business/Services/Implementations/TaskService.cs" Line="78" Column="1" />
+      <File FileName="Business/Services/Domain/Requests/SaveTaskRequest.cs" Line="47" Column="42" />
+      <File FileName="TestTaskTracker/Startup.cs" Line="85" Column="10" />
+      <File FileName="TestTaskTracker/appsettings.json" Line="14" Column="26" />
+      <File FileName="Business/Configuration/TaskConfig.cs" Line="6" Column="42" />
+      <File FileName="TestTaskTracker/Filters/XPassFilter.cs" Line="20" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TestTaskTracker" expanded="True">
             <Node name="Business" expanded="True">
+              <Node name="Configuration" expanded="True" />
               <Node name="Services" expanded="True">
-                <Node name="Implementations" expanded="True" />
-              </Node>
-            </Node>
-            <Node name="Context" expanded="True">
-              <Node name="Repository" expanded="True">
-                <Node name="Implementations" expanded="True">
-                  <Node name="ProjectRepository.cs" selected="True" />
+                <Node name="Domain" expanded="True">
+                  <Node name="Requests" expanded="True" />
                 </Node>
+                <Node name="Implementations" expanded="True">
+                  <Node name="TaskService.cs" selected="True" />
+                </Node>
+                <Node name="Interfaces" expanded="True" />
               </Node>
             </Node>
+            <Node name="Context" expanded="True" />
             <Node name="TasksTests" expanded="True" />
             <Node name="TestTaskTracker" expanded="True">
               <Node name="Controllers" expanded="True" />
+              <Node name="Filters" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -36,7 +47,10 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/lucifer/Projects/Repos/DotNet/TestTaskTracker/TestTaskTracker/Business/Services/Implementations/TaskService.cs" relfile="Business/Services/Implementations/TaskService.cs" line="78" column="1" />
+      <Breakpoint file="/Users/lucifer/Projects/Repos/DotNet/TestTaskTracker/TestTaskTracker/TestTaskTracker/Filters/XPassFilter.cs" relfile="TestTaskTracker/Filters/XPassFilter.cs" line="20" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

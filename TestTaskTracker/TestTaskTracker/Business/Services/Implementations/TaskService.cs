@@ -1,13 +1,16 @@
 ﻿using System.Collections.Generic;
 using System.Threading;
 using System.Threading.Tasks;
+using System;
 
 using AutoMapper;
+using Business.Configuration;
 using Business.Services.Domain.Requests;
 using Business.Services.Domain.Responses;
 using Business.Services.Interfaces;
 
 using Context.Repository.Interfaces;
+using Microsoft.Extensions.Options;
 
 namespace Business.Services.Implementations
 {
@@ -16,11 +19,13 @@ namespace Business.Services.Implementations
     {
         private readonly ITaskRepository _taskRepository;
         private readonly IMapper _mapper;
+        private readonly TaskConfig _config;
 
-        public TaskService(ITaskRepository taskRepository, IMapper mapper)
+        public TaskService(ITaskRepository taskRepository, IMapper mapper, IOptions<TaskConfig> options)
         {
             _taskRepository = taskRepository;
             _mapper = mapper;
+            _config = options.Value;
         }
 
         /// <inheritdoc/>
@@ -70,6 +75,9 @@ namespace Business.Services.Implementations
         /// <inheritdoc/>
         public async Task UpdateAsync(SaveTaskRequest task, CancellationToken cancellationToken)
         {
+            if (!task.XPass.Equals(_config.XPass))
+                throw new Exception("Not authorized");
+
             var taskId = task.Id;
             var source = await _taskRepository.GetTaskByIdAsync(taskId, cancellationToken);
 

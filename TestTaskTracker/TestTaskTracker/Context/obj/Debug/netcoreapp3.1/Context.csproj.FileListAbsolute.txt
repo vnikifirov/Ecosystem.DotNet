@@ -31,3 +31,13 @@ C:/Users/User/Desktop/TestTaskTracker/TestTaskTracker/Context/obj/Debug/netcorea
 /Users/lucifer/Projects/TestTaskTracker/TestTaskTracker/Context/obj/Debug/netcoreapp3.1/Context.dll
 /Users/lucifer/Projects/TestTaskTracker/TestTaskTracker/Context/obj/Debug/netcoreapp3.1/Context.pdb
 /Users/lucifer/Projects/TestTaskTracker/TestTaskTracker/Context/obj/Debug/netcoreapp3.1/Context.csproj.AssemblyReference.cache
+/Users/lucifer/Projects/Repos/DotNet/TestTaskTracker/TestTaskTracker/Context/bin/Debug/netcoreapp3.1/Context.deps.json
+/Users/lucifer/Projects/Repos/DotNet/TestTaskTracker/TestTaskTracker/Context/bin/Debug/netcoreapp3.1/Context.dll
+/Users/lucifer/Projects/Repos/DotNet/TestTaskTracker/TestTaskTracker/Context/bin/Debug/netcoreapp3.1/Context.pdb
+/Users/lucifer/Projects/Repos/DotNet/TestTaskTracker/TestTaskTracker/Context/bin/Debug/netcoreapp3.1/Context.xml
+/Users/lucifer/Projects/Repos/DotNet/TestTaskTracker/TestTaskTracker/Context/obj/Debug/netcoreapp3.1/Context.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucifer/Projects/Repos/DotNet/TestTaskTracker/TestTaskTracker/Context/obj/Debug/netcoreapp3.1/Context.AssemblyInfoInputs.cache
+/Users/lucifer/Projects/Repos/DotNet/TestTaskTracker/TestTaskTracker/Context/obj/Debug/netcoreapp3.1/Context.AssemblyInfo.cs
+/Users/lucifer/Projects/Repos/DotNet/TestTaskTracker/TestTaskTracker/Context/obj/Debug/netcoreapp3.1/Context.csproj.CoreCompileInputs.cache
+/Users/lucifer/Projects/Repos/DotNet/TestTaskTracker/TestTaskTracker/Context/obj/Debug/netcoreapp3.1/Context.dll
+/Users/lucifer/Projects/Repos/DotNet/TestTaskTracker/TestTaskTracker/Context/obj/Debug/netcoreapp3.1/Context.pdb

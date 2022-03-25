@@ -13,6 +13,8 @@ using Context.Repository.Implementations;
 using System.Linq;
 using Business.Services.Domain.Requests;
 using Business.Mapping;
+using Microsoft.Extensions.Options;
+using Business.Configuration;
 
 namespace TasksTests
 {
@@ -35,7 +37,7 @@ namespace TasksTests
             var tasksRepository = new TaskRepository(contextFactory);
 
             //_taskService = new TaskService(GetTaskRepository(), GetMapper());
-            _taskService = new TaskService(tasksRepository, _mapper);
+            _taskService = new TaskService(tasksRepository, _mapper, GetOptions());
 
             var createdProject = new CreateTaskRequest
             {
@@ -292,6 +294,13 @@ namespace TasksTests
             var mapper = new Mapper(configMapper);
 
             return mapper;
+        }
+
+        private static IOptions<TaskConfig> GetOptions()
+        {
+            var options = new Mock<IOptions<TaskConfig>>();
+
+            return options.Object;
         }
     }
 }
