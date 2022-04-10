@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DVclP/IWtu/meDf3HNXgOZAAmsxKXkQVeMi8jgzsPK17RLgtHkPyrNlpjo3KykK0VYDPJFqnyXbL6Af3ngbMcQ==",
+  "dgSpecHash": "wdw0l1ECJi5NBYiNmvTyo2B3zSWGjwC5Iusl/xp8XGW/Zxj6uNB60IjKeWZerISWx03IhbpSRrQFc2hvfZmPVQ==",
   "success": true,
-  "projectFilePath": "/Users/lucifer/Projects/BalanceOfParentheses/BalanceOfParentheses/BalanceOfParentheses.csproj",
+  "projectFilePath": "/Users/lucifer/Projects/Repos/DotNet/BalanceOfParentheses/BalanceOfParentheses/BalanceOfParentheses.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

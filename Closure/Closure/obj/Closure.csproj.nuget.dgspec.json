@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/lucifer/Projects/Closure/Closure/Closure.csproj": {}
+    "/Users/lucifer/Projects/Repos/DotNet/Closure/Closure/Closure.csproj": {}
   },
   "projects": {
-    "/Users/lucifer/Projects/Closure/Closure/Closure.csproj": {
+    "/Users/lucifer/Projects/Repos/DotNet/Closure/Closure/Closure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lucifer/Projects/Closure/Closure/Closure.csproj",
+        "projectUniqueName": "/Users/lucifer/Projects/Repos/DotNet/Closure/Closure/Closure.csproj",
         "projectName": "Closure",
-        "projectPath": "/Users/lucifer/Projects/Closure/Closure/Closure.csproj",
+        "projectPath": "/Users/lucifer/Projects/Repos/DotNet/Closure/Closure/Closure.csproj",
         "packagesPath": "/Users/lucifer/.nuget/packages/",
-        "outputPath": "/Users/lucifer/Projects/Closure/Closure/obj/",
+        "outputPath": "/Users/lucifer/Projects/Repos/DotNet/Closure/Closure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/lucifer/.config/NuGet/NuGet.Config"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.102/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.103/RuntimeIdentifierGraph.json"
         }
       }
     }

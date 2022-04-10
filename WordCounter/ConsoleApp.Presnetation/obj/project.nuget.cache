@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8F0JGBTGAmQUGNSQJ6QddrXoJDtXtKbwtBmpPXsXdvFJhmU4S9kDaqUdxD5F4pZRz9z6MzcQOSTrut4jlTcxFw==",
+  "dgSpecHash": "UIywCrtxFAVnKcEreoFcBZdxKKNPQ1v8ZBbFx3+YLIaQUfnYsZuLlkG8pMhD4ogCCcx0dJha3/xYwgWwQkQWZg==",
   "success": true,
-  "projectFilePath": "/Users/lucifer/Projects/WordCounter/ConsoleApp.Presnetation/ConsoleApp.Presentation.csproj",
+  "projectFilePath": "/Users/lucifer/Projects/Repos/DotNet/WordCounter/ConsoleApp.Presnetation/ConsoleApp.Presentation.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

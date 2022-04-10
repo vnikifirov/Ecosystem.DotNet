@@ -21,25 +21,6 @@
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State>
-          <Value>result</Value>
-          <Value>result.Count</Value>
-          <Value>result[target]</Value>
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="WordCounter" expanded="True">
-            <Node name="Tests" expanded="True">
-              <Node name="Tests" expanded="True" selected="True">
-                <Node name="WordsCounterApp" expanded="True" />
-                <Node name="WordsCounterServiceTests" expanded="True" />
-              </Node>
-            </Node>
-          </Node>
-        </State>
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

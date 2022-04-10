@@ -1,13 +1,22 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{F10CEFC9-91CA-4B1F-B593-590C0AA632A2}|Default">
   <MonoDevelop.Ide.ItemProperties.TimeZoneTest PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="TimeZoneTest/Program.cs">
+    <Files>
+      <File FileName="TimeZoneTest/Adapter/Farenhate.cs" Line="1" Column="1" />
+      <File FileName="TimeZoneTest/Conc.cs" />
+      <File FileName="TimeZoneTest/Singleton.cs" />
+      <File FileName="TimeZoneTest/Sem.cs" />
+      <File FileName="TimeZoneTest/Program.cs" Line="52" Column="41" />
+      <File FileName="TimeZoneTest/Fibonacci.cs" Line="27" Column="23" />
+      <File FileName="TimeZoneTest/Robot.cs" Line="8" Column="9" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TimeZoneTest" expanded="True">
             <Node name="TimeZoneTest" expanded="True">
               <Node name="Adapter" expanded="True" />
-              <Node name="Sem.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -17,10 +26,7 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/lucifer/Projects/Repos/DotNet/TimeZoneTest/TimeZoneTest/Program.cs" relfile="TimeZoneTest/Program.cs" line="91" column="1" />
-      <Breakpoint file="/Users/lucifer/Projects/Repos/DotNet/TimeZoneTest/TimeZoneTest/Program.cs" relfile="TimeZoneTest/Program.cs" line="103" column="1" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

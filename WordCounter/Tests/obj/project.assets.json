@@ -4704,11 +4704,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/lucifer/Projects/WordCounter/Tests/Tests.csproj",
+      "projectUniqueName": "/Users/lucifer/Projects/Repos/DotNet/WordCounter/Tests/Tests.csproj",
       "projectName": "Tests",
-      "projectPath": "/Users/lucifer/Projects/WordCounter/Tests/Tests.csproj",
+      "projectPath": "/Users/lucifer/Projects/Repos/DotNet/WordCounter/Tests/Tests.csproj",
       "packagesPath": "/Users/lucifer/.nuget/packages/",
-      "outputPath": "/Users/lucifer/Projects/WordCounter/Tests/obj/",
+      "outputPath": "/Users/lucifer/Projects/Repos/DotNet/WordCounter/Tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/lucifer/.config/NuGet/NuGet.Config"
@@ -4723,8 +4723,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "/Users/lucifer/Projects/WordCounter/Business/Business.csproj": {
-              "projectPath": "/Users/lucifer/Projects/WordCounter/Business/Business.csproj"
+            "/Users/lucifer/Projects/Repos/DotNet/WordCounter/Business/Business.csproj": {
+              "projectPath": "/Users/lucifer/Projects/Repos/DotNet/WordCounter/Business/Business.csproj"
             }
           }
         }
@@ -4767,7 +4767,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.102/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.103/RuntimeIdentifierGraph.json"
       }
     }
   }

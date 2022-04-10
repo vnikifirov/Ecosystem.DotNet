@@ -74,11 +74,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/lucifer/Projects/WordCounter/Business/Business.csproj",
+      "projectUniqueName": "/Users/lucifer/Projects/Repos/DotNet/WordCounter/Business/Business.csproj",
       "projectName": "Business",
-      "projectPath": "/Users/lucifer/Projects/WordCounter/Business/Business.csproj",
+      "projectPath": "/Users/lucifer/Projects/Repos/DotNet/WordCounter/Business/Business.csproj",
       "packagesPath": "/Users/lucifer/.nuget/packages/",
-      "outputPath": "/Users/lucifer/Projects/WordCounter/Business/obj/",
+      "outputPath": "/Users/lucifer/Projects/Repos/DotNet/WordCounter/Business/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/lucifer/.config/NuGet/NuGet.Config"
@@ -125,7 +125,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.102/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.103/RuntimeIdentifierGraph.json"
       }
     }
   }

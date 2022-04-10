@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/lucifer/Projects/WordCounter/ConsoleApp.Presnetation/ConsoleApp.Presentation.csproj": {}
+    "/Users/lucifer/Projects/Repos/DotNet/WordCounter/ConsoleApp.Presnetation/ConsoleApp.Presentation.csproj": {}
   },
   "projects": {
-    "/Users/lucifer/Projects/WordCounter/ConsoleApp.Presnetation/ConsoleApp.Presentation.csproj": {
+    "/Users/lucifer/Projects/Repos/DotNet/WordCounter/ConsoleApp.Presnetation/ConsoleApp.Presentation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lucifer/Projects/WordCounter/ConsoleApp.Presnetation/ConsoleApp.Presentation.csproj",
+        "projectUniqueName": "/Users/lucifer/Projects/Repos/DotNet/WordCounter/ConsoleApp.Presnetation/ConsoleApp.Presentation.csproj",
         "projectName": "ConsoleApp.Presentation",
-        "projectPath": "/Users/lucifer/Projects/WordCounter/ConsoleApp.Presnetation/ConsoleApp.Presentation.csproj",
+        "projectPath": "/Users/lucifer/Projects/Repos/DotNet/WordCounter/ConsoleApp.Presnetation/ConsoleApp.Presentation.csproj",
         "packagesPath": "/Users/lucifer/.nuget/packages/",
-        "outputPath": "/Users/lucifer/Projects/WordCounter/ConsoleApp.Presnetation/obj/",
+        "outputPath": "/Users/lucifer/Projects/Repos/DotNet/WordCounter/ConsoleApp.Presnetation/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/lucifer/.config/NuGet/NuGet.Config"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.102/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.103/RuntimeIdentifierGraph.json"
         }
       }
     }

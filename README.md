@@ -44,6 +44,8 @@
 
 21. [Intern/Senior polindrome phrase in C# / .NET - ](https://github.com/vnikifirov/DotNet/tree/master/PolindromePhrase)
 
+22. [Intern/Senior My own impementation of IEnumerable in C# / .NET - ](https://github.com/vnikifirov/DotNet/tree/master/MyIEnumerable)
+
 # Note
 
 * If you like this repo and find it useful, please consider ★ starring it (on top right of the page) :)

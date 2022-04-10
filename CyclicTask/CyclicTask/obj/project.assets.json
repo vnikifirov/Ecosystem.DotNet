@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/lucifer/Projects/CyclicTask/CyclicTask/CyclicTask.csproj",
+      "projectUniqueName": "/Users/lucifer/Projects/Repos/DotNet/CyclicTask/CyclicTask/CyclicTask.csproj",
       "projectName": "CyclicTask",
-      "projectPath": "/Users/lucifer/Projects/CyclicTask/CyclicTask/CyclicTask.csproj",
+      "projectPath": "/Users/lucifer/Projects/Repos/DotNet/CyclicTask/CyclicTask/CyclicTask.csproj",
       "packagesPath": "/Users/lucifer/.nuget/packages/",
-      "outputPath": "/Users/lucifer/Projects/CyclicTask/CyclicTask/obj/",
+      "outputPath": "/Users/lucifer/Projects/Repos/DotNet/CyclicTask/CyclicTask/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/lucifer/.config/NuGet/NuGet.Config"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.102/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.103/RuntimeIdentifierGraph.json"
       }
     }
   }

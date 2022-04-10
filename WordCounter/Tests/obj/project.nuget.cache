@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mSmr0RaEA+oHb+vSdEtXwXv8A++wiAl+LVdyKPiCuvX89ifqD+uYhVRb/FH98ua8MNObNvL2aJnGYBeyHsaXuA==",
+  "dgSpecHash": "EV5nXQZpga/uVt8nQNlB3ss41Hggat9lhQHPVFMTUtx6K3z81VGNpS+jpZjRigK8oTR2p2+HI3z1u5trSGFJwA==",
   "success": true,
-  "projectFilePath": "/Users/lucifer/Projects/WordCounter/Tests/Tests.csproj",
+  "projectFilePath": "/Users/lucifer/Projects/Repos/DotNet/WordCounter/Tests/Tests.csproj",
   "expectedPackageFiles": [
     "/Users/lucifer/.nuget/packages/htmlagilitypack/1.11.42/htmlagilitypack.1.11.42.nupkg.sha512",
     "/Users/lucifer/.nuget/packages/microsoft.codecoverage/16.5.0/microsoft.codecoverage.16.5.0.nupkg.sha512",

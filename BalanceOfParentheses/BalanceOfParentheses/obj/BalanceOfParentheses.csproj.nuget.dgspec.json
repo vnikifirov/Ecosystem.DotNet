@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/lucifer/Projects/BalanceOfParentheses/BalanceOfParentheses/BalanceOfParentheses.csproj": {}
+    "/Users/lucifer/Projects/Repos/DotNet/BalanceOfParentheses/BalanceOfParentheses/BalanceOfParentheses.csproj": {}
   },
   "projects": {
-    "/Users/lucifer/Projects/BalanceOfParentheses/BalanceOfParentheses/BalanceOfParentheses.csproj": {
+    "/Users/lucifer/Projects/Repos/DotNet/BalanceOfParentheses/BalanceOfParentheses/BalanceOfParentheses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lucifer/Projects/BalanceOfParentheses/BalanceOfParentheses/BalanceOfParentheses.csproj",
+        "projectUniqueName": "/Users/lucifer/Projects/Repos/DotNet/BalanceOfParentheses/BalanceOfParentheses/BalanceOfParentheses.csproj",
         "projectName": "BalanceOfParentheses",
-        "projectPath": "/Users/lucifer/Projects/BalanceOfParentheses/BalanceOfParentheses/BalanceOfParentheses.csproj",
+        "projectPath": "/Users/lucifer/Projects/Repos/DotNet/BalanceOfParentheses/BalanceOfParentheses/BalanceOfParentheses.csproj",
         "packagesPath": "/Users/lucifer/.nuget/packages/",
-        "outputPath": "/Users/lucifer/Projects/BalanceOfParentheses/BalanceOfParentheses/obj/",
+        "outputPath": "/Users/lucifer/Projects/Repos/DotNet/BalanceOfParentheses/BalanceOfParentheses/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/lucifer/.config/NuGet/NuGet.Config"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.102/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.103/RuntimeIdentifierGraph.json"
         }
       }
     }

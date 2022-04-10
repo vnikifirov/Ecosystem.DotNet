@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WJS1dOzRw1egM3iVkn7gVah9sQ5AaRw4E9GgkZwDvw4TSwqLTUnb0QYFiuxpzFJcruParfgV3KpVUNkduKHgRA==",
+  "dgSpecHash": "yTRn6BKy+Gikk9HX81+jfCdFwyiyyi8pq9L6sE2MRT5l8dwqN9NXB4QaD6jey1vPJ8dTS2bIeEHruZBp8a4kjQ==",
   "success": true,
-  "projectFilePath": "/Users/lucifer/Projects/CyclicTask/CyclicTask/CyclicTask.csproj",
+  "projectFilePath": "/Users/lucifer/Projects/Repos/DotNet/CyclicTask/CyclicTask/CyclicTask.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
