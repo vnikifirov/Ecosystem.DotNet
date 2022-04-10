@@ -38,13 +38,13 @@
 
 18. [Example of Closure in .NET - mentor Алексей Захаров Senior .Net-developer](https://github.com/vnikifirov/DotNet/tree/master/Closure)
 
-19. [Algorithm reverse linkedlist in C# / .NET - ](https://github.com/vnikifirov/DotNet/tree/master/ReverseLinkedList)
+19. [Algorithm reverse LinkedList in C# / .NET](https://github.com/vnikifirov/DotNet/tree/master/ReverseLinkedList)
 
-20. [Algorithm SlidingWindow in C# / .NET - ](https://github.com/vnikifirov/DotNet/tree/master/SlidingWindow)
+20. [Algorithm SlidingWindow in C# / .NET](https://github.com/vnikifirov/DotNet/tree/master/SlidingWindow)
 
-21. [Intern/Senior polindrome phrase in C# / .NET - ](https://github.com/vnikifirov/DotNet/tree/master/PolindromePhrase)
+21. [Intern/Senior polindrome phrase in C# / .NET](https://github.com/vnikifirov/DotNet/tree/master/PolindromePhrase)
 
-22. [Intern/Senior My own impementation of IEnumerable in C# / .NET - ](https://github.com/vnikifirov/DotNet/tree/master/MyIEnumerable)
+22. [Intern/Senior My own impementation of IEnumerable in C# / .NET](https://github.com/vnikifirov/DotNet/tree/master/MyIEnumerable)
 
 # Note
 
