@@ -1,0 +1,11 @@
+/Users/lucifer/Projects/MessageLogic/bin/Debug/net5.0/MessageLogic.deps.json
+/Users/lucifer/Projects/MessageLogic/bin/Debug/net5.0/MessageLogic.dll
+/Users/lucifer/Projects/MessageLogic/bin/Debug/net5.0/ref/MessageLogic.dll
+/Users/lucifer/Projects/MessageLogic/bin/Debug/net5.0/MessageLogic.pdb
+/Users/lucifer/Projects/MessageLogic/obj/Debug/net5.0/MessageLogic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucifer/Projects/MessageLogic/obj/Debug/net5.0/MessageLogic.AssemblyInfoInputs.cache
+/Users/lucifer/Projects/MessageLogic/obj/Debug/net5.0/MessageLogic.AssemblyInfo.cs
+/Users/lucifer/Projects/MessageLogic/obj/Debug/net5.0/MessageLogic.csproj.CoreCompileInputs.cache
+/Users/lucifer/Projects/MessageLogic/obj/Debug/net5.0/MessageLogic.dll
+/Users/lucifer/Projects/MessageLogic/obj/Debug/net5.0/ref/MessageLogic.dll
+/Users/lucifer/Projects/MessageLogic/obj/Debug/net5.0/MessageLogic.pdb

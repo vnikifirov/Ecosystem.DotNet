@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/lucifer/Projects/MessageLogic/Reciver/Reciver.csproj": {}
+  },
+  "projects": {
+    "/Users/lucifer/Projects/MessageLogic/MessageLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lucifer/Projects/MessageLogic/MessageLogic.csproj",
+        "projectName": "MessageLogic",
+        "projectPath": "/Users/lucifer/Projects/MessageLogic/MessageLogic.csproj",
+        "packagesPath": "/Users/lucifer/.nuget/packages/",
+        "outputPath": "/Users/lucifer/Projects/MessageLogic/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lucifer/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lucifer/Projects/MessageLogic/Reciver/Reciver.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lucifer/Projects/MessageLogic/Reciver/Reciver.csproj",
+        "projectName": "Reciver",
+        "projectPath": "/Users/lucifer/Projects/MessageLogic/Reciver/Reciver.csproj",
+        "packagesPath": "/Users/lucifer/.nuget/packages/",
+        "outputPath": "/Users/lucifer/Projects/MessageLogic/Reciver/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lucifer/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/lucifer/Projects/MessageLogic/MessageLogic.csproj": {
+                "projectPath": "/Users/lucifer/Projects/MessageLogic/MessageLogic.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

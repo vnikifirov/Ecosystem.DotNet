@@ -46,6 +46,8 @@
 
 22. [Intern/Senior My own impementation of IEnumerable in C# / .NET](https://github.com/vnikifirov/DotNet/tree/master/MyIEnumerable)
 
+23. [Middle+/Senior RabbitMQ - Have done with Producer (Sender) & Consumer (Receiver) of my messages & some logic of RibbitMQ itself which's incapsulated (blackbox) in abstract class C# / .NET](https://github.com/vnikifirov/DotNet/tree/master/MessageLogic)
+
 # Note
 
 * If you like this repo and find it useful, please consider ★ starring it (on top right of the page) :)
