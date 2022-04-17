@@ -3,23 +3,18 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="SentenceComposer" expanded="True">
-            <Node name="SentenceComposer.Business" expanded="True">
-              <Node name="Services" expanded="True">
-                <Node name="Implementations" expanded="True" />
-                <Node name="Interfaces" expanded="True" />
-              </Node>
-            </Node>
-            <Node name="SentenceComposer.Tests" expanded="True" />
-            <Node name="SentenceComposer.UI" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
-          </Node>
+          <Node name="SentenceComposer" expanded="True" />
         </State>
       </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
-          <Node name="SentenceComposer" expanded="True" selected="True" />
+          <Node name="SentenceComposer" expanded="True">
+            <Node name="SentenceComposer.Tests" expanded="True">
+              <Node name="SentenceComposer.Tests" expanded="True">
+                <Node name="SentenceComposerTests" selected="True" />
+              </Node>
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>

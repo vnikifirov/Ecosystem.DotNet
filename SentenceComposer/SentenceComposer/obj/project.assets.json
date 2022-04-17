@@ -132,11 +132,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/lucifer/Projects/SentenceComposer/SentenceComposer/SentenceComposer.UI.csproj",
+      "projectUniqueName": "/Users/lucifer/Projects/Repos/DotNet/SentenceComposer/SentenceComposer/SentenceComposer.UI.csproj",
       "projectName": "SentenceComposer.UI",
-      "projectPath": "/Users/lucifer/Projects/SentenceComposer/SentenceComposer/SentenceComposer.UI.csproj",
+      "projectPath": "/Users/lucifer/Projects/Repos/DotNet/SentenceComposer/SentenceComposer/SentenceComposer.UI.csproj",
       "packagesPath": "/Users/lucifer/.nuget/packages/",
-      "outputPath": "/Users/lucifer/Projects/SentenceComposer/SentenceComposer/obj/",
+      "outputPath": "/Users/lucifer/Projects/Repos/DotNet/SentenceComposer/SentenceComposer/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/lucifer/.config/NuGet/NuGet.Config"
@@ -151,8 +151,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "/Users/lucifer/Projects/SentenceComposer/SentenceComposer.Business/SentenceComposer.Business.csproj": {
-              "projectPath": "/Users/lucifer/Projects/SentenceComposer/SentenceComposer.Business/SentenceComposer.Business.csproj"
+            "/Users/lucifer/Projects/Repos/DotNet/SentenceComposer/SentenceComposer.Business/SentenceComposer.Business.csproj": {
+              "projectPath": "/Users/lucifer/Projects/Repos/DotNet/SentenceComposer/SentenceComposer.Business/SentenceComposer.Business.csproj"
             }
           }
         }
@@ -181,7 +181,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.102/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.103/RuntimeIdentifierGraph.json"
       }
     }
   }

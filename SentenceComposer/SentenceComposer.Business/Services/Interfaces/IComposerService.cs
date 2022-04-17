@@ -13,6 +13,14 @@ namespace SentenceComposer.Business.Services.Interfaces
         /// <param name="baseWords">это наши вырезаные слова например из книги, памяти, файла, с web page или any service</param>
         /// <param name="target">это какое-то предолжение например "Мама мыла раму"</param>
         /// <returns></returns>
-        public bool CheckWords(string[] baseWords, string[] target);
+        public bool CheckWordsLINQ(string[] baseWords, string[] target);
+
+        /// <summary>
+        /// Check can we compose sentence from our words or not?
+        /// </summary>
+        /// <param name="baseWords">это наши вырезаные слова например из книги, памяти, файла, с web page или any service</param>
+        /// <param name="target">это какое-то предолжение например "Мама мыла раму"</param>
+        /// <returns>O(N + M)</returns>
+        public bool CheckWordsFast(string[] baseWords, string[] target);
     }
 }

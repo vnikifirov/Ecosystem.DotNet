@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading.Tasks;
 using SentenceComposer.Business.Services.Implementations;
 using SentenceComposer.Business.Services.Interfaces;
 
@@ -16,7 +17,7 @@ namespace SentenceComposer.UI
         // targetWords - это какое-то предолжение например "Мама мыла раму". 
         // Цель: мы должны понять можем ли мы составить предложение (которое у нас target) из выреаных слов (baseWords) или нет. 
         // Tip one: По задачке - можно использовать Dictionary<string, int> для обоих наборов данных и получить сложность O(n+m)
-        static void Main(string[] args)
+        static async Task Main(string[] args)
         {
             // User input reader
             Console.WriteLine("Please write your source eg web source / web page");
@@ -24,7 +25,7 @@ namespace SentenceComposer.UI
             var URL = Console.ReadLine();
 
             // Read text from web page
-            var rawText = _readerService.ReadTextFrom(URL);
+            var rawText = await _readerService.ReadTextFromAsync(URL);
             var words = rawText.Split(' ');
 
             // User input reader
@@ -34,7 +35,7 @@ namespace SentenceComposer.UI
             var targerWords = rawUserInput.Split(' ');
 
             // Display 
-            var isPossibleCompose = _composerService.CheckWords(words, targerWords);
+            var isPossibleCompose = _composerService.CheckWordsFast(words, targerWords);
             Console.WriteLine($"Is it possible to compose the sentence? {isPossibleCompose}");
 
             Console.ReadKey();
