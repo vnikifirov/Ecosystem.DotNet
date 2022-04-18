@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{9884FDD5-5546-425B-A9E5-FEB16509499D}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SynapticProblemsLINQ" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/lucifer/Projects/SynapticProblemsLINQ/SynapticProblemsLINQ/Program.cs" relfile="SynapticProblemsLINQ/Program.cs" line="25" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SynapticProblemsLINQ PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

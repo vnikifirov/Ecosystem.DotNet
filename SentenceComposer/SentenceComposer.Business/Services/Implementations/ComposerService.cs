@@ -7,9 +7,26 @@ namespace SentenceComposer.Business.Services.Implementations
     /// <inheritdoc/>
     public class ComposerService : IComposerService
     {
+        private string[] _baseWords { get; set; }
+        private string[] _target { get; set; }
+
+        public ComposerService() { }
+
+        /// <summary>
+        /// Create a new instance of ComposerService
+        /// </summary>
+        /// <param name="baseWords">это наши вырезаные слова например из книги, памяти, файла, с web page или any service</param>
+        /// <param name="target">это какое-то предолжение например "Мама мыла раму"</param>
+        public ComposerService(string[] baseWords, string[] target)
+        {
+            _baseWords = baseWords;
+            _target = target;
+        }
+
+        /// <inheritdoc/>
         public bool CheckWordsFast(string[] baseWords, string[] target)
         {
-            // Return False if we haven't recived any words from eg book, web page or web sevice or haven't any target sentence 
+            // Return False if we haven't received any words from eg book, web page or web sevice or haven't any target sentence 
             if (IsNullOrEmpty(baseWords) || IsNullOrEmpty(target))
                 return false;
 
@@ -26,11 +43,12 @@ namespace SentenceComposer.Business.Services.Implementations
 
             foreach (var baseword in baseWords) // O(M)
             {
-                if (dTarget.ContainsKey(baseword))
+                var trimed = baseword.Trim();
+                if (dTarget.ContainsKey(trimed))
                 {
-                    dTarget[baseword]--;
-                    if (dTarget[baseword] == 0)
-                        dTarget.Remove(baseword);
+                    dTarget[trimed]--;
+                    if (dTarget[trimed] == 0)
+                        dTarget.Remove(trimed);
                 }
             }
 
@@ -72,9 +90,6 @@ namespace SentenceComposer.Business.Services.Implementations
                 .All(word => word.Value >= 0); // Return False if we can't compose any words from eg book, webserivce and our target sentence otherwise true
         }
 
-        private bool IsNullOrEmpty(string[] words)
-        {
-            return words is null || !words.Any();
-        }
+        private bool IsNullOrEmpty(string[] words) => words is null || !words.Any();
     }
 }

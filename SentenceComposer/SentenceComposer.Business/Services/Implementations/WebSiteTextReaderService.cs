@@ -10,7 +10,7 @@ namespace SentenceComposer.Business.Services.Implementations
     /// <inheritdoc/>
     public class WebSiteTextReaderService : ITextReaderService
     {
-        public readonly int _russiaEncoding = 1251;
+        private readonly int _russiaEncoding = 1251;
 
         /// <inheritdoc/>
         public string ReadTextFrom(string source)

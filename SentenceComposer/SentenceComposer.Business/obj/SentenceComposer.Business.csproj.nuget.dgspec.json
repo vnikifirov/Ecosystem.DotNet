@@ -38,6 +38,10 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "HtmlAgilityPack": {
+              "target": "Package",
+              "version": "[1.11.42, )"
+            },
             "System.Text.Encoding.CodePages": {
               "target": "Package",
               "version": "[6.0.0, )"

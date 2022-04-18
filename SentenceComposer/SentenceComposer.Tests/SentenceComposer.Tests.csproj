@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NUnit" Version="3.12.0" />
+    <PackageReference Include="NUnit3TestAdapter" Version="3.16.1" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.5.0" />
+    <PackageReference Include="AutoFixture" Version="4.17.0" />
+    <PackageReference Include="Moq" Version="4.17.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SentenceComposer.Business\SentenceComposer.Business.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="AutoFixture" />
+    <None Remove="Moq" />
+    <None Remove="Performance\" />
+    <None Remove="UnitTests\" />
+    <None Remove="Integrations\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Performance\" />
+    <Folder Include="Units\" />
+    <Folder Include="Integrations\" />
+  </ItemGroup>
+</Project>

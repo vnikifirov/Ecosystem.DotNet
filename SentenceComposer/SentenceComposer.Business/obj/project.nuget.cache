@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "6MyJFg6EsurmWtl1a/i93NSUBuuxvEYq1/N5eaumdGVoEM2duEj9fu9RYinb8YuAYoiZFoPSVkdb2oipFw8vYA==",
+  "dgSpecHash": "Idr7WKefhvf+FHs2m+C5I/n5448/FbvKewqaeQk/ffzvK6HwZRmk6twCS7eYtucmxYhCN9WFrsmgfjaX5+QX7A==",
   "success": true,
   "projectFilePath": "/Users/lucifer/Projects/Repos/DotNet/SentenceComposer/SentenceComposer.Business/SentenceComposer.Business.csproj",
   "expectedPackageFiles": [
+    "/Users/lucifer/.nuget/packages/htmlagilitypack/1.11.42/htmlagilitypack.1.11.42.nupkg.sha512",
     "/Users/lucifer/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "/Users/lucifer/.nuget/packages/system.text.encoding.codepages/6.0.0/system.text.encoding.codepages.6.0.0.nupkg.sha512"
   ],

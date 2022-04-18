@@ -9,6 +9,7 @@
     <None Remove="Services\Implementations\" />
     <None Remove="Services\Interfaces\" />
     <None Remove="System.Text.Encoding.CodePages" />
+    <None Remove="HtmlAgilityPack" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Services\" />
@@ -17,5 +18,6 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="System.Text.Encoding.CodePages" Version="6.0.0" />
+    <PackageReference Include="HtmlAgilityPack" Version="1.11.42" />
   </ItemGroup>
 </Project>
