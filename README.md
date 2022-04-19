@@ -50,6 +50,8 @@
 
 24. [Senior My own implementation of LINQ Select, Where, SelectMany in C# / .NET](https://github.com/vnikifirov/DotNet/tree/master/SynapticProblemsLINQ)
 
+25. [Senior My own implementation of Sudoku Japanese game in C# / .NET](https://github.com/vnikifirov/DotNet/tree/master/Sudoku)
+
 # Note
 
 * If you like this repo and find it useful, please consider ★ starring it (on top right of the page) :)

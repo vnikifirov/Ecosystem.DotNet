@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Business\" />
+    <None Remove="Business\Implementations\" />
+    <None Remove="Business\Interfaces\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Business\" />
+    <Folder Include="Business\Implementations\" />
+    <Folder Include="Business\Interfaces\" />
+  </ItemGroup>
+</Project>
