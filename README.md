@@ -44,9 +44,11 @@
 
 21. [Intern/Senior polindrome phrase in C# / .NET](https://github.com/vnikifirov/DotNet/tree/master/PolindromePhrase)
 
-22. [Intern/Senior My own impementation of IEnumerable in C# / .NET](https://github.com/vnikifirov/DotNet/tree/master/MyIEnumerable)
+22. [Middle/Senior My own impementation of IEnumerable in C# / .NET](https://github.com/vnikifirov/DotNet/tree/master/MyIEnumerable)
 
 23. [Middle+/Senior RabbitMQ - Have done with Producer (Sender) & Consumer (Receiver) of my messages & some logic of RibbitMQ itself which's incapsulated (blackbox) in abstract class C# / .NET](https://github.com/vnikifirov/DotNet/tree/master/MessageLogic)
+
+24. [Senior My own implementation of LINQ Select, Where, SelectMany in C# / .NET](https://github.com/vnikifirov/DotNet/tree/master/SynapticProblemsLINQ)
 
 # Note
 
