@@ -11,7 +11,7 @@ namespace SentenceComposer.Business.Services.Implementations
         /// <summary>
         /// Delimiters are to split text by them
         /// </summary>
-        private readonly char[] Delimiters = new char[] { ' ', '\r', '\n', ',', '-', '!', '.' };
+        private readonly char[] Delimiters = new char[] { ' ', '\r', '\n', ',', '-', '!', '.', ';', '\'', '\"', '`' };
 
 
         /// <summary>

@@ -12,7 +12,7 @@ namespace SentenceComposer.Tests.Integration
         private ITextReaderService _readerService { get; set; }
 
         public string URL { get; set; } = "http://rulyrics.ru/ru/b/belina_sasha/mama_myla_ramu.html";
-        public readonly char[] Delimiters = new char[] { ' ', '\r', '\n', ',', '-', '!', '.' };
+        private readonly char[] Delimiters = new char[] { ' ', '\r', '\n', ',', '-', '!', '.', ';', '\'', '\"', '`' };
 
         [SetUp]
         public void Setup()
