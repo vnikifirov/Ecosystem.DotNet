@@ -30,6 +30,7 @@ namespace SentenceComposer.Business.Services.Implementations
         public async Task<bool> ComposeSentenceAsync(string url, string userInput)
         {
             // Read text from web page
+            // TODO: Make cache + Decorator with better Microsoft or Redis
             var rawText = await _readerService.ReadTextFromAsync(url);
 
             var words = rawText.Split(Delimiters);

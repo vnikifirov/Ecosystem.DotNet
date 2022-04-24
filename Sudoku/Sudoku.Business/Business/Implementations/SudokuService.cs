@@ -6,13 +6,20 @@ namespace Sudoku.Business.Implementations
 {
     public class SudokuService : ISudokuServiceHasSet
     {
+        /// <summary>
+        /// Determine if a 9x9 Sudoku board is valid.
+        /// </summary>
+        /// <param name="matrix">Sudoku board</param>
+        /// <returns>Time complicity: worst case O(N^2) best case O(1), Space complicty: O(N)</returns>
         public bool IsRightFilled(int[,] matrix)
         {
             if (!IsNotNullAndRightSize(matrix))
                 throw new ArgumentException(nameof(matrix));
 
+            // Y-axis
             for (int row = 0; row < matrix.GetLength(0); row++)
             {
+                // X-axis
                 var xValues = new HashSet<int>();
                 for (int col = 0; col < matrix.GetLength(1); col++)
                 {
@@ -20,6 +27,19 @@ namespace Sudoku.Business.Implementations
                         return false;
                 }
             }
+
+            // X-axis
+            for (int col = 0; col < matrix.GetLength(1); col++)
+            {
+                // Y-axis
+                var yValues = new HashSet<int>();
+                for (int row = 0; row < matrix.GetLength(0); row++)
+                {
+                    if (!IsValueInRange(matrix[row, col]) || !yValues.Add(matrix[row, col]))
+                        return false;
+                }
+            }
+
 
             return true; 
         }

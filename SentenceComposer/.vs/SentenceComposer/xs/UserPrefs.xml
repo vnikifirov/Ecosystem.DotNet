@@ -1,15 +1,31 @@
 ﻿<Properties StartupConfiguration="{7996C857-DCFB-4AF8-A47F-88ADAD73E9AE}|Default">
   <MonoDevelop.Ide.ItemProperties.SentenceComposer.Console PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="SentenceComposer.Business/Services/Implementations/SentenceComposerService.cs">
+    <Files>
+      <File FileName="SentenceComposer.Console/Program.cs" Line="33" Column="73" />
+      <File FileName="SentenceComposer.Business/Services/Implementations/SentenceComposerService.cs" Line="20" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SentenceComposer" expanded="True">
-            <Node name="SentenceComposer.Business" expanded="True" />
-            <Node name="SentenceComposer.Console" expanded="True">
-              <Node name="Program.cs" selected="True" />
+            <Node name="SentenceComposer.Business" expanded="True">
+              <Node name="Services" expanded="True">
+                <Node name="Implementations" expanded="True">
+                  <Node name="SentenceComposerService.cs" selected="True" />
+                </Node>
+              </Node>
             </Node>
+            <Node name="SentenceComposer.Console" expanded="True" />
+            <Node name="SentenceComposer.Tests" expanded="True" />
           </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>matrix[row, col] </Value>
+          <Value>value </Value>
+          <Value>value &gt; 0 &amp;&amp; value &lt;= 9</Value>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">

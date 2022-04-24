@@ -1,9 +1,16 @@
 ﻿<Properties StartupConfiguration="{9884FDD5-5546-425B-A9E5-FEB16509499D}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="SynapticProblemsLINQ/Program.cs">
+    <Files>
+      <File FileName="SynapticProblemsLINQ/Program.cs" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="SynapticProblemsLINQ" expanded="True" />
+          <Node name="SynapticProblemsLINQ" expanded="True">
+            <Node name="SynapticProblemsLINQ" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
@@ -12,7 +19,7 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/lucifer/Projects/SynapticProblemsLINQ/SynapticProblemsLINQ/Program.cs" relfile="SynapticProblemsLINQ/Program.cs" line="25" column="1" />
+      <Breakpoint file="/Users/lucifer/Projects/Repos/DotNet/SynapticProblemsLINQ/SynapticProblemsLINQ/Program.cs" relfile="SynapticProblemsLINQ/Program.cs" line="25" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />

@@ -50,6 +50,7 @@ namespace BalanceOfParentheses
 
                 if (c == ')')
                 {
+                    // Параметр с ключевым слово out может быть не инициализирован,
                     if (Stack.TryPop(out char r))
                     {
                         continue;
