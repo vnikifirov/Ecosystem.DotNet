@@ -23,9 +23,8 @@ namespace SentenceComposer.Business.Services.Implementations
         /// <param name="readerService">Takes Reader Service</param>
         public SentenceComposerService()
         {
-            var diContainer = DIContainer.Instance;
-            _composerService = diContainer.ServiceProvider.GetService<IComposerService>();
-            _readerService = diContainer.ServiceProvider.GetService<ITextReaderService>();
+            _composerService = DIContainer.ServiceProvider.GetService<IComposerService>();
+            _readerService = DIContainer.ServiceProvider.GetService<ITextReaderService>();
         }
 
         /// TODO: Rename method ComposeSentence 

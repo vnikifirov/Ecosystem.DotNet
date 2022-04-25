@@ -9,14 +9,18 @@ namespace SentenceComposer.Business.Services.Implementations
         /// <summary>
         /// Singleton of DIContainer
         /// </summary>
-        private static DIContainer _instance { get; } = new DIContainer();
+        /*private static DIContainer _instance { get; } = new DIContainer();
         public static DIContainer Instance
         {
             get => _instance;
-        }
+        }*/
 
-        private IServiceProvider _serviceProvider;
-        public IServiceProvider ServiceProvider
+        private static IServiceProvider _serviceProvider;
+
+        /// <summary>
+        /// Singleton of DI container
+        /// </summary>
+        public static IServiceProvider ServiceProvider
         {
             get
             {
@@ -29,26 +33,14 @@ namespace SentenceComposer.Business.Services.Implementations
             }
         }
 
-        //private DIContainer() => Init();
-
-        private DIContainer()
-        {
-            //setup our DI
-            var serviceCollection = new ServiceCollection()
-                //.AddScoped<ISentenceComposerService, SentenceComposerService>()
-                .AddScoped<ITextReaderService, WebSiteTextReaderService>()
-                //.AddScoped<ITextReaderService, CacheTextReaderService>()
-                .AddScoped<IComposerService, ComposerService>();
-
-            _serviceProvider = serviceCollection.BuildServiceProvider();
-        }
+        private DIContainer() => Init();
         
-        private void Init()
+        private static void Init()
         {
             //setup our DI
             var serviceCollection = new ServiceCollection()
                 //.AddScoped<ISentenceComposerService, SentenceComposerService>()
-                .AddScoped<ITextReaderService, WebSiteTextReaderService>()
+                .AddScoped<ITextReaderService, HtmlAgilityPackTextReaderService>()
                 //.AddScoped<ITextReaderService, CacheTextReaderService>()
                 .AddScoped<IComposerService, ComposerService>();
 

@@ -33,7 +33,7 @@ namespace SentenceComposer.Console
             var userInput = ReadLine();
 
             // Display 
-            var isPossibleCompose = await _sentenceComposerService.ComposeSentenceAsync(URL, userInput);
+            var isPossibleCompose = await _sentenceComposerService?.ComposeSentenceAsync(URL, userInput);
             WriteLine($"Is it possible to compose the sentence? {isPossibleCompose}");
             ReadKey();
         }

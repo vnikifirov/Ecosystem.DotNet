@@ -15,8 +15,7 @@ namespace SentenceComposer.Business.Services.Implementations
 
         private void Init()
         {
-            var diContainer = DIContainer.Instance;
-            _innerService = diContainer.ServiceProvider.GetService<ITextReaderService>();
+            _innerService = DIContainer.ServiceProvider.GetService<ITextReaderService>();
             var options = GetMemoryCacheOptions();
             _cacheService = new MemoryCache(options);
         }
