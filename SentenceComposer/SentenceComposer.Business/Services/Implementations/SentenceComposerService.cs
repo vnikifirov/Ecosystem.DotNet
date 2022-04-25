@@ -1,5 +1,7 @@
-﻿using SentenceComposer.Business.Services.Interfaces;
+﻿using System;
+using SentenceComposer.Business.Services.Interfaces;
 using System.Threading.Tasks;
+using Microsoft.Extensions.DependencyInjection;
 
 namespace SentenceComposer.Business.Services.Implementations
 {
@@ -19,10 +21,11 @@ namespace SentenceComposer.Business.Services.Implementations
         /// </summary>
         /// <param name="composerService">Takes Composer Service</param>
         /// <param name="readerService">Takes Reader Service</param>
-        public SentenceComposerService(IComposerService composerService, ITextReaderService readerService)
+        public SentenceComposerService()
         {
-            _composerService = composerService;
-            _readerService = readerService;
+            var diContainer = DIContainer.Instance;
+            _composerService = diContainer.ServiceProvider.GetService<IComposerService>();
+            _readerService = diContainer.ServiceProvider.GetService<ITextReaderService>();
         }
 
         /// TODO: Rename method ComposeSentence 

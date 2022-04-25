@@ -1,4 +1,7 @@
-﻿using System.Threading.Tasks;
+﻿using System;
+using System.Threading.Tasks;
+using Microsoft.Extensions.Caching.Memory;
+using Microsoft.Extensions.DependencyInjection;
 using SentenceComposer.Business.Services.Implementations;
 using SentenceComposer.Business.Services.Interfaces;
 
@@ -8,7 +11,7 @@ namespace SentenceComposer.Console
 {
     class Program
     {
-        private static ISentenceComposerService _sentenceComposerService { get; set; } = new SentenceComposerService(new ComposerService(),new HtmlAgilityPackTextReaderService());
+        private static ISentenceComposerService _sentenceComposerService = new SentenceComposerService();
 
         // У тебя есть книга и ты из этой книги вырезаешь слова. 
         // На каком-то этапе у тебя набралось 10 тыс слов
@@ -18,7 +21,7 @@ namespace SentenceComposer.Console
         // Цель: мы должны понять можем ли мы составить предложение (которое у нас target) из выреаных слов (baseWords) или нет. 
         // Tip one: По задачке - можно использовать Dictionary<string, int> для обоих наборов данных и получить сложность O(n+m)
         static async Task Main(string[] args)
-        {             
+        {
             // User input reader
             WriteLine("Please write your source eg web source / web page");
             // URL - you can get data from this web site http://rulyrics.ru/ru/b/belina_sasha/mama_myla_ramu.html 

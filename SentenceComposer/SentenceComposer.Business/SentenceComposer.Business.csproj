@@ -10,6 +10,9 @@
     <None Remove="Services\Interfaces\" />
     <None Remove="System.Text.Encoding.CodePages" />
     <None Remove="HtmlAgilityPack" />
+    <None Remove="Microsoft.Extensions.Caching.Memory" />
+    <None Remove="Microsoft.Extensions.DependencyInjection.Abstractions" />
+    <None Remove="Microsoft.Extensions.DependencyInjection" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Services\" />
@@ -19,5 +22,8 @@
   <ItemGroup>
     <PackageReference Include="System.Text.Encoding.CodePages" Version="6.0.0" />
     <PackageReference Include="HtmlAgilityPack" Version="1.11.42" />
+    <PackageReference Include="Microsoft.Extensions.Caching.Memory" Version="6.0.1" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="6.0.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="6.0.0" />
   </ItemGroup>
 </Project>
