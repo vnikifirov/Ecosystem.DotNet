@@ -1,7 +1,4 @@
-﻿using System;
-using System.Threading.Tasks;
-using Microsoft.Extensions.Caching.Memory;
-using Microsoft.Extensions.DependencyInjection;
+﻿using System.Threading.Tasks;
 using SentenceComposer.Business.Services.Implementations;
 using SentenceComposer.Business.Services.Interfaces;
 
