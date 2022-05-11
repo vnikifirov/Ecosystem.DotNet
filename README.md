@@ -20,7 +20,7 @@
 
 9. [Example of xUnitTest and ASP.NET Core](https://github.com/vnikifirov/DotNet/tree/master/xUnitTest)
 
-10. [Junior Test Task - ООО "Лаверна Трейд"Срок ](https://github.com/vnikifirov/DotNet/tree/master/ConsoleApp1)
+10. [Junior Test Task - ООО "Лаверна Трейд"Срок](https://github.com/vnikifirov/DotNet/tree/master/ConsoleApp1)
 
 11. [Junior/Middle Test Full Stack - ARORA marketing agency](https://github.com/vnikifirov/DotNet/tree/master/test-full-stack)
 
@@ -30,7 +30,7 @@
 
 14. [Middle/Senior Test SentenceComposer - FriendWork](https://github.com/vnikifirov/DotNet/tree/master/SentenceComposer)
 
-15. [Middle/Senior Test CyclicTask - SharpDev](https://github.com/vnikifirov/DotNet/tree/master/CyclicTask)
+15. [Middle/Senior Test CyclicTask - Sharp Developers](https://github.com/vnikifirov/DotNet/tree/master/CyclicTask)
 
 16. [Middle/Senior Test BalanceOfParentheses - mentor Алексей Захаров Senior .Net-developer](https://github.com/vnikifirov/DotNet/tree/master/BalanceOfParentheses)
 
@@ -38,19 +38,33 @@
 
 18. [Example of Closure in .NET - mentor Алексей Захаров Senior .Net-developer](https://github.com/vnikifirov/DotNet/tree/master/Closure)
 
-19. [Algorithm reverse LinkedList in C# / .NET](https://github.com/vnikifirov/DotNet/tree/master/ReverseLinkedList)
+19. [Algorithms of Company Google reverse LinkedList in C# / .NET ](https://github.com/vnikifirov/DotNet/tree/master/ReverseLinkedList)
 
 20. [Algorithm SlidingWindow in C# / .NET](https://github.com/vnikifirov/DotNet/tree/master/SlidingWindow)
 
-21. [Intern/Senior polindrome phrase in C# / .NET](https://github.com/vnikifirov/DotNet/tree/master/PolindromePhrase)
+21. [Intern/Senior polindrome phrase in C# / .NET - Avanan](https://github.com/vnikifirov/DotNet/tree/master/PolindromePhrase)
 
-22. [Middle/Senior My own impementation of IEnumerable in C# / .NET](https://github.com/vnikifirov/DotNet/tree/master/MyIEnumerable)
+22. [Middle/Senior My own impementation of IEnumerable in C# / .NET - Synaptic](https://github.com/vnikifirov/DotNet/tree/master/MyIEnumerable)
 
 23. [Middle+/Senior RabbitMQ - Have done with Producer (Sender) & Consumer (Receiver) of my messages & some logic of RibbitMQ itself which's incapsulated (blackbox) in abstract class C# / .NET](https://github.com/vnikifirov/DotNet/tree/master/MessageLogic)
 
-24. [Senior My own implementation of LINQ Select, Where, SelectMany in C# / .NET](https://github.com/vnikifirov/DotNet/tree/master/SynapticProblemsLINQ)
+24. [Senior My own implementation of LINQ Select, Where, SelectMany in C# / .NET - Synaptic](https://github.com/vnikifirov/DotNet/tree/master/SynapticProblemsLINQ)
 
-25. [Senior My own implementation of Sudoku Japanese game in C# / .NET](https://github.com/vnikifirov/DotNet/tree/master/Sudoku)
+25. [Senior My own solution LeetCode problem of Sudoku Japanese game in C# / .NET](https://github.com/vnikifirov/DotNet/tree/master/Sudoku)
+
+26. [Senior Completely new Backgorund file manager serveces instead the Extraction Service of Suncom in C# / .NET](https://github.com/vnikifirov/DotNet/tree/master/BackgroundFileManagerService)
+
+27. [Senior Algorithms BinaryTree or B-Tree DFS and BFS in C# / .NET](https://github.com/vnikifirov/DotNet/tree/master/BinaryTree)
+
+28. [Senior Crypto currenncy app in C# / .NET - Contractor: Egor from REPETIT](https://github.com/vnikifirov/DotNet/tree/master/CryptoCurrency)
+
+29. [Senior Implementation of IoC DI Container in C# / .NET](https://github.com/vnikifirov/DotNet/tree/master/IoC.Web.DIContainer)
+
+30. [Senior Algorithms of Company Google MergeSort & QuickSort in C# / .NET](https://github.com/vnikifirov/DotNet/tree/master/MergeSort)
+
+31. [Senior Algorithms of Company Google RobotBoundedMatrix in C# / .NET](https://github.com/vnikifirov/DotNet/tree/master/RobotBoundedMatrix)
+
+32. [Senior Web-Scraping Engineer - Web Scrapping Service in C# / .NET - The problem same as UK Import.io company had](https://github.com/vnikifirov/DotNet/trees/master/WebScrappingService)
 
 # Note
 
