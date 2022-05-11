@@ -1,18 +1,27 @@
 ﻿<Properties StartupConfiguration="{FE90DF56-D10C-4872-BA89-8B9446B83D81}|Default">
   <MonoDevelop.Ide.ItemProperties.IoC.Web.DIContainer.Console PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="IoC.Web.DIContainer.Business/Business/Implementations/BackgroundService.cs">
+    <Files>
+      <File FileName="IoC.Web.DIContainer.Business/Business/Implementations/BackgroundService.cs" Line="20" Column="5" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="IoC.Web.DIContainer" expanded="True" selected="True" />
+          <Node name="IoC.Web.DIContainer" expanded="True">
+            <Node name="IoC.Web.DIContainer.Business" expanded="True">
+              <Node name="Business" expanded="True">
+                <Node name="Implementations" expanded="True">
+                  <Node name="BackgroundService.cs" selected="True" />
+                </Node>
+                <Node name="Interfaces" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="IoC.Web.DIContainer.Console" expanded="True" />
+          </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.IoC.Web.DIContainer.Business FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
