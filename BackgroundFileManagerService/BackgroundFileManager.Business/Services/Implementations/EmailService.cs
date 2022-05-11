@@ -28,6 +28,7 @@ namespace BackgroundFileService.Business.Services.Implementations
 
         public IEmailService From(string fromAddress) => this;
 
+        /// <inheritdoc/>
         public IEmailService To(params string[] toAddresses)
         {
             foreach (string toAddress in toAddresses)
@@ -36,6 +37,7 @@ namespace BackgroundFileService.Business.Services.Implementations
             return this;
         }
 
+        /// <inheritdoc/>
         public IEmailService WithSubject(string subject)
         {
             _mailMessage.Subject = subject;
@@ -50,7 +52,7 @@ namespace BackgroundFileService.Business.Services.Implementations
             return this;
         }
 
-        // TODO: Mtake support of async / await  
+        /// <inheritdoc/>
         public async Task SendWithAttachmentAsync(string username, string password, string fileName, CancellationToken cancellationToken)
         {
             byte[] data;
@@ -75,7 +77,6 @@ namespace BackgroundFileService.Business.Services.Implementations
 
             try
             {
-
                 disposition.FileName = System.IO.Path.GetFileName(fileName);
                 disposition.Size = data.Length;
                 disposition.CreationDate = System.IO.File.GetCreationTime(fileName);
@@ -98,6 +99,7 @@ namespace BackgroundFileService.Business.Services.Implementations
             ms.Close();
         }
 
+        /// <inheritdoc/>
         public async Task SendAsync(string username, string password, CancellationToken cancellationToken)
         {
             try

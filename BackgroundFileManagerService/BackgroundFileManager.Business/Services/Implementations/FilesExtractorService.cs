@@ -67,7 +67,6 @@ namespace BackgroundFileService.Business.Services.Implementations
                 if (newFiles.Length > 0)
                     files.AddRange(newFiles);
             }
-            // TODO: Improve exception handling
             catch (Exception ex)
             {
                 _logger.LogError(ex, ex.Message);
@@ -88,7 +87,7 @@ namespace BackgroundFileService.Business.Services.Implementations
         /// <param name="files">Where files that you want to copy</param>
         /// <param name="targetDir">The direcory you want to copy files to</param>
         /// <param name="overwrite">Replace Files</param>
-        private void InnerCopyFiles(IEnumerable<string> files, string targetDir, bool overwrite)
+        private void InnerCopyFiles(IEnumerable<string> files, string targetDir, bool overwrite = true)
         {
             // Create a blank list for the copied files
             var copiedFiles = new List<string>();
@@ -141,9 +140,9 @@ namespace BackgroundFileService.Business.Services.Implementations
             try
             {
                 var dirPath = Path.GetFullPath(path);
-                if (string.IsNullOrWhiteSpace(dirPath))        
+                if (string.IsNullOrWhiteSpace(dirPath))
                     return true;
-                
+
                 return false;
             }
             catch (PathTooLongException ex)
@@ -162,11 +161,11 @@ namespace BackgroundFileService.Business.Services.Implementations
 
         /// <inheritdoc/>
         public event ChangedEventHandler FilesCopied;
-        
+
         protected void OnFilesCopied(FilesCopiedEventArgs e) => FilesCopied?.Invoke(this, e);
 
         /// <inheritdoc/>
-        public Task CopyFilesAsync(string sourceDir, string targetDir, CancellationToken cancellationToken, bool overwrite = true)
+        public async Task CopyFilesAsync(string sourceDir, string targetDir, CancellationToken cancellationToken, bool overwrite = true)
         {
             if (string.IsNullOrWhiteSpace(sourceDir))
             {
@@ -195,19 +194,56 @@ namespace BackgroundFileService.Business.Services.Implementations
                 var ex = new DirectoryNotFoundException(nameof(targetDir));
                 _logger.LogError(ex, ex.Message);
                 throw ex;
-            }
+            }       
 
-            // Create a blank list for the source files
-            var files = new List<string>();
-
-            // Try and get files from the directories
             // catch any issues
             try
             {
                 // Get files from the source directory
-                throw new NotImplementedException();
+                var newFiles = Directory.GetFiles(sourceDir, "*", SearchOption.AllDirectories);
+
+                if (newFiles.Length <= 0)
+                    return;
+
+                var tasks = new List<Task>();
+
+                newFiles
+                    .ToList()
+                    .ForEach(filePath =>
+                    {
+                        // Get file name
+                        var filename = Path.GetFileName(filePath);
+
+                        // catch any issues
+                        try
+                        {
+                            // Get a target path
+                            var targetPath = Path.Combine(targetDir, filename);
+                            // Copy a file from the Source Directory to Target Directory
+                            using var sourceStream = File.OpenRead(sourceDir);
+                            using var targetStream = File.Create(targetPath);
+                            // Copy a file from the Source Directory to Target Directory
+                            tasks.Add(sourceStream.CopyToAsync(targetStream, cancellationToken));
+                        }
+                        catch (IOException ex)
+                        {
+                            // If file alrady exist
+                            _logger.LogInformation(ex, ex.Message);
+                            throw ex;
+                        }
+                        catch (Exception ex) // If something goes wrong
+                        {
+                            var notSupportedException = new NotSupportedException(ex.ToString());
+                            _logger.LogError(notSupportedException, notSupportedException.Message);
+                            throw notSupportedException;
+                        }
+                    });
+
+                await Task.WhenAll(tasks.ToArray());
+
+                // Fired event and sending the list with copied files to there as agrs
+                OnFilesCopied(new FilesCopiedEventArgs(newFiles));
             }
-            // TODO: Improve exception handling
             catch (Exception ex)
             {
                 _logger.LogError(ex, ex.Message);
