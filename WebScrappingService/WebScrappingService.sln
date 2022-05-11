@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SentenceComposer.Business", "WebScrappingService\SentenceComposer.Business.csproj", "{CEDED306-D568-43A6-A375-082F804E6939}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebScrappingService.Tests", "WebScrappingService.Tests\WebScrappingService.Tests.csproj", "{13C5129B-83F8-4174-AE0E-83F666C60E67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEDED306-D568-43A6-A375-082F804E6939}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEDED306-D568-43A6-A375-082F804E6939}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEDED306-D568-43A6-A375-082F804E6939}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEDED306-D568-43A6-A375-082F804E6939}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13C5129B-83F8-4174-AE0E-83F666C60E67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13C5129B-83F8-4174-AE0E-83F666C60E67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13C5129B-83F8-4174-AE0E-83F666C60E67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13C5129B-83F8-4174-AE0E-83F666C60E67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6695F2A0-E8D8-48EE-B9A8-DE9E93FB87B6}
+	EndGlobalSection
+EndGlobal
