@@ -8,7 +8,7 @@ namespace BinaryTree.Business.Interfaces.Business
     public interface IBinaryTreeSearch
     {
         /// <summary>
-        /// Find the (node) value in the BST that the node's value equals val and return the subtree (values) rooted with that node (value). If such a node (value) does not exist, return null.
+        /// Find the (node) value in the DFS that the node's value equals val and return the subtree (values) rooted with that node (value). If such a node (value) does not exist, return null.
         /// </summary>
         /// <param name="tree">Your B-tree or Binary Tree</param>
         /// <param name="target">Value what you're searching for</param>
