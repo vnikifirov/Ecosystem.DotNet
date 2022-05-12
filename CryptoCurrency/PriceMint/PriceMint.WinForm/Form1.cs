@@ -26,7 +26,7 @@ namespace PriceMint
         {
             // _timer = new Timer(DoWork, null, TimeSpan.Zero, TimeSpan.FromSeconds(5));
             _timer = new System.Windows.Forms.Timer();
-            _timer.Interval = (int)TimeSpan.FromSeconds(5).TotalSeconds;
+            _timer.Interval = 1000 * (int)TimeSpan.FromSeconds(5).TotalSeconds;
             _timer.Tick += async (sender, e) => await DoWork();
             _timer.Start();
         }
