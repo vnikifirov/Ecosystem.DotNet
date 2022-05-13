@@ -17,16 +17,25 @@ namespace PriceMint
 
         private async Task DoWork()
         {
-            SetNewGST((await _currencyService.GetCurrencyAsync<Gst>("gst2")).ToString());
-            SetNewGMT((await _currencyService.GetCurrencyAsync<Gmt>("gmt")).ToString());
-            SetNewSOL((await _currencyService.GetCurrencyAsync<Solana>("sol")).ToString());
+
+            Action action = () =>
+            {
+                gst.Text = (await _currencyService.GetCurrencyAsync<Gst>("gst2")).ToString();
+                // other currency 
+            };
+
+            Invoke(action);
+
+            //SetNewGST((await _currencyService.GetCurrencyAsync<Gst>("gst2")).ToString());
+            //SetNewGMT((await _currencyService.GetCurrencyAsync<Gmt>("gmt")).ToString());
+            //SetNewSOL((await _currencyService.GetCurrencyAsync<Solana>("sol")).ToString());
         }
 
         public void StartTimer()
         {
             // _timer = new Timer(DoWork, null, TimeSpan.Zero, TimeSpan.FromSeconds(5));
             _timer = new System.Windows.Forms.Timer();
-            _timer.Interval = 1000 * (int)TimeSpan.FromSeconds(5).TotalSeconds;
+            _timer.Interval = (int)TimeSpan.FromSeconds(5).TotalMilliseconds;
             _timer.Tick += async (sender, e) => await DoWork();
             _timer.Start();
         }
