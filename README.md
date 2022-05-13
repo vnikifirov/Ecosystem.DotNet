@@ -66,6 +66,8 @@
 
 32. [Senior Web-Scraping Engineer - Web Scrapping Service in C# / .NET - The problem same as UK Import.io company had](https://github.com/vnikifirov/DotNet/tree/master/WebScrappingService)
 
+33. [Computer Science, Cryptography - Diffie–Hellman Client Server application is method of securely exchanging cryptographic keys in C# / .NET 6](https://github.com/vnikifirov/DotNet/tree/master/DiffieHellman)
+
 # Note
 
 * If you like this repo and find it useful, please consider ★ starring it (on top right of the page) :)
