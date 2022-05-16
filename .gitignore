@@ -1,9 +1,0 @@
-ClearScript_Threads/obj/*
-ClearScript_Threads/bin/*
-ClearScript_Threads/.vs/*
-WebService/Distribution/app/Users.Web/bin/*
-WebService/Source/Users.Web/Scripts/*
-WebService/Distribution/app/Users.Web/Content/*
-WebService/Distribution/app/Users.Web/Scripts/*
-WebService/Source/Users.Web/Content/*
-WebService/Source/.vs/*
