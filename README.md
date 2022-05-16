@@ -20,7 +20,7 @@
 
 9. [Example of xUnitTest and ASP.NET Core](https://github.com/vnikifirov/DotNet/tree/master/xUnitTest)
 
-10. [Junior Test Task - ООО "Лаверна Трейд"Срок](https://github.com/vnikifirov/DotNet/tree/master/ConsoleApp1)
+10. [Software / Solution Architecture - Image Manager Service - ООО "Лаверна Трейд"Срок](https://github.com/vnikifirov/DotNet/tree/master/ImageManagerService)
 
 11. [Junior/Middle Test Full Stack - ARORA marketing agency](https://github.com/vnikifirov/DotNet/tree/master/test-full-stack)
 
@@ -56,7 +56,7 @@
 
 27. [Senior Algorithms BinaryTree or B-Tree DFS and BFS in C# / .NET](https://github.com/vnikifirov/DotNet/tree/master/BinaryTree)
 
-28. [Senior Crypto currenncy app in C# / .NET - Contractor: Egor from REPETIT](https://github.com/vnikifirov/DotNet/tree/master/CryptoCurrency)
+28. [Software / Solution Architecture Crypto currenncy app in C# / .NET - Contractor: Egor from REPETIT](https://github.com/vnikifirov/DotNet/tree/master/CryptoCurrency)
 
 29. [Senior Implementation of IoC DI Container in C# / .NET](https://github.com/vnikifirov/DotNet/tree/master/IoC.Web.DIContainer)
 
@@ -66,7 +66,7 @@
 
 32. [Senior Web-Scraping Engineer - Web Scrapping Service in C# / .NET - The problem same as UK Import.io company had](https://github.com/vnikifirov/DotNet/tree/master/WebScrappingService)
 
-33. [Computer Science, Cryptography - Diffie–Hellman Client Server application is method of securely exchanging cryptographic keys in C# / .NET 6](https://github.com/vnikifirov/DotNet/tree/master/DiffieHellman)
+33. [Software / Solution Architecture Computer Science, Cryptography - Diffie–Hellman Client Server application is method of securely exchanging cryptographic keys in C# / .NET 6](https://github.com/vnikifirov/DotNet/tree/master/DiffieHellman)
 
 # Note
 

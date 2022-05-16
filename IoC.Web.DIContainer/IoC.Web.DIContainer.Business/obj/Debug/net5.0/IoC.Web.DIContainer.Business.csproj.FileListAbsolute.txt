@@ -1,5 +1,0 @@
-/Users/lucifer/Projects/Repos/DotNet/IoC.Web.DIContainer/IoC.Web.DIContainer.Business/obj/Debug/net5.0/IoC.Web.DIContainer.Business.csproj.AssemblyReference.cache
-/Users/lucifer/Projects/Repos/DotNet/IoC.Web.DIContainer/IoC.Web.DIContainer.Business/obj/Debug/net5.0/IoC.Web.DIContainer.Business.GeneratedMSBuildEditorConfig.editorconfig
-/Users/lucifer/Projects/Repos/DotNet/IoC.Web.DIContainer/IoC.Web.DIContainer.Business/obj/Debug/net5.0/IoC.Web.DIContainer.Business.AssemblyInfoInputs.cache
-/Users/lucifer/Projects/Repos/DotNet/IoC.Web.DIContainer/IoC.Web.DIContainer.Business/obj/Debug/net5.0/IoC.Web.DIContainer.Business.AssemblyInfo.cs
-/Users/lucifer/Projects/Repos/DotNet/IoC.Web.DIContainer/IoC.Web.DIContainer.Business/obj/Debug/net5.0/IoC.Web.DIContainer.Business.csproj.CoreCompileInputs.cache
