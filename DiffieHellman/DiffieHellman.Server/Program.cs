@@ -3,7 +3,7 @@
 // Add services to the container.
 
 builder.Services.AddControllers();
-builder.Services.AddSingleton<DiffieHellman.Business.DiffieHellman>();
+builder.Services.AddSingleton<DiffieHellman.Business.Services.Interfaces.IDiffieHellmanService, DiffieHellman.Business.Services.Implementation.DiffieHellmanService>();
 
 var app = builder.Build();
 
