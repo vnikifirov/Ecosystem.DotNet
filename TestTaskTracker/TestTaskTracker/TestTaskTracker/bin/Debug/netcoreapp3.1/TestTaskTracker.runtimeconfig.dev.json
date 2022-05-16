@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "/Users/lucifer/.dotnet/store/|arch|/|tfm|",
-      "/Users/lucifer/.nuget/packages"
-    ]
-  }
-}
