@@ -2,23 +2,23 @@
 
 # Resources:
 
-1. [JSON Patch and ASP.NET Core 🧬](https://github.com/vnikifirov/Ecosystem.DotNet/JsonPatch)
+1. [JSON Patch and ASP.NET Core 🧬](https://github.com/vnikifirov/Ecosystem.DotNet/tree/master/JsonPatch)
 
-2. [Example of AutoMaper 🗺️ ReverseMap method in ASP.NET Core 🧬](https://github.com/vnikifirov/Ecosystem.DotNet/AutoMapper_ReverseMap)
+2. [Example of AutoMaper 🗺️ ReverseMap method in ASP.NET Core 🧬](https://github.com/vnikifirov/Ecosystem.DotNet/tree/master/AutoMapper_ReverseMap)
 
-3. [Junior / Senior - Extraction Service - Suncom 🏦🏭](https://github.com/vnikifirov/Ecosystem.DotNet/ExtractionService)
+3. [Junior / Senior - Extraction Service - Suncom 🏦🏭](https://github.com/vnikifirov/Ecosystem.DotNet/tree/master/ExtractionService)
 
-4. [Middle / Senior - Swift Code the project for the bank - Centrobank 🏢🏭](https://github.com/vnikifirov/Ecosystem.DotNet/SwiftCode)
+4. [Middle / Senior - Swift Code the project for the bank - Centrobank 🏢🏭](https://github.com/vnikifirov/Ecosystem.DotNet/tree/master/SwiftCode)
 
-5. [Junior / Middle Web Service 👨‍🏫 - PlotnikovSoft 🏢🏭](https://github.com/vnikifirov/Ecosystem.DotNet/WebService)
+5. [Junior / Middle Web Service 👨‍🏫 - PlotnikovSoft 🏢🏭](https://github.com/vnikifirov/Ecosystem.DotNet/tree/master/WebService)
 
-6. [WCF Routing - My initiative Service](https://github.com/vnikifirov/Ecosystem.DotNet/RoutingService)
+6. [WCF Routing - My initiative Service](https://github.com/vnikifirov/Ecosystem.DotNet/tree/master/RoutingService)
 
-7. [Academic University 🎓🎒 project Advertising Agency - KIU 🎓🎒](https://github.com/vnikifirov/Ecosystem.DotNet/AdvertisingAgency)
+7. [Academic University 🎓🎒 project Advertising Agency - KIU 🎓🎒](https://github.com/vnikifirov/Ecosystem.DotNet/tree/master/AdvertisingAgency)
 
-8. [Stack Overflow 🏭 - ClearScript V8 Engine JavaScript 🏭 Threads](https://github.com/vnikifirov/Ecosystem.DotNet/ClearScript_Threads)
+8. [Stack Overflow 🏭 - ClearScript V8 Engine JavaScript 🏭 Threads](https://github.com/vnikifirov/Ecosystem.DotNet/tree/master/ClearScript_Threads)
 
-9. [Example of xUnitTest 🧪🔬 and ASP.NET Core 🧬](https://github.com/vnikifirov/Ecosystem.DotNet/xUnitTest)
+9. [Example of xUnitTest 🧪🔬 and ASP.NET Core 🧬](https://github.com/vnikifirov/Ecosystem.DotNet/tree/master/xUnitTest)
 
 10. [Software / Solution Architect 👨‍🏫 - Image 🏞️ Manager Service - ООО "Лаверна Трейд"Срок 🏢🏭](https://github.com/vnikifirov/Ecosystem.DotNet/tree/master/ImageManagerService)
 
