@@ -31,7 +31,7 @@
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
             this.date = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
+            this.btnMenu = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // tableLayoutPanel1
@@ -75,22 +75,22 @@
             this.label2.TabIndex = 2;
             this.label2.Text = "Scores";
             // 
-            // button1
+            // btnMenu
             // 
-            this.button1.Location = new System.Drawing.Point(12, 12);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(56, 28);
-            this.button1.TabIndex = 3;
-            this.button1.Text = "Menu";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.BackToMenu);
+            this.btnMenu.Location = new System.Drawing.Point(12, 12);
+            this.btnMenu.Name = "btnMenu";
+            this.btnMenu.Size = new System.Drawing.Size(56, 28);
+            this.btnMenu.TabIndex = 3;
+            this.btnMenu.Text = "Menu";
+            this.btnMenu.UseVisualStyleBackColor = true;
+            this.btnMenu.Click += new System.EventHandler(this.BackToMenu);
             // 
             // Rating
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(349, 393);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.btnMenu);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.date);
             this.Controls.Add(this.tableLayoutPanel1);
@@ -106,6 +106,6 @@
         private TableLayoutPanel tableLayoutPanel1;
         private Label date;
         private Label label2;
-        private Button button1;
+        private Button btnMenu;
     }
 }

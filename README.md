@@ -70,6 +70,8 @@
 
 34. [Intern / Student 👩‍🎓👨‍🎓 Computer Science 👨🏻‍💻🧬, Game Dev 🎲 - Snake game 🎲 uncompleted ✅ in C# / .NET 6 🧬](https://github.com/vnikifirov/Ecosystem.DotNet/tree/master/Snake)
 
+35. [School 🎒 assignment - American 🏈🇺🇸 school 🎒 boy 👦🏻 assignment 📖](https://github.com/vnikifirov/Ecosystem.DotNet/tree/master/School_AssessedExercise)
+
 # Note
 
 * If you like this repo and find it useful, please consider ★ starring it (on top right of the page) :)
