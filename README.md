@@ -72,6 +72,8 @@
 
 35. [School 🎒 assignment - American 🏈🇺🇸 school 🎒 boy 👦🏻 assignment 📖](https://github.com/vnikifirov/Ecosystem.DotNet/tree/master/School_AssessedExercise)
 
+36. [Nuclear ⚛️ power ⚡ plant 🔌🏭](https://github.com/vnikifirov/Ecosystem.DotNet/tree/master/NuclearPowerPlant)
+
 # Note
 
 * If you like this repo and find it useful, please consider ★ starring it (on top right of the page) :)
