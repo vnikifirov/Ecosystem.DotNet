@@ -1,0 +1,3 @@
+C:\sundown-hg\SunBrowser\obj\Debug\ResolveAssemblyReference.cache
+C:\sundown-hg\SunBrowser\obj\Debug\SunBrowser.SunBrowserEnviroment.resources
+C:\sundown-hg\SunBrowser\obj\Debug\SunBrowser-vs90.csproj.GenerateResource.Cache

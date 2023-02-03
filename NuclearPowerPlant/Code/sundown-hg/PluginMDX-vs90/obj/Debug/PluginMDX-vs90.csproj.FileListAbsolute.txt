@@ -1,0 +1,44 @@
+C:\раб sundown-hg\PluginMDX-vs90\obj\Debug\ResolveAssemblyReference.cache
+C:\раб sundown-hg\PluginMDX-vs90\bin\Debug\PluginMDX-vs90.dll
+C:\раб sundown-hg\PluginMDX-vs90\bin\Debug\PluginMDX-vs90.pdb
+C:\раб sundown-hg\PluginMDX-vs90\bin\Debug\corelib.dll
+C:\раб sundown-hg\PluginMDX-vs90\bin\Debug\lzmalib.dll
+C:\раб sundown-hg\PluginMDX-vs90\bin\Debug\lzmalib.pdb
+C:\раб sundown-hg\PluginMDX-vs90\bin\Debug\corelib.pdb
+C:\раб sundown-hg\PluginMDX-vs90\obj\Debug\PluginMDX-vs90.dll
+C:\раб sundown-hg\PluginMDX-vs90\obj\Debug\PluginMDX-vs90.pdb
+C:\раб sundown-hg\PluginMDX-vs90\bin\Debug\RockMicoPlugin.dll
+C:\раб sundown-hg\PluginMDX-vs90\bin\Debug\RockMicoPlugin.pdb
+C:\MDX sundown-hg\PluginMDX-vs90\bin\Debug\PluginMDX-vs90.dll
+C:\MDX sundown-hg\PluginMDX-vs90\bin\Debug\PluginMDX-vs90.pdb
+C:\MDX sundown-hg\PluginMDX-vs90\bin\Debug\corelib.dll
+C:\MDX sundown-hg\PluginMDX-vs90\bin\Debug\RockMicoPlugin.dll
+C:\MDX sundown-hg\PluginMDX-vs90\bin\Debug\lzmalib.dll
+C:\MDX sundown-hg\PluginMDX-vs90\bin\Debug\RockMicoPlugin.pdb
+C:\MDX sundown-hg\PluginMDX-vs90\bin\Debug\lzmalib.pdb
+C:\MDX sundown-hg\PluginMDX-vs90\bin\Debug\corelib.pdb
+C:\MDX sundown-hg\PluginMDX-vs90\obj\Debug\ResolveAssemblyReference.cache
+C:\MDX sundown-hg\PluginMDX-vs90\obj\Debug\PluginMDX-vs90.dll
+C:\MDX sundown-hg\PluginMDX-vs90\obj\Debug\PluginMDX-vs90.pdb
+C:\tmp\sundown-hg\PluginMDX-vs90\bin\Debug\PluginMDX-vs90.dll
+C:\tmp\sundown-hg\PluginMDX-vs90\bin\Debug\PluginMDX-vs90.pdb
+C:\tmp\sundown-hg\PluginMDX-vs90\bin\Debug\corelib.dll
+C:\tmp\sundown-hg\PluginMDX-vs90\bin\Debug\RockMicoPlugin.dll
+C:\tmp\sundown-hg\PluginMDX-vs90\bin\Debug\lzmalib.dll
+C:\tmp\sundown-hg\PluginMDX-vs90\bin\Debug\RockMicoPlugin.pdb
+C:\tmp\sundown-hg\PluginMDX-vs90\bin\Debug\lzmalib.pdb
+C:\tmp\sundown-hg\PluginMDX-vs90\bin\Debug\corelib.pdb
+C:\tmp\sundown-hg\PluginMDX-vs90\obj\Debug\ResolveAssemblyReference.cache
+C:\tmp\sundown-hg\PluginMDX-vs90\obj\Debug\PluginMDX-vs90.dll
+C:\tmp\sundown-hg\PluginMDX-vs90\obj\Debug\PluginMDX-vs90.pdb
+C:\sundown-hg\PluginMDX-vs90\bin\Debug\PluginMDX-vs90.dll
+C:\sundown-hg\PluginMDX-vs90\bin\Debug\PluginMDX-vs90.pdb
+C:\sundown-hg\PluginMDX-vs90\bin\Debug\corelib.dll
+C:\sundown-hg\PluginMDX-vs90\bin\Debug\RockMicoPlugin.dll
+C:\sundown-hg\PluginMDX-vs90\bin\Debug\lzmalib.dll
+C:\sundown-hg\PluginMDX-vs90\bin\Debug\RockMicoPlugin.pdb
+C:\sundown-hg\PluginMDX-vs90\bin\Debug\lzmalib.pdb
+C:\sundown-hg\PluginMDX-vs90\bin\Debug\corelib.pdb
+C:\sundown-hg\PluginMDX-vs90\obj\Debug\ResolveAssemblyReference.cache
+C:\sundown-hg\PluginMDX-vs90\obj\Debug\PluginMDX-vs90.dll
+C:\sundown-hg\PluginMDX-vs90\obj\Debug\PluginMDX-vs90.pdb

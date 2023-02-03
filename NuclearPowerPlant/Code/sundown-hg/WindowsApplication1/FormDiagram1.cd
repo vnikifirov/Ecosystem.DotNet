@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="corelib.Graph">
+    <Position X="2" Y="2.25" Width="3.25" />
+    <TypeIdentifier>
+      <FileName>Graph.cs</FileName>
+      <HashCode>IAwYQiJAAqQAACEoBEmWACACAARAocBBJKFUAmAAMCQ=</HashCode>
+    </TypeIdentifier>
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Struct Name="corelib.Graph.DefColors">
+        <TypeIdentifier>
+          <NewMemberFileName>Graph.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Class Name="corelib.Graph.GraphData">
+        <TypeIdentifier>
+          <NewMemberFileName>Graph.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+  </Class>
+  <Class Name="corelib.GraphComponent">
+    <Position X="6.25" Y="2.25" Width="2.75" />
+    <TypeIdentifier>
+      <FileName>GraphComponent.cs</FileName>
+      <HashCode>AAAAACAAAAAASAAAQEAAAAAAAAgAAAAQAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="corelib.CartView">
+    <Position X="12" Y="4.75" Width="7.25" />
+    <TypeIdentifier>
+      <FileName>CartView.cs</FileName>
+      <HashCode>AAAACoAAAmiAAACIAACgEEACAKYAAAAEAEBAAEAQAAA=</HashCode>
+    </TypeIdentifier>
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="corelib.CartView.ExPanel">
+        <TypeIdentifier>
+          <NewMemberFileName>CartView.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="corelib.CartView.CoordNavigation">
+        <TypeIdentifier>
+          <NewMemberFileName>CartView.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+  </Class>
+  <Class Name="corelib.CoodrsEventArgs">
+    <Position X="12" Y="2.25" Width="4.75" />
+    <TypeIdentifier>
+      <FileName>CartView.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="corelib.DataTupleVisualizer">
+    <Position X="20.5" Y="2.25" Width="5" />
+    <TypeIdentifier>
+      <FileName>DataTupleVisualizer.cs</FileName>
+      <HashCode>EgAgAASRAGkWKqCAgqCwRASCAEEhAAIa1CIwgAAEGKI=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="corelib.CartViewInfoProviderSensored" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="3.25" Y="31.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>CartViewInfoProvider.cs</FileName>
+      <HashCode>AAAAIAAAIEACAAAQAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="corelib.CartViewInfoProviderDouble" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="1.5" Y="31.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>CartViewInfoProvider.cs</FileName>
+      <HashCode>AAAAIAAAIEACAAAQAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="corelib.CartViewInfoProviderStandard" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5" Y="31.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>CartViewInfoProvider.cs</FileName>
+      <HashCode>AAAAIAAAIEACAAAQAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="corelib.CartViewInfoProviderZagr" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6.75" Y="31.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>CartViewInfoProvider.cs</FileName>
+      <HashCode>AAAAIAAAIEACAAAQAAAABAAAAAAAAAAAAAACAACAAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="corelib.InfoProviderStandard" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.5" Y="31.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>CartViewInfoProvider.cs</FileName>
+      <HashCode>AAAAIAAAIAACAAAQAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="corelib.DrawCartCell">
+    <Position X="14.5" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>DrawCartCell.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAgABAAgCkAAAAAAAAAAIAAEAAACAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="corelib.Hystogram">
+    <Position X="23.5" Y="22.5" Width="3.5" />
+    <TypeIdentifier>
+      <FileName>DrawCartCell.cs</FileName>
+      <HashCode>AiQAAAAAAgAAAgAggAAAAQBAAAAAAIAgAAAAAACAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="corelib.DrawZagrCart">
+    <Position X="18.25" Y="26" Width="4.25" />
+    <TypeIdentifier>
+      <FileName>DrawCartCell.cs</FileName>
+      <HashCode>AgAgCAAAQkAAAAgAEAAgAmkEBIoAAAAAACAEAQCAAAQ=</HashCode>
+    </TypeIdentifier>
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Struct Name="corelib.DrawZagrCart.NodeColorInfo">
+        <TypeIdentifier>
+          <NewMemberFileName>DrawCartCell.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <InheritanceLine Type="corelib.DrawCartCell" FixedToPoint="true">
+      <Path>
+        <Point X="15.25" Y="25.342" />
+        <Point X="15.25" Y="25.625" />
+        <Point X="20.812" Y="25.625" />
+        <Point X="20.812" Y="26" />
+      </Path>
+    </InheritanceLine>
+  </Class>
+  <Class Name="corelib.DarwCartLevel">
+    <Position X="10.5" Y="26" Width="3.25" />
+    <TypeIdentifier>
+      <FileName>DrawCartCell.cs</FileName>
+      <HashCode>AAAAAAAAAEAAAAAAAAAgEkBAAAAAAAAAEADkAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="corelib.DarwCartDiffLevel">
+    <Position X="14.5" Y="26" Width="3.25" />
+    <TypeIdentifier>
+      <FileName>DrawCartCell.cs</FileName>
+      <HashCode>gAEAAAQAAEAAAAAQAAAgUkBAAQAAAAAAEADFAAACEAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="corelib.ICartViewInfoProvider">
+    <Position X="5" Y="28.5" Width="2.25" />
+    <TypeIdentifier>
+      <FileName>CartViewInfoProvider.cs</FileName>
+      <HashCode>AAAAAAAAIAACAAAQAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Interface>
+  <Delegate Name="corelib.CoordsEventDelegate">
+    <Position X="9.75" Y="2.25" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>CartView.cs</FileName>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Delegate>
+</ClassDiagram>

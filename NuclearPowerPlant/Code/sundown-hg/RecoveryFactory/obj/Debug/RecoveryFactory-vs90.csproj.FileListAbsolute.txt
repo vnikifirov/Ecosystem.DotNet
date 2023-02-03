@@ -1,0 +1,4 @@
+C:\sundown-hg\RecoveryFactory\obj\Debug\ResolveAssemblyReference.cache
+C:\sundown-hg\RecoveryFactory\obj\Debug\corelib.MainForm.resources
+C:\sundown-hg\RecoveryFactory\obj\Debug\corelib.RecoverySimple.resources
+C:\sundown-hg\RecoveryFactory\obj\Debug\RecoveryFactory-vs90.csproj.GenerateResource.Cache

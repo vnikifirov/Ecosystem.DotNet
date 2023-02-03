@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1085]C:\newMyPrograms\sundown-hg\test2\bin\Debug_NET2\test2.dll</TopNode>
+  <SelectedNode>[0-1086]corelib</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1085]C:\newMyPrograms\sundown-hg\test2\bin\Debug_NET2\test2.dll" Expanded="true" />
+    <Node UniqueName="[0-1089]Algorithms" Expanded="true" />
+    <Node UniqueName="[0-1086]corelib" Expanded="true" />
+    <Node UniqueName="[0-1090]dsltools" Expanded="true" />
+    <Node UniqueName="[0-1088]RockPlugin" Expanded="true" />
+    <Node UniqueName="[0-1087]test2" Expanded="true" />
+  </Nodes>
+</VisualState>

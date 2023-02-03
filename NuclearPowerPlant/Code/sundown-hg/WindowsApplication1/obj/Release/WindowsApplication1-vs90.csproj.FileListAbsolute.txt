@@ -1,0 +1,9 @@
+C:\sundown-hg\test2\bin\Release\WindowsApplication1.dll
+C:\sundown-hg\test2\bin\Release\WindowsApplication1.pdb
+C:\sundown-hg\WindowsApplication1\obj\Release\ResolveAssemblyReference.cache
+C:\sundown-hg\WindowsApplication1\obj\Release\corelib.DataTupleTreeStandardFormatter.resources
+C:\sundown-hg\WindowsApplication1\obj\Release\WindowsApplication1.Properties.Resources.resources
+C:\sundown-hg\WindowsApplication1\obj\Release\WindowsApplication1.Resource1.resources
+C:\sundown-hg\WindowsApplication1\obj\Release\WindowsApplication1-vs90.csproj.GenerateResource.Cache
+C:\sundown-hg\WindowsApplication1\obj\Release\WindowsApplication1.dll
+C:\sundown-hg\WindowsApplication1\obj\Release\WindowsApplication1.pdb

@@ -1,0 +1,5 @@
+C:\sundown-hg\lzmalib\bin\Release\lzmalib.dll
+C:\sundown-hg\lzmalib\bin\Release\lzmalib.pdb
+C:\sundown-hg\lzmalib\obj\Release\ResolveAssemblyReference.cache
+C:\sundown-hg\lzmalib\obj\Release\lzmalib.dll
+C:\sundown-hg\lzmalib\obj\Release\lzmalib.pdb

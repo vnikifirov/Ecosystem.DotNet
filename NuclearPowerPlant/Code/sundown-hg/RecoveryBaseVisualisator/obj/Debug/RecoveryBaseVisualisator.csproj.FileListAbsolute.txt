@@ -1,0 +1,15 @@
+C:\sundown-hg\RecoveryBaseVisualisator\obj\Debug\ResolveAssemblyReference.cache
+C:\sundown-hg\RecoveryBaseVisualisator\obj\Debug\RecoveryBaseVisualisator.Properties.Resources.resources
+C:\sundown-hg\RecoveryBaseVisualisator\obj\Debug\RecoveryBaseVisualisator.csproj.GenerateResource.Cache
+C:\sundown-hg\RecoveryBaseVisualisator\bin\Debug\RecoveryBaseVisualisator.exe
+C:\sundown-hg\RecoveryBaseVisualisator\bin\Debug\RecoveryBaseVisualisator.pdb
+C:\sundown-hg\RecoveryBaseVisualisator\bin\Debug\corelib.dll
+C:\sundown-hg\RecoveryBaseVisualisator\bin\Debug\WindowsApplication1.dll
+C:\sundown-hg\RecoveryBaseVisualisator\bin\Debug\lzmalib.dll
+C:\sundown-hg\RecoveryBaseVisualisator\bin\Debug\lzmalib.pdb
+C:\sundown-hg\RecoveryBaseVisualisator\bin\Debug\WindowsApplication1.pdb
+C:\sundown-hg\RecoveryBaseVisualisator\bin\Debug\corelib.pdb
+C:\sundown-hg\RecoveryBaseVisualisator\obj\Debug\RecoveryBaseVisualisator.exe
+C:\sundown-hg\RecoveryBaseVisualisator\obj\Debug\RecoveryBaseVisualisator.pdb
+C:\sundown-hg\RecoveryBaseVisualisator\bin\Debug\SqlLiteStorage.dll
+C:\sundown-hg\RecoveryBaseVisualisator\bin\Debug\SqlLiteStorage.pdb

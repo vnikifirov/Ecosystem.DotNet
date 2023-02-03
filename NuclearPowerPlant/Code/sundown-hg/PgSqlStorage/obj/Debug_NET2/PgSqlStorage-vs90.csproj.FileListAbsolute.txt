@@ -1,0 +1,10 @@
+C:\sundown-hg\test2\bin\Debug_NET2\PgSqlStorage.dll
+C:\sundown-hg\test2\bin\Debug_NET2\PgSqlStorage.pdb
+C:\sundown-hg\PgSqlStorage\obj\Debug_NET2\ResolveAssemblyReference.cache
+C:\sundown-hg\PgSqlStorage\obj\Debug_NET2\PgSqlStorage.dll
+C:\sundown-hg\PgSqlStorage\obj\Debug_NET2\PgSqlStorage.pdb
+C:\Documents and Settings\Ramzes\Мои документы\Visual Studio 2008\Projects\sundown-hg\PgSqlStorage\obj\Debug_NET2\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ramzes\Мои документы\Visual Studio 2008\Projects\sundown-hg\PgSqlStorage\obj\Debug_NET2\PgSqlStorage.dll
+C:\Documents and Settings\Ramzes\Мои документы\Visual Studio 2008\Projects\sundown-hg\test2\bin\Debug_NET2\PgSqlStorage.dll
+C:\Documents and Settings\Ramzes\Мои документы\Visual Studio 2008\Projects\sundown-hg\test2\bin\Debug_NET2\PgSqlStorage.pdb
+C:\Documents and Settings\Ramzes\Мои документы\Visual Studio 2008\Projects\sundown-hg\PgSqlStorage\obj\Debug_NET2\PgSqlStorage.pdb

@@ -1,0 +1,124 @@
+C:\Documents and Settings\Romzes\Мои документы\Visual Studio 2008\Projects\sundown-hg\Correction-vs90\bin\Debug\Correction-vs90.exe
+C:\Documents and Settings\Romzes\Мои документы\Visual Studio 2008\Projects\sundown-hg\Correction-vs90\bin\Debug\Correction-vs90.pdb
+C:\Documents and Settings\Romzes\Мои документы\Visual Studio 2008\Projects\sundown-hg\Correction-vs90\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Romzes\Мои документы\Visual Studio 2008\Projects\sundown-hg\Correction-vs90\obj\Debug\Correction_vs90.Form1.resources
+C:\Documents and Settings\Romzes\Мои документы\Visual Studio 2008\Projects\sundown-hg\Correction-vs90\obj\Debug\Correction_vs90.Properties.Resources.resources
+C:\Documents and Settings\Romzes\Мои документы\Visual Studio 2008\Projects\sundown-hg\Correction-vs90\obj\Debug\Correction-vs90.csproj.GenerateResource.Cache
+C:\Documents and Settings\Romzes\Мои документы\Visual Studio 2008\Projects\sundown-hg\Correction-vs90\obj\Debug\Correction-vs90.exe
+C:\Documents and Settings\Romzes\Мои документы\Visual Studio 2008\Projects\sundown-hg\Correction-vs90\obj\Debug\Correction-vs90.pdb
+C:\Documents and Settings\Romzes\Мои документы\Visual Studio 2008\Projects\sundown-hg\Correction-vs90\bin\Debug\corelib.dll
+C:\Documents and Settings\Romzes\Мои документы\Visual Studio 2008\Projects\sundown-hg\Correction-vs90\bin\Debug\SunBrowser.exe
+C:\Documents and Settings\Romzes\Мои документы\Visual Studio 2008\Projects\sundown-hg\Correction-vs90\bin\Debug\WindowsApplication1.dll
+C:\Documents and Settings\Romzes\Мои документы\Visual Studio 2008\Projects\sundown-hg\Correction-vs90\bin\Debug\RockMicoPlugin.dll
+C:\Documents and Settings\Romzes\Мои документы\Visual Studio 2008\Projects\sundown-hg\Correction-vs90\bin\Debug\lzmalib.dll
+C:\Documents and Settings\Romzes\Мои документы\Visual Studio 2008\Projects\sundown-hg\Correction-vs90\bin\Debug\RockMicoPlugin.pdb
+C:\Documents and Settings\Romzes\Мои документы\Visual Studio 2008\Projects\sundown-hg\Correction-vs90\bin\Debug\lzmalib.pdb
+C:\Documents and Settings\Romzes\Мои документы\Visual Studio 2008\Projects\sundown-hg\Correction-vs90\bin\Debug\SunBrowser.pdb
+C:\Documents and Settings\Romzes\Мои документы\Visual Studio 2008\Projects\sundown-hg\Correction-vs90\bin\Debug\WindowsApplication1.pdb
+C:\Documents and Settings\Romzes\Мои документы\Visual Studio 2008\Projects\sundown-hg\Correction-vs90\bin\Debug\corelib.pdb
+H:\sundown-hg\Correction-vs90\obj\Debug\Correction-vs90.exe
+H:\sundown-hg\Correction-vs90\obj\Debug\Correction-vs90.pdb
+C:\Users\Roman\Documents\Visual Studio 2008\Projects\sundown-hg\Correction-vs90\obj\Debug\Correction-vs90.exe
+C:\Users\Roman\Documents\Visual Studio 2008\Projects\sundown-hg\Correction-vs90\obj\Debug\Correction-vs90.pdb
+C:\Users\Roman\Documents\Visual Studio 2008\Projects\sundown-hg\Correction-vs90\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Roman\Documents\Visual Studio 2008\Projects\sundown-hg\Correction-vs90\obj\Debug\Correction_vs90.Form1.resources
+C:\Users\Roman\Documents\Visual Studio 2008\Projects\sundown-hg\Correction-vs90\obj\Debug\Correction_vs90.Properties.Resources.resources
+C:\Users\Roman\Documents\Visual Studio 2008\Projects\sundown-hg\Correction-vs90\obj\Debug\Correction-vs90.csproj.GenerateResource.Cache
+C:\Users\Roman\Documents\Visual Studio 2008\Projects\sundown-hg\Correction-vs90\bin\Debug\Correction-vs90.exe
+C:\Users\Roman\Documents\Visual Studio 2008\Projects\sundown-hg\Correction-vs90\bin\Debug\Correction-vs90.pdb
+C:\Users\Roman\Documents\Visual Studio 2008\Projects\sundown-hg\Correction-vs90\bin\Debug\corelib.dll
+C:\Users\Roman\Documents\Visual Studio 2008\Projects\sundown-hg\Correction-vs90\bin\Debug\RockMicoPlugin.dll
+C:\Users\Roman\Documents\Visual Studio 2008\Projects\sundown-hg\Correction-vs90\bin\Debug\SunBrowser.exe
+C:\Users\Roman\Documents\Visual Studio 2008\Projects\sundown-hg\Correction-vs90\bin\Debug\WindowsApplication1.dll
+C:\Users\Roman\Documents\Visual Studio 2008\Projects\sundown-hg\Correction-vs90\bin\Debug\lzmalib.dll
+C:\Users\Roman\Documents\Visual Studio 2008\Projects\sundown-hg\Correction-vs90\bin\Debug\lzmalib.pdb
+C:\Users\Roman\Documents\Visual Studio 2008\Projects\sundown-hg\Correction-vs90\bin\Debug\SunBrowser.pdb
+G:\sundown-hg\Correction-vs90\obj\Debug\Correction-vs90.exe
+G:\sundown-hg\Correction-vs90\obj\Debug\Correction-vs90.pdb
+G:\sundown-hg\Correction-vs90\obj\Debug\ResolveAssemblyReference.cache
+G:\sundown-hg\Correction-vs90\obj\Debug\Correction_vs90.Form1.resources
+G:\sundown-hg\Correction-vs90\obj\Debug\Correction_vs90.Properties.Resources.resources
+G:\sundown-hg\Correction-vs90\obj\Debug\Correction-vs90.csproj.GenerateResource.Cache
+E:\sundown-hg\Correction-vs90\bin\Debug\Correction-vs90.exe
+E:\sundown-hg\Correction-vs90\bin\Debug\Correction-vs90.pdb
+E:\sundown-hg\Correction-vs90\bin\Debug\corelib.dll
+E:\sundown-hg\Correction-vs90\bin\Debug\RockMicoPlugin.dll
+E:\sundown-hg\Correction-vs90\bin\Debug\SunBrowser.exe
+E:\sundown-hg\Correction-vs90\bin\Debug\WindowsApplication1.dll
+E:\sundown-hg\Correction-vs90\bin\Debug\lzmalib.dll
+E:\sundown-hg\Correction-vs90\bin\Debug\RockMicoPlugin.pdb
+E:\sundown-hg\Correction-vs90\bin\Debug\lzmalib.pdb
+E:\sundown-hg\Correction-vs90\bin\Debug\SunBrowser.pdb
+E:\sundown-hg\Correction-vs90\bin\Debug\WindowsApplication1.pdb
+E:\sundown-hg\Correction-vs90\bin\Debug\corelib.pdb
+E:\sundown-hg\Correction-vs90\obj\Debug\ResolveAssemblyReference.cache
+E:\sundown-hg\Correction-vs90\obj\Debug\Correction_vs90.Form1.resources
+E:\sundown-hg\Correction-vs90\obj\Debug\Correction_vs90.Properties.Resources.resources
+E:\sundown-hg\Correction-vs90\obj\Debug\Correction-vs90.csproj.GenerateResource.Cache
+E:\sundown-hg\Correction-vs90\obj\Debug\Correction-vs90.exe
+E:\sundown-hg\Correction-vs90\obj\Debug\Correction-vs90.pdb
+C:\Users\Roman\Documents\Visual Studio 2008\Projects\sundown-hg\Correction-vs90\bin\Debug\Algorithms.dll
+F:\sundown-hg\Correction-vs90\obj\Debug\Correction-vs90.exe
+F:\sundown-hg\Correction-vs90\obj\Debug\Correction-vs90.pdb
+F:\sundown-hg\Correction-vs90\bin\Debug\Correction-vs90.exe
+F:\sundown-hg\Correction-vs90\bin\Debug\Correction-vs90.pdb
+F:\sundown-hg\Correction-vs90\bin\Debug\Algorithms.dll
+F:\sundown-hg\Correction-vs90\bin\Debug\corelib.dll
+F:\sundown-hg\Correction-vs90\bin\Debug\RockMicoPlugin.dll
+F:\sundown-hg\Correction-vs90\bin\Debug\SunBrowser.exe
+F:\sundown-hg\Correction-vs90\bin\Debug\WindowsApplication1.dll
+F:\sundown-hg\Correction-vs90\bin\Debug\lzmalib.dll
+F:\sundown-hg\Correction-vs90\bin\Debug\RockMicoPlugin.pdb
+F:\sundown-hg\Correction-vs90\bin\Debug\WindowsApplication1.pdb
+F:\sundown-hg\Correction-vs90\bin\Debug\SunBrowser.pdb
+F:\sundown-hg\Correction-vs90\bin\Debug\Algorithms.pdb
+F:\sundown-hg\Correction-vs90\bin\Debug\lzmalib.pdb
+F:\sundown-hg\Correction-vs90\bin\Debug\corelib.pdb
+F:\sundown-hg\Correction-vs90\obj\Debug\ResolveAssemblyReference.cache
+F:\sundown-hg\Correction-vs90\obj\Debug\Correction_vs90.Form1.resources
+F:\sundown-hg\Correction-vs90\obj\Debug\Correction_vs90.Properties.Resources.resources
+F:\sundown-hg\Correction-vs90\obj\Debug\Correction-vs90.csproj.GenerateResource.Cache
+C:\newMyPrograms\sundown-hg\Correction-vs90\bin\Debug\Correction-vs90.exe
+C:\newMyPrograms\sundown-hg\Correction-vs90\bin\Debug\Correction-vs90.pdb
+C:\newMyPrograms\sundown-hg\Correction-vs90\bin\Debug\Algorithms.dll
+C:\newMyPrograms\sundown-hg\Correction-vs90\bin\Debug\corelib.dll
+C:\newMyPrograms\sundown-hg\Correction-vs90\bin\Debug\RockMicoPlugin.dll
+C:\newMyPrograms\sundown-hg\Correction-vs90\bin\Debug\SunBrowser.exe
+C:\newMyPrograms\sundown-hg\Correction-vs90\bin\Debug\WindowsApplication1.dll
+C:\newMyPrograms\sundown-hg\Correction-vs90\bin\Debug\lzmalib.dll
+C:\newMyPrograms\sundown-hg\Correction-vs90\bin\Debug\RockMicoPlugin.pdb
+C:\newMyPrograms\sundown-hg\Correction-vs90\bin\Debug\WindowsApplication1.pdb
+C:\newMyPrograms\sundown-hg\Correction-vs90\bin\Debug\SunBrowser.pdb
+C:\newMyPrograms\sundown-hg\Correction-vs90\bin\Debug\Algorithms.pdb
+C:\newMyPrograms\sundown-hg\Correction-vs90\bin\Debug\lzmalib.pdb
+C:\newMyPrograms\sundown-hg\Correction-vs90\bin\Debug\corelib.pdb
+C:\newMyPrograms\sundown-hg\Correction-vs90\obj\Debug\ResolveAssemblyReference.cache
+C:\newMyPrograms\sundown-hg\Correction-vs90\obj\Debug\Correction_vs90.Form1.resources
+C:\newMyPrograms\sundown-hg\Correction-vs90\obj\Debug\Correction_vs90.Properties.Resources.resources
+C:\newMyPrograms\sundown-hg\Correction-vs90\obj\Debug\Correction-vs90.csproj.GenerateResource.Cache
+C:\newMyPrograms\sundown-hg\Correction-vs90\obj\Debug\Correction-vs90.exe
+C:\newMyPrograms\sundown-hg\Correction-vs90\obj\Debug\Correction-vs90.pdb
+C:\Users\Roman\Documents\Visual Studio 2008\Projects\sundown-hg\Correction-vs90\bin\Debug\RockMicoPlugin.pdb
+C:\Users\Roman\Documents\Visual Studio 2008\Projects\sundown-hg\Correction-vs90\bin\Debug\WindowsApplication1.pdb
+C:\Users\Roman\Documents\Visual Studio 2008\Projects\sundown-hg\Correction-vs90\bin\Debug\Algorithms.pdb
+C:\Users\Roman\Documents\Visual Studio 2008\Projects\sundown-hg\Correction-vs90\bin\Debug\corelib.pdb
+C:\sundown-hg\Correction-vs90\obj\Debug\Correction-vs90.exe
+C:\sundown-hg\Correction-vs90\obj\Debug\Correction-vs90.pdb
+C:\sundown-hg\Correction-vs90\bin\Debug\Correction-vs90.exe
+C:\sundown-hg\Correction-vs90\bin\Debug\Correction-vs90.pdb
+C:\sundown-hg\Correction-vs90\bin\Debug\Algorithms.dll
+C:\sundown-hg\Correction-vs90\bin\Debug\corelib.dll
+C:\sundown-hg\Correction-vs90\bin\Debug\RockMicoPlugin.dll
+C:\sundown-hg\Correction-vs90\bin\Debug\SunBrowser.exe
+C:\sundown-hg\Correction-vs90\bin\Debug\WindowsApplication1.dll
+C:\sundown-hg\Correction-vs90\bin\Debug\lzmalib.dll
+C:\sundown-hg\Correction-vs90\bin\Debug\RockMicoPlugin.pdb
+C:\sundown-hg\Correction-vs90\bin\Debug\WindowsApplication1.pdb
+C:\sundown-hg\Correction-vs90\bin\Debug\SunBrowser.pdb
+C:\sundown-hg\Correction-vs90\bin\Debug\Algorithms.pdb
+C:\sundown-hg\Correction-vs90\bin\Debug\lzmalib.pdb
+C:\sundown-hg\Correction-vs90\bin\Debug\corelib.pdb
+C:\sundown-hg\Correction-vs90\obj\Debug\ResolveAssemblyReference.cache
+C:\sundown-hg\Correction-vs90\obj\Debug\Correction_vs90.Form1.resources
+C:\sundown-hg\Correction-vs90\obj\Debug\Correction_vs90.Properties.Resources.resources
+C:\sundown-hg\Correction-vs90\obj\Debug\Correction-vs90.csproj.GenerateResource.Cache

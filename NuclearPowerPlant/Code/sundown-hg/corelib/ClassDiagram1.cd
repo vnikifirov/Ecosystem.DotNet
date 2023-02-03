@@ -1,0 +1,1398 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="corelib.TupleDsl" Collapsed="true">
+    <Position X="39.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AttributeRulesNew.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="corelib.AttributeTypeRules" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="36" Y="3.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAkAAQAAAAAAAAAQSAcABAQgABAAABIAAAAAApAAAgA=</HashCode>
+      <FileName>AttributeRulesNew.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="corelib.AttributeSingleTupleRules" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="36" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>QAAIAACAAQCAABAACJAMABQAAAhACAIBgAABAQQABAA=</HashCode>
+      <FileName>AttributeRulesNew.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="corelib.AttributeRules" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="36" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAABgAAACBAAQABAAABAAAICAAABAAAAAAA=</HashCode>
+      <FileName>AttributeRulesNew.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="corelib.TupleMapsRule" Collapsed="true">
+    <Position X="36" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAACAAAAAEBAAAAIgAAAAAAAAAAA=</HashCode>
+      <FileName>AttributeRulesNew.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="corelib.TupleMaps" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="36" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAIAAIAAAACAAAA=</HashCode>
+      <FileName>AttributeRulesNew.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="corelib.ActionCanceledException" Collapsed="true">
+    <Position X="18.5" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BasicEnv.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="corelib.BasicEnv" Collapsed="true">
+    <Position X="31.25" Y="21.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>CgAAiCAAAKAAQCAAAAABgAIAOAQAARAAAAAQAkIAAAQ=</HashCode>
+      <FileName>BasicEnv.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="corelib.ConstructorParameterNotFound" Collapsed="true">
+    <Position X="18.5" Y="2.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAgAAAAAAAEAAAAAAQAAAAAAAAAAQBAAAABAAA=</HashCode>
+      <FileName>Component.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="corelib.Plugins" Collapsed="true">
+    <Position X="42.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQIAAgAAABAABAAAAAMAAAAAAAAQEAAAAAACAAAAAA=</HashCode>
+      <FileName>Component.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="corelib.Component" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="21.75" Y="24.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAACAAgQAAQAAEAAAAQAAAAACEAQAAAiAEAAAQA=</HashCode>
+      <FileName>Component.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="corelib.DataComponents" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="21.75" Y="26" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIIAACAAAAAAAAAAIAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Component.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="corelib.AttributeDataComponent" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.75" Y="25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAIEAABBAACADAAAMAAACEAEAEQAAAAgU=</HashCode>
+      <FileName>Component.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="corelib.AttributeAlgoComponent" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="15" Y="25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAACAAIAAAAAAAAAEAAAAAAAEA=</HashCode>
+      <FileName>ComponentAlgo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="corelib.AlogComponents" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="24" Y="26" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAIMAACAQAAAAAAIAICAAAQAAAAgAABAA=</HashCode>
+      <FileName>ComponentAlgo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="corelib.TaskLoad" Collapsed="true">
+    <Position X="25.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>ComponentAlgo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="corelib.WorkingThread" Collapsed="true">
+    <Position X="25.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ComponentAlgo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="corelib.WorkingThreadHost" Collapsed="true">
+    <Position X="25.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>ComponentAlgo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="corelib.SingleSearchToMultiProvider" Collapsed="true">
+    <Position X="7.5" Y="18.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>ComponentData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="corelib.CoordsConverter" Collapsed="true">
+    <Position X="8.25" Y="26" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABCAAQiCAAAACQBEAACBQAAEAAQAAACIAEADAAA=</HashCode>
+      <FileName>CoordsConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="corelib.Crc32" Collapsed="true">
+    <Position X="42.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABCAQAAgAAAEAAAABAAAAAAKAAACAAAAAA=</HashCode>
+      <FileName>Crc32.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="corelib.MultiDataProviderDataTupleEventArgs" Collapsed="true">
+    <Position X="31.25" Y="23.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQEAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAQ=</HashCode>
+      <FileName>Data.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="corelib.MultiDataProviderGetDataEventArgs" Collapsed="true">
+    <Position X="31.25" Y="24.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABABAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Data.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="corelib._MultiDataProviderNotifier" Collapsed="true">
+    <Position X="4.25" Y="16" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AACECAAAEDQAAAAAAAAAYEAAABAAAAAABIAAAAgAIAA=</HashCode>
+      <FileName>Data.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="corelib.MultiDataProviderOverSingle" Collapsed="true">
+    <Position X="3" Y="17.5" Width="2.25" />
+    <InheritanceLine Type="corelib._MultiDataProviderNotifier" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="5.25" Y="16.562" />
+        <Point X="5.25" Y="17.125" />
+        <Point X="4.688" Y="17.125" />
+        <Point X="4.688" Y="17.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AACAAAAAADQAACAAAAAAYBAAABAAAAAABIAAAAAAIAA=</HashCode>
+      <FileName>Data.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="corelib.ListMultiDataProvider" Collapsed="true">
+    <Position X="7.75" Y="17.5" Width="1.75" />
+    <InheritanceLine Type="corelib._MultiDataProviderNotifier" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="5.833" Y="16.562" />
+        <Point X="5.833" Y="16.892" />
+        <Point X="9.25" Y="16.892" />
+        <Point X="9.25" Y="17.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AACAAAAABDQAAgAAAAAAYAAAARAAAAAABIAAAAAAIAA=</HashCode>
+      <FileName>Data.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="corelib.AbstactTupleItem" Collapsed="true">
+    <Position X="5.75" Y="21.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAASAIAAEAABEFCABEiwAEKAIAQgHRAAiAUAFhBg=</HashCode>
+      <FileName>DataArrayNew.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="corelib.DataArray" Collapsed="true">
+    <Position X="8.25" Y="23.5" Width="1.5" />
+    <InheritanceLine Type="corelib.AbstactTupleItem" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="6.688" Y="22.312" />
+        <Point X="6.688" Y="22.609" />
+        <Point X="9.438" Y="22.609" />
+        <Point X="9.438" Y="23.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AABBRQ0oIAaAYBAWeEUBBBBABKEIAWIEAgKwAgDCuEU=</HashCode>
+      <FileName>DataArrayNew.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="corelib.DataConverter" Collapsed="true">
+    <Position X="42.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEyAAAAAAAAAgAAEMCAAgIAEACBCAAIIUUICEhAKBAg=</HashCode>
+      <FileName>DataArrayNew.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="corelib.DataArray&lt;T&gt;" Collapsed="true">
+    <Position X="8.25" Y="24.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACDQABAAAAIRAAGCAABABAAAAAACAEAEMCAABIEQA=</HashCode>
+      <FileName>DataArrayNew.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="corelib.DataCartogramFormatterSensored" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="1" Y="4.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAIgACAAAQAAAABAAQAJAACAAAAAAAAAAACCA=</HashCode>
+      <FileName>DataCartogramFormatterNew.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="corelib.DataCartogramFormatter" Collapsed="true">
+    <Position X="4" Y="3.25" Width="2" />
+    <InheritanceLine Type="corelib.SingleDataConverter" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="6.812" Y="1.062" />
+        <Point X="6.812" Y="3.004" />
+        <Point X="5" Y="3.004" />
+        <Point X="5" Y="3.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIgAAAAAAAAAABAAQAAAAAAAAAAAAAAAACCA=</HashCode>
+      <FileName>DataCartogramFormatterNew.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="corelib.DataCartogramCoordsFormatter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="4.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIgACCCAUAAAARAAAABAACAAAgAAAAAAESAA=</HashCode>
+      <FileName>DataCartogramFormatterNew.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="corelib.DataCartogram" Collapsed="true">
+    <Position X="3.5" Y="23.5" Width="1.5" />
+    <InheritanceLine Type="corelib.AbstactTupleItem" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="6.25" Y="22.312" />
+        <Point X="6.25" Y="22.605" />
+        <Point X="4.875" Y="22.605" />
+        <Point X="4.875" Y="23.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>gAAAFGQoMCgCaGABDAABGhAgSKAEACIECgsUokCAmKM=</HashCode>
+      <FileName>DataCartogramNew.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="corelib.DataCartogram&lt;T&gt;" Collapsed="true">
+    <Position X="3.5" Y="24.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAJcQgAKECDAAAAAAAAAAAAAAAAAAECgEIAAAA=</HashCode>
+      <FileName>DataCartogramNew.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="corelib.DataCartogramNative&lt;T&gt;" Collapsed="true">
+    <Position X="3.5" Y="26" Width="2" />
+    <InheritanceLine Type="corelib.DataCartogram&lt;T&gt;" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="4.125" Y="25.191" />
+        <Point X="4.125" Y="26" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAYAEQIWAAgAGACAAIAAAAAAAEAAAAACAIAAAIAAIA=</HashCode>
+      <FileName>DataCartogramNew.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="corelib.DataCartogramIndexed&lt;T&gt;" Collapsed="true">
+    <Position X="5.75" Y="26" Width="2.25" />
+    <InheritanceLine Type="corelib.DataCartogram&lt;T&gt;" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="4.438" Y="25.191" />
+        <Point X="4.438" Y="25.625" />
+        <Point X="5.875" Y="25.625" />
+        <Point X="5.875" Y="26" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAIAEQIcAAAYHACCAIAAgAAAAEAAAAESAIAAQIAAYA=</HashCode>
+      <FileName>DataCartogramNew.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="corelib.DataGrid" Collapsed="true">
+    <Position X="42.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABiQgABAAAQUCAAEAEAQAAQAAAAEAAaAABAAgAghA=</HashCode>
+      <FileName>DataGrid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="corelib.DataParamTable" Collapsed="true">
+    <Position X="5.75" Y="23.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gCAAAAQEAAAAAhAACAABEAQAAaAAgEAEAAAAAABAgAA=</HashCode>
+      <FileName>DataParamTableNew.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="corelib.AbstractSQLMultiProvider" Collapsed="true">
+    <Position X="0.75" Y="17.5" Width="2" />
+    <InheritanceLine Type="corelib._MultiDataProviderNotifier" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="4.833" Y="16.562" />
+        <Point X="4.833" Y="16.924" />
+        <Point X="2.312" Y="16.924" />
+        <Point X="2.312" Y="17.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AECIAAAAEAQCAgAEIARAQgAEQBAAAAAACIAEQAAAOAg=</HashCode>
+      <FileName>DataSql.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="corelib.AbstractSQLMultiProvider2" Collapsed="true">
+    <Position X="5.5" Y="17.5" Width="2" />
+    <InheritanceLine Type="corelib._MultiDataProviderNotifier" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="5.5" Y="16.562" />
+        <Point X="5.5" Y="17.125" />
+        <Point X="7.125" Y="17.125" />
+        <Point X="7.125" Y="17.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AUCIQAEAEBQAAAAAAACAUiAEQBAAgAAAiIAEwQAAMAA=</HashCode>
+      <FileName>DataSql2.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="corelib.DataSqlFormatQ" Collapsed="true">
+    <Position X="5.5" Y="18.5" Width="1.75" />
+    <InheritanceLine Type="corelib.AbstractSQLMultiProvider2" FixedFromPoint="true">
+      <Path>
+        <Point X="6.375" Y="18.191" />
+        <Point X="6.375" Y="18.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>A0AASAEACDAAAAAAAQAAIqAEQAAAgAAAjAAEkQAAAAg=</HashCode>
+      <FileName>DataSqlFormatQ.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="corelib.DataSqlFormatV" Collapsed="true">
+    <Position X="0.75" Y="18.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AkAICAAACDACAAAEIARIIgAEQAAAAAAADAAEUIAACAg=</HashCode>
+      <FileName>DataSqlFormatV.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="corelib.EnvConverter" Collapsed="true">
+    <Position X="31.25" Y="18.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAQAAAIAAAAAAAAQAAAAAAAAAAAAAQAAAUAAA=</HashCode>
+      <FileName>ExtendedEnv.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="corelib.EnvConverterFormatter" Collapsed="true">
+    <Position X="31.25" Y="20" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAEBACAAAAAAAIAAkAACAACAAAAAAAAEAA=</HashCode>
+      <FileName>ExtendedEnv.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="corelib.SingleDataConverter" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAIgACAAAQAAAABAAAABAACAAAAAAAAAAACAA=</HashCode>
+      <FileName>InfoFormatter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="corelib.DataNumericConverter" Collapsed="true">
+    <Position X="4" Y="1.75" Width="2" />
+    <InheritanceLine Type="corelib.SingleDataConverter" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="6.563" Y="1.062" />
+        <Point X="6.563" Y="1.528" />
+        <Point X="5" Y="1.528" />
+        <Point X="5" Y="1.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIgAAAAAAAAAABAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>InfoFormatter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="corelib.DataFloatConverter" Collapsed="true">
+    <Position X="8.25" Y="1.75" Width="1.75" />
+    <InheritanceLine Type="corelib.SingleDataConverter" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="6.938" Y="1.062" />
+        <Point X="6.938" Y="1.566" />
+        <Point X="9.125" Y="1.566" />
+        <Point X="9.125" Y="1.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIgAAAAAAAAAABAAAAAAAAIAAEAAAAAAACAA=</HashCode>
+      <FileName>InfoFormatter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="corelib.DataFloatConverter2" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InfoFormatter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="corelib.DataFloatConverter4" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InfoFormatter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="corelib.DataStringConverter" Collapsed="true">
+    <Position X="11" Y="1.75" Width="1.75" />
+    <InheritanceLine Type="corelib.SingleDataConverter" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="7.062" Y="1.062" />
+        <Point X="7.062" Y="1.339" />
+        <Point X="11.875" Y="1.339" />
+        <Point X="11.875" Y="1.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIgAAAAAAAAAABAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>InfoFormatter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="corelib.DataFibersConverter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.25" Y="4.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIgACAAAQAAAABAAAABAACAAAAAAAAAAACAA=</HashCode>
+      <FileName>InfoFormatter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="corelib.CartViewInfoProviderSensored" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.5" Y="4.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAIgACAAAQAAAABAAAAJAACAAAAAAAAAAACCA=</HashCode>
+      <FileName>InfoFormatter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="corelib.CartViewInfoProviderDouble" Collapsed="true">
+    <Position X="1" Y="1.75" Width="2.25" />
+    <InheritanceLine Type="corelib.SingleDataConverter" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="6.438" Y="1.062" />
+        <Point X="6.438" Y="1.352" />
+        <Point X="2.125" Y="1.352" />
+        <Point X="2.125" Y="1.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIgAAAAAAAAAABAAAAAAAAAAAAAAAAAAACCA=</HashCode>
+      <FileName>InfoFormatter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="corelib.CartViewInfoProviderStandard" Collapsed="true">
+    <Position X="1" Y="3.25" Width="2.25" />
+    <InheritanceLine Type="corelib.SingleDataConverter" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="6.688" Y="1.062" />
+        <Point X="6.688" Y="2.73" />
+        <Point X="2.125" Y="2.73" />
+        <Point X="2.125" Y="3.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIgAAAAAAAAAABAAAAAAAAAAAAAAAAAAACCA=</HashCode>
+      <FileName>InfoFormatter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="corelib.MathOp" Collapsed="true">
+    <Position X="42.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAACQgAAAAAAAAABAEAAAIAAEAAAgAAAAIAA=</HashCode>
+      <FileName>MathOp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="corelib.AwfulSerializer" Collapsed="true">
+    <Position X="35.75" Y="23.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AQIAAAAABAAAAAAACAAAAAAAAgAAABQAAAAAAAAAQAg=</HashCode>
+      <FileName>Serializer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="corelib.AwfulDeserializer" Collapsed="true">
+    <Position X="38" Y="23.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAIACAAAhAAAgBBAAAAAAIAAAgAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Serializer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="corelib.StreamSerializer" Collapsed="true">
+    <Position X="35.75" Y="24.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAEAAEAAAAAAAAAAwAAAAAAQABAAAgAEAABAA=</HashCode>
+      <FileName>Serializer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="corelib.StreamDeserializer" Collapsed="true">
+    <Position X="38" Y="24.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAEAAAAAAAAAAwAAAAAAQABAAAgAEAABAA=</HashCode>
+      <FileName>Serializer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="corelib.MultiTupleItem" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAADAAAEAwAABAAAAAAAAAAAAABBAg=</HashCode>
+      <FileName>Tuple.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="corelib.DataTuple" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.5" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACQAASgNAAgABgACAAIEMgAQCAAgAAEAAABAQEFEAA=</HashCode>
+      <FileName>Tuple.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="corelib.MultiDataTuple" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="6" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QBAQAACwAAAAAEAACAAAEA0AEAAAAEAAAAAAAAAFAgg=</HashCode>
+      <FileName>Tuple.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="corelib.DataTupleProvider" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="16.75" Y="10" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAECAAAAQAAAAAACAAAAAACAAAAAAAAACAMAA=</HashCode>
+      <FileName>Tuple.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="dsltools.Lexer" Collapsed="true">
+    <Position X="39.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAgAA=</HashCode>
+      <FileName>DslLexer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dsltools.LexerRuleKeyword" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="39.5" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAAgAAAAAAAAEAAAACAAAAEEAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>DslLexer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="dsltools.LexerRuleRegex" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="39.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAgAAAAAAAAEAABACAAAAAAABAABAAAAAAAAAAA=</HashCode>
+      <FileName>DslLexer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Struct Name="corelib.Timestamp" Collapsed="true">
+    <Position X="29.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEIAAABAAAAAAAAAUAAAAAAAQAIAA=</HashCode>
+      <FileName>AnyType.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="corelib.SensoredMas" Collapsed="true">
+    <Position X="27.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAABAACAAEEAAAAAAAAAAAAEAAEABAAAAAAAA=</HashCode>
+      <FileName>AnyType.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="corelib.AnyValue" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="22.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wTBQwAIoQAQAFgcMIUYAQRTEAiBKIBJqg9yws7aRGAI=</HashCode>
+      <FileName>AnyType.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Struct>
+  <Struct Name="corelib.AutoParameterInfo" Collapsed="true">
+    <Position X="24" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAwAAAAAAACYAAAAAAQAAAQAAAAAAAAAAQAAAAAAQAA=</HashCode>
+      <FileName>Component.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="corelib.RawTupleItem" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="22.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAACAEAAEAAAAAAACAAwAAAAAIQABAAAAAEAABAA=</HashCode>
+      <FileName>Data.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Struct>
+  <Struct Name="corelib.RawTuple" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="31" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACABAAAAAAABAACAAgAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Data.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Struct>
+  <Struct Name="corelib.OleObject" Collapsed="true">
+    <Position X="29.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FAAAIAAAAAAIAAAgAAAAgAAAAAEAAAAAAAgAgAAAAAA=</HashCode>
+      <FileName>DataGrid.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="corelib.DataParamTableItem" Collapsed="true">
+    <Position X="29.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAEAAAAAAAAAAAAAABAAAEgAAAAAAA=</HashCode>
+      <FileName>DataParamTableNew.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="corelib.CartogramPresentationConfig" Collapsed="true">
+    <Position X="25.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAgADAAAAA=</HashCode>
+      <FileName>ExtendedEnv.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="corelib.Sensored" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="25.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAIAAAAAAAEEAAgAQAANAAAAAAAgANhgpgYQAAI=</HashCode>
+      <FileName>Types.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Struct>
+  <Struct Name="corelib.ScaleIndex" Collapsed="true">
+    <Position X="24" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAEAAAQAAAAkAIAIAACAAAAAIAAAAAAAAAAAiQ=</HashCode>
+      <FileName>Types.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="corelib.FiberCoords" Collapsed="true">
+    <Position X="31" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAEIAgAAAABABAAAAACABBAAQAAAAA=</HashCode>
+      <FileName>Types.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="corelib.Coords" Collapsed="true">
+    <Position X="27.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAMAAAAAAAEgAAAEAIJAAAAAIAQAABgAwAAYiA=</HashCode>
+      <FileName>Types.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="corelib.MultiIntFloat" Collapsed="true">
+    <Position X="27.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAEABAAAAAAAAAAAAAAAgACA=</HashCode>
+      <FileName>Types.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="corelib.TupleMetaData" Collapsed="true">
+    <Position X="31" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAEAAAAAAAIBAQAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Types.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="corelib.KnownType" Collapsed="true">
+    <Position X="22.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ARABAAoAIACAjwQFQEBIAAAoAAAAAgABADAAYDAAASo=</HashCode>
+      <FileName>Types.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="dsltools.Lexeme" Collapsed="true">
+    <Position X="24" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAkAAAAAEAAAAAAAAAACAABAAAAACAAABAAA=</HashCode>
+      <FileName>DslLexer.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="dsltools.LexemeStream" Collapsed="true">
+    <Position X="25.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAUACACQAAAAAAAAAAAAIAAIACAAgAA=</HashCode>
+      <FileName>DslLexer.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="corelib.ITask" Collapsed="true">
+    <Position X="22.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAQAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>ComponentAlgo.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="corelib.IDataCartogramIndexed" Collapsed="true">
+    <Position X="22.25" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAYAAACAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>DataCartogramNew.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="corelib.IGetCoordsConverter" Collapsed="true">
+    <Position X="13.5" Y="15.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExtendedEnv.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="corelib.IGetDataFormatter" Collapsed="true">
+    <Position X="15.5" Y="15.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>ExtendedEnv.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="corelib.IGetCartPresentation" Collapsed="true">
+    <Position X="17.5" Y="15.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExtendedEnv.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="corelib.IEnviromentEx" Collapsed="true">
+    <Position X="13.5" Y="17" Width="1.75" />
+    <InheritanceLine Type="corelib.IGetCoordsConverter" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="14.125" Y="16.312" />
+        <Point X="14.125" Y="17" />
+      </Path>
+    </InheritanceLine>
+    <InheritanceLine Type="corelib.IGetDataFormatter" ManuallyRouted="true">
+      <Path>
+        <Point X="16.375" Y="16.312" />
+        <Point X="16.375" Y="16.637" />
+        <Point X="14.375" Y="16.637" />
+        <Point X="14.375" Y="17" />
+      </Path>
+    </InheritanceLine>
+    <InheritanceLine Type="corelib.IGetCartPresentation" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="18.375" Y="16.312" />
+        <Point X="18.375" Y="16.89" />
+        <Point X="14.625" Y="16.89" />
+        <Point X="14.625" Y="17" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExtendedEnv.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="corelib.ITimeData" Collapsed="true">
+    <Position X="7.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="corelib.IStreamInfo" Collapsed="true">
+    <Position X="5.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="corelib.ITupleMetaData" Collapsed="true">
+    <Position X="4.25" Y="9" Width="1.5" />
+    <InheritanceLine Type="corelib.ITimeData" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="8.312" Y="7.812" />
+        <Point X="8.312" Y="8.635" />
+        <Point X="7.021" Y="8.635" Type="JumpStart" />
+        <Point X="6.854" Y="8.635" Type="JumpEnd" />
+        <Point X="5" Y="8.635" />
+        <Point X="5" Y="9" />
+      </Path>
+    </InheritanceLine>
+    <InheritanceLine Type="corelib.IStreamInfo" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="6.188" Y="7.812" />
+        <Point X="6.188" Y="8.403" />
+        <Point X="4.812" Y="8.403" />
+        <Point X="4.812" Y="9" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAQAAAAAAQABAAAAAEAABAA=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="corelib.IMultiTupleItem" Collapsed="true">
+    <Position X="6.5" Y="9" Width="1.5" />
+    <InheritanceLine Type="corelib.ITimeData" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="8.5" Y="7.812" />
+        <Point X="8.5" Y="8.79" />
+        <Point X="7.5" Y="8.79" />
+        <Point X="7.5" Y="9" />
+      </Path>
+    </InheritanceLine>
+    <InheritanceLine Type="corelib.IStreamInfo" ManuallyRouted="true" FixedToPoint="true">
+      <Path>
+        <Point X="6.5" Y="7.812" />
+        <Point X="6.5" Y="8.468" />
+        <Point X="6.938" Y="8.468" />
+        <Point X="6.938" Y="9" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAQAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="corelib.IDuckTuple" Collapsed="true">
+    <Position X="11" Y="9" Width="1.5" />
+    <InheritanceLine Type="corelib.ITimeData" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="8.875" Y="7.812" />
+        <Point X="8.875" Y="8.568" />
+        <Point X="9.667" Y="8.568" Type="JumpStart" />
+        <Point X="9.833" Y="8.568" Type="JumpEnd" />
+        <Point X="11.562" Y="8.568" />
+        <Point X="11.562" Y="9" />
+      </Path>
+    </InheritanceLine>
+    <InheritanceLine Type="corelib.IStreamInfo" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="6.875" Y="7.812" />
+        <Point X="6.875" Y="8.135" />
+        <Point X="8.229" Y="8.135" Type="JumpStart" />
+        <Point X="8.396" Y="8.135" Type="JumpEnd" />
+        <Point X="8.417" Y="8.135" Type="JumpStart" />
+        <Point X="8.583" Y="8.135" Type="JumpEnd" />
+        <Point X="8.604" Y="8.135" Type="JumpStart" />
+        <Point X="8.771" Y="8.135" Type="JumpEnd" />
+        <Point X="8.792" Y="8.135" Type="JumpStart" />
+        <Point X="8.958" Y="8.135" Type="JumpEnd" />
+        <Point X="11.75" Y="8.135" />
+        <Point X="11.75" Y="9" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="corelib.IDataTupleInfo" Collapsed="true">
+    <Position X="9" Y="9" Width="1.5" />
+    <InheritanceLine Type="corelib.ITimeData" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="8.688" Y="7.812" />
+        <Point X="8.688" Y="8.778" />
+        <Point X="9.5" Y="8.778" />
+        <Point X="9.5" Y="9" />
+      </Path>
+    </InheritanceLine>
+    <InheritanceLine Type="corelib.IStreamInfo" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="6.688" Y="7.812" />
+        <Point X="6.688" Y="8.309" />
+        <Point X="8.229" Y="8.309" Type="JumpStart" />
+        <Point X="8.396" Y="8.309" Type="JumpEnd" />
+        <Point X="8.417" Y="8.309" Type="JumpStart" />
+        <Point X="8.583" Y="8.309" Type="JumpEnd" />
+        <Point X="8.604" Y="8.309" Type="JumpStart" />
+        <Point X="8.771" Y="8.309" Type="JumpEnd" />
+        <Point X="8.792" Y="8.309" Type="JumpStart" />
+        <Point X="8.958" Y="8.309" Type="JumpEnd" />
+        <Point X="9.75" Y="8.309" />
+        <Point X="9.75" Y="9" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="corelib.IDataTuple" Collapsed="true">
+    <Position X="10.75" Y="11" Width="1.75" />
+    <InheritanceLine Type="corelib.IDuckTuple" FixedToPoint="true">
+      <Path>
+        <Point X="11.75" Y="9.82" />
+        <Point X="11.75" Y="11" />
+      </Path>
+    </InheritanceLine>
+    <InheritanceLine Type="corelib.IDataTupleInfo" FixedToPoint="true">
+      <Path>
+        <Point X="9.75" Y="9.82" />
+        <Point X="9.75" Y="10.625" />
+        <Point X="11.406" Y="10.625" />
+        <Point X="11.406" Y="11" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAEAAAAAAACAAAEMAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="corelib.IMultiDataTuple" Collapsed="true">
+    <Position X="9" Y="11" Width="1.5" />
+    <InheritanceLine Type="corelib.IDataTupleInfo" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="9.5" Y="9.82" />
+        <Point X="9.5" Y="11" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAACAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="corelib.IInfoFormatter" Collapsed="true">
+    <Position X="24" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIgACAAAQAAAABAAAABAACAAAAAAAAAAACAA=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="corelib.IDataProvider" Collapsed="true">
+    <Position X="16.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="corelib.ISingleDataProvider" Collapsed="true">
+    <Position X="15.5" Y="8.75" Width="1.75" />
+    <InheritanceLine Type="corelib.IDataProvider" FixedFromPoint="true">
+      <Path>
+        <Point X="17.375" Y="7.941" />
+        <Point X="17.375" Y="8.375" />
+        <Point X="16.375" Y="8.375" />
+        <Point X="16.375" Y="8.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="corelib.IMultiDataProvider" Collapsed="true">
+    <Position X="17.75" Y="8.75" Width="1.75" />
+    <InheritanceLine Type="corelib.IDataProvider" FixedFromPoint="true">
+      <Path>
+        <Point X="17.562" Y="7.941" />
+        <Point X="17.562" Y="8.375" />
+        <Point X="18.625" Y="8.375" />
+        <Point X="18.625" Y="8.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AACECAAAEBAAAAAAAAAAYEAAAAAAAAAABIAAAAgAAAA=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="corelib.IBaseResource" Collapsed="true">
+    <Position X="23" Y="16" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="corelib.IResource" Collapsed="true">
+    <Position X="23" Y="17" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AggAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="corelib.IResourceInstance" Collapsed="true">
+    <Position X="27.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="corelib.IDataResource" Collapsed="true">
+    <Position X="21.75" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="corelib.IAlgoResource" Collapsed="true">
+    <Position X="24" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="corelib.ISingleTupleRules" Collapsed="true">
+    <Position X="31" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABQAAACgAAAAAAAAAEAAQAAEAAAAAAAAAAAACI=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="corelib.ITypeRules" Collapsed="true">
+    <Position X="29.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAQAAAAAAAAAAAAAAAAAgAAAABDA=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="corelib.ITupleRules" Collapsed="true">
+    <Position X="27.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAEAAAAEAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="corelib.IRules" Collapsed="true">
+    <Position X="29.25" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAABgAAAAAAAQAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="corelib.ITupleParamMap" Collapsed="true">
+    <Position X="25.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAACAAABAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="corelib.IComponentInfo" Collapsed="true">
+    <Position X="14" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="corelib.IComponent" Collapsed="true">
+    <Position X="23" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAQAAAAAAEAAAAAAAEAAAAA=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="corelib.IDataComponent" Collapsed="true">
+    <Position X="21.75" Y="23.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAEAAAAA=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="corelib.IResourceComponent" Collapsed="true">
+    <Position X="24" Y="23.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="corelib.IAlgoResourceComponent" Collapsed="true">
+    <Position X="23.75" Y="24.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="corelib.IComponents" Collapsed="true">
+    <Position X="18.5" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="corelib.IDataComponents" Collapsed="true">
+    <Position X="17.25" Y="23.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="corelib.IResourceComponents" Collapsed="true">
+    <Position X="19.5" Y="23.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="corelib.IAlgoComponents" Collapsed="true">
+    <Position X="19.75" Y="24.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAICAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="corelib.IEnviromentSettings" Collapsed="true">
+    <Position X="15.5" Y="17.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAIAAAAAAAAABAAAAIAAAARAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="corelib.IEnviroment" Collapsed="true">
+    <Position X="15.5" Y="18.5" Width="1.75" />
+    <InheritanceLine Type="corelib.IEnviromentEx" FixedToPoint="true">
+      <Path>
+        <Point X="14.375" Y="17.95" />
+        <Point X="14.375" Y="18.2" />
+        <Point X="16.062" Y="18.2" />
+        <Point X="16.062" Y="18.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="corelib.ISerializeStream" Collapsed="true">
+    <Position X="2.75" Y="10.5" Width="1.5" />
+    <InheritanceLine Type="corelib.ITupleMetaData" FixedFromPoint="true">
+      <Path>
+        <Point X="4.5" Y="9.82" />
+        <Point X="4.5" Y="10.125" />
+        <Point X="3.5" Y="10.125" />
+        <Point X="3.5" Y="10.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAg=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="corelib.IDeserializeStream" Collapsed="true">
+    <Position X="4.5" Y="10.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAgAAAAABAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="corelib.ITupleItem" Collapsed="true">
+    <Position X="6.5" Y="10.5" Width="1.5" />
+    <InheritanceLine Type="corelib.ITupleMetaData" FixedFromPoint="true">
+      <Path>
+        <Point X="5.625" Y="9.82" />
+        <Point X="5.625" Y="10.125" />
+        <Point X="7.25" Y="10.125" />
+        <Point X="7.25" Y="10.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAABAAAAAKAAAAAAQAAAAAAAgBA=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="corelib.IDataComponentInfo" Collapsed="true">
+    <Position X="12.75" Y="23.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAABAAAAACAAAEAAAAEAAAEAAAAAgA=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="corelib.IAlgoComponentInfo" Collapsed="true">
+    <Position X="15" Y="23.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="corelib.ITupleMaps" Collapsed="true">
+    <Position X="24" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="corelib.IDataArray" Collapsed="true">
+    <Position X="2.75" Y="11.75" Width="1.5" />
+    <InheritanceLine Type="corelib.ITupleItem" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="7.062" Y="11.191" />
+        <Point X="7.062" Y="11.469" />
+        <Point X="3.5" Y="11.469" />
+        <Point X="3.5" Y="11.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAABBAAgAAAAAAAACAAAABBAAAAAAAIEAgCwAgCACAQ=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="corelib.IDataCartogram" Collapsed="true">
+    <Position X="4.5" Y="11.75" Width="1.5" />
+    <InheritanceLine Type="corelib.ITupleItem" ManuallyRouted="true">
+      <Path>
+        <Point X="7.25" Y="11.191" />
+        <Point X="7.25" Y="11.573" />
+        <Point X="5.25" Y="11.573" />
+        <Point X="5.25" Y="11.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAABAQAAAAAIAAADAAAEAAAACAAAAAECAAAgAAAAAA=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="corelib.IDataParamTable" Collapsed="true">
+    <Position X="6.5" Y="11.75" Width="1.5" />
+    <InheritanceLine Type="corelib.ITupleItem" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="7.438" Y="11.191" />
+        <Point X="7.438" Y="11.75" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="dsltools.ILexerRule" Collapsed="true">
+    <Position X="25.75" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAgAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DslLexer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="corelib.AutoParameterInfoType" Collapsed="true">
+    <Position X="22.25" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgQAAAAAAAAAACAAACEABAAAAAAAI=</HashCode>
+      <FileName>Component.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="corelib.FormatterType" Collapsed="true">
+    <Position X="25.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAQAAAACAAABAAAAAAQQAAAAAAACA=</HashCode>
+      <FileName>ExtendedEnv.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="corelib.TupleMapMatch" Collapsed="true">
+    <Position X="27.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAIAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="corelib.ChannelType" Collapsed="true">
+    <Position X="24" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABgAAAAAAAAAAAAGAABAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Types.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="corelib.CheckTypeCompatibility" Collapsed="true">
+    <Position X="24" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Component.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="corelib.MultiDataProviderGetDataEventHandler" Collapsed="true">
+    <Position X="27.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Data.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="corelib.MultiDataProviderDataEventHandler" Collapsed="true">
+    <Position X="25.75" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="corelib.Generator1&lt;T&gt;" Collapsed="true">
+    <Position X="27.5" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataArrayNew.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="corelib.Generator2&lt;T&gt;" Collapsed="true">
+    <Position X="29.25" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA=</HashCode>
+      <FileName>DataArrayNew.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="corelib.Generator3&lt;T&gt;" Collapsed="true">
+    <Position X="31" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA=</HashCode>
+      <FileName>DataArrayNew.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="corelib.Generator&lt;T&gt;" Collapsed="true">
+    <Position X="25.75" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAA=</HashCode>
+      <FileName>DataArrayNew.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="corelib.Operator&lt;T&gt;" Collapsed="true">
+    <Position X="31" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataArrayNew.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="corelib.Action&lt;U, V&gt;" Collapsed="true">
+    <Position X="22.25" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataArrayNew.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="corelib.OperationCartogram" Collapsed="true">
+    <Position X="29.25" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAQAAAA=</HashCode>
+      <FileName>DataCartogramNew.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="corelib.IDataResourceDisposedEvent" Collapsed="true">
+    <Position X="22.25" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="corelib.IResourceDisposedEvent" Collapsed="true">
+    <Position X="24" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

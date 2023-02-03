@@ -1,0 +1,5 @@
+C:\sundown-hg\test2\bin\Release\Algorithms.dll
+C:\sundown-hg\test2\bin\Release\Algorithms.pdb
+C:\sundown-hg\Algorithms\obj\Release\ResolveAssemblyReference.cache
+C:\sundown-hg\Algorithms\obj\Release\Algorithms.dll
+C:\sundown-hg\Algorithms\obj\Release\Algorithms.pdb

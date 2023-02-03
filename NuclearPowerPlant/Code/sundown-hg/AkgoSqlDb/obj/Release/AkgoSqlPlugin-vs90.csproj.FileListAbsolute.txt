@@ -1,0 +1,5 @@
+C:\sundown-hg\test2\bin\Release\AkgoSqlDb.dll
+C:\sundown-hg\test2\bin\Release\AkgoSqlDb.pdb
+C:\sundown-hg\AkgoSqlDb\obj\Release\ResolveAssemblyReference.cache
+C:\sundown-hg\AkgoSqlDb\obj\Release\AkgoSqlDb.dll
+C:\sundown-hg\AkgoSqlDb\obj\Release\AkgoSqlDb.pdb

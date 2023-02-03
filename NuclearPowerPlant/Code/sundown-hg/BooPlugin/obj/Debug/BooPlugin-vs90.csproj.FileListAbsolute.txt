@@ -1,0 +1,7 @@
+C:\sundown-hg\test2\bin\Debug_NET2\BooPlugin.dll
+C:\sundown-hg\test2\bin\Debug_NET2\BooPlugin.pdb
+C:\sundown-hg\BooPlugin\obj\Debug\ResolveAssemblyReference.cache
+C:\sundown-hg\BooPlugin\obj\Debug\WindowsApplication1.DslManageWindow.resources
+C:\sundown-hg\BooPlugin\obj\Debug\BooPlugin-vs90.csproj.GenerateResource.Cache
+C:\sundown-hg\BooPlugin\obj\Debug\BooPlugin.dll
+C:\sundown-hg\BooPlugin\obj\Debug\BooPlugin.pdb

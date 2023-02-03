@@ -1,0 +1,7 @@
+C:\sundown-hg\corelib\bin\Release\corelib.dll
+C:\sundown-hg\corelib\bin\Release\corelib.pdb
+C:\sundown-hg\corelib\bin\Release\lzmalib.dll
+C:\sundown-hg\corelib\bin\Release\lzmalib.pdb
+C:\sundown-hg\corelib\obj\Release\ResolveAssemblyReference.cache
+C:\sundown-hg\corelib\obj\Release\corelib.dll
+C:\sundown-hg\corelib\obj\Release\corelib.pdb

@@ -1,0 +1,5 @@
+C:\sundown-hg\lzmalib\bin\Debug\lzmalib.dll
+C:\sundown-hg\lzmalib\bin\Debug\lzmalib.pdb
+C:\sundown-hg\lzmalib\obj\Debug\ResolveAssemblyReference.cache
+C:\sundown-hg\lzmalib\obj\Debug\lzmalib.dll
+C:\sundown-hg\lzmalib\obj\Debug\lzmalib.pdb

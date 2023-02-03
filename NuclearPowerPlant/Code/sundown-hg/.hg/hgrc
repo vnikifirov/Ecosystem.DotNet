@@ -1,0 +1,7 @@
+[paths]
+default = http://169.254.209.228:8000
+
+
+[web]
+push_ssl = False
+allow_push = *

@@ -1,0 +1,7 @@
+C:\sundown-hg\test2\bin\Release\AkgoExporter.exe
+C:\sundown-hg\test2\bin\Release\AkgoExporter.pdb
+C:\sundown-hg\AkgoExporter\obj\Release\ResolveAssemblyReference.cache
+C:\sundown-hg\AkgoExporter\obj\Release\AkgoExporter.AkgoResources.resources
+C:\sundown-hg\AkgoExporter\obj\Release\AkgoExporter-vs90.csproj.GenerateResource.Cache
+C:\sundown-hg\AkgoExporter\obj\Release\AkgoExporter.exe
+C:\sundown-hg\AkgoExporter\obj\Release\AkgoExporter.pdb
