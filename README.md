@@ -24,7 +24,7 @@
 
 11. [Junior/Middle 👨‍🏫 Test Full Stack - ARORA marketing agency 🏭](https://github.com/vnikifirov/Ecosystem.DotNet/tree/master/test-full-stack)
 
-12. [Software / Solution Architect 👨‍🏫 Project Managment System SDE (.Net) - Akvelonv 🏭](https://github.com/vnikifirov/Ecosystem.DotNet/tree/master/TestTaskTracker)
+12. [Software / Solution Architect 👨‍🏫 Project Managment System SDE (.Net) - Akvelon 🏭](https://github.com/vnikifirov/Ecosystem.DotNet/tree/master/TestTaskTracker)
 
 13. [Junior/Senior 👨‍🏫 Word Counter - SimbirSoft 🏭🏢](https://github.com/vnikifirov/Ecosystem.DotNet/tree/master/WordCounter)
 
