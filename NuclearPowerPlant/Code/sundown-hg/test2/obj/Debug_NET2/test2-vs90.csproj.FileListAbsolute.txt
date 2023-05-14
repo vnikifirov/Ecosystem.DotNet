@@ -1,0 +1,65 @@
+C:\newMyPrograms\sundown-hg\test2\bin\Debug_NET2\config.xml
+C:\newMyPrograms\sundown-hg\test2\bin\Debug_NET2\test2.dll.config
+C:\newMyPrograms\sundown-hg\test2\bin\Debug_NET2\test2.dll
+C:\newMyPrograms\sundown-hg\test2\bin\Debug_NET2\test2.pdb
+C:\newMyPrograms\sundown-hg\test2\bin\Debug_NET2\nunit.core.dll
+C:\newMyPrograms\sundown-hg\test2\bin\Debug_NET2\nunit.framework.dll
+C:\newMyPrograms\sundown-hg\test2\bin\Debug_NET2\System.Data.SQLite.dll
+C:\newMyPrograms\sundown-hg\test2\bin\Debug_NET2\System.Data.SQLite.xml
+C:\newMyPrograms\sundown-hg\test2\obj\Debug_NET2\ResolveAssemblyReference.cache
+C:\newMyPrograms\sundown-hg\test2\obj\Debug_NET2\test2.dll
+C:\newMyPrograms\sundown-hg\test2\obj\Debug_NET2\test2.pdb
+C:\newMyPrograms\sundown-hg\test2\bin\Debug_NET2\lzmalib.dll
+C:\newMyPrograms\sundown-hg\test2\bin\Debug_NET2\lzmalib.pdb
+C:\newMyPrograms\sundown-hg\test2\bin\Debug_NET2\PgSqlStorage.pdb
+C:\newMyPrograms\sundown-hg\test2\bin\Debug_NET2\RockMicoPlugin.pdb
+C:\newMyPrograms\sundown-hg\test2\bin\Debug_NET2\SqlLiteStorage.pdb
+C:\newMyPrograms\sundown-hg\test2\bin\Debug_NET2\Algorithms.pdb
+C:\newMyPrograms\sundown-hg\test2\bin\Debug_NET2\corelib.pdb
+C:\newMyPrograms\sundown-hg\test2\bin\Debug_NET2\AkgoSqlDb.pdb
+C:\newMyPrograms\sundown-hg\test2\bin\Debug_NET2\WindowsApplication1.pdb
+C:\Users\Roman\Documents\Visual Studio 2008\Projects\sundown-hg\test2\bin\Debug_NET2\test2.dll
+C:\Users\Roman\Documents\Visual Studio 2008\Projects\sundown-hg\test2\bin\Debug_NET2\nunit.core.dll
+C:\Users\Roman\Documents\Visual Studio 2008\Projects\sundown-hg\test2\bin\Debug_NET2\nunit.framework.dll
+C:\Users\Roman\Documents\Visual Studio 2008\Projects\sundown-hg\test2\bin\Debug_NET2\config.xml
+C:\Users\Roman\Documents\Visual Studio 2008\Projects\sundown-hg\test2\bin\Debug_NET2\test2.dll.config
+C:\Users\Roman\Documents\Visual Studio 2008\Projects\sundown-hg\test2\bin\Debug_NET2\test2.pdb
+C:\Users\Roman\Documents\Visual Studio 2008\Projects\sundown-hg\test2\bin\Debug_NET2\System.Data.SQLite.dll
+C:\Users\Roman\Documents\Visual Studio 2008\Projects\sundown-hg\test2\bin\Debug_NET2\System.Data.SQLite.xml
+C:\Users\Roman\Documents\Visual Studio 2008\Projects\sundown-hg\test2\obj\Debug_NET2\ResolveAssemblyReference.cache
+C:\Users\Roman\Documents\Visual Studio 2008\Projects\sundown-hg\test2\obj\Debug_NET2\test2.dll
+C:\Users\Roman\Documents\Visual Studio 2008\Projects\sundown-hg\test2\obj\Debug_NET2\test2.pdb
+C:\Users\Roman\Documents\Visual Studio 2008\Projects\sundown-hg\test2\bin\Debug_NET2\lzmalib.dll
+C:\Users\Roman\Documents\Visual Studio 2008\Projects\sundown-hg\test2\bin\Debug_NET2\Npgsql.dll
+C:\Users\Roman\Documents\Visual Studio 2008\Projects\sundown-hg\test2\bin\Debug_NET2\lzmalib.pdb
+C:\Users\Roman\Documents\Visual Studio 2008\Projects\sundown-hg\test2\bin\Debug_NET2\Npgsql.pdb
+C:\Users\Roman\Documents\Visual Studio 2008\Projects\sundown-hg\test2\bin\Debug_NET2\Npgsql.xml
+C:\Users\Roman\Documents\Visual Studio 2008\Projects\sundown-hg\test2\bin\Debug_NET2\PgSqlStorage.pdb
+C:\Users\Roman\Documents\Visual Studio 2008\Projects\sundown-hg\test2\bin\Debug_NET2\RockMicoPlugin.pdb
+C:\Users\Roman\Documents\Visual Studio 2008\Projects\sundown-hg\test2\bin\Debug_NET2\SqlLiteStorage.pdb
+C:\Users\Roman\Documents\Visual Studio 2008\Projects\sundown-hg\test2\bin\Debug_NET2\Algorithms.pdb
+C:\Users\Roman\Documents\Visual Studio 2008\Projects\sundown-hg\test2\bin\Debug_NET2\corelib.pdb
+C:\Users\Roman\Documents\Visual Studio 2008\Projects\sundown-hg\test2\bin\Debug_NET2\AkgoSqlDb.pdb
+C:\Users\Roman\Documents\Visual Studio 2008\Projects\sundown-hg\test2\bin\Debug_NET2\WindowsApplication1.pdb
+C:\sundown-hg\test2\bin\Debug_NET2\config.xml
+C:\sundown-hg\test2\bin\Debug_NET2\test2.dll.config
+C:\sundown-hg\test2\bin\Debug_NET2\test2.dll
+C:\sundown-hg\test2\bin\Debug_NET2\test2.pdb
+C:\sundown-hg\test2\bin\Debug_NET2\nunit.core.dll
+C:\sundown-hg\test2\bin\Debug_NET2\nunit.framework.dll
+C:\sundown-hg\test2\obj\Debug_NET2\ResolveAssemblyReference.cache
+C:\sundown-hg\test2\obj\Debug_NET2\test2.dll
+C:\sundown-hg\test2\obj\Debug_NET2\test2.pdb
+C:\sundown-hg\test2\bin\Debug_NET2\System.Data.SQLite.xml
+C:\sundown-hg\test2\bin\Debug_NET2\System.Data.SQLite.dll
+C:\sundown-hg\test2\bin\Debug_NET2\lzmalib.dll
+C:\sundown-hg\test2\bin\Debug_NET2\lzmalib.pdb
+C:\sundown-hg\test2\bin\Debug_NET2\RockMicoPlugin.pdb
+C:\sundown-hg\test2\bin\Debug_NET2\SqlLiteStorage.pdb
+C:\sundown-hg\test2\bin\Debug_NET2\Algorithms.pdb
+C:\sundown-hg\test2\bin\Debug_NET2\corelib.pdb
+C:\sundown-hg\test2\bin\Debug_NET2\AkgoSqlDb.pdb
+C:\sundown-hg\test2\bin\Debug_NET2\WindowsApplication1.pdb
+C:\sundown-hg\test2\bin\Debug_NET2\Mono.Security.dll
+C:\sundown-hg\test2\bin\Debug_NET2\Npgsql.dll
+C:\sundown-hg\test2\bin\Debug_NET2\PgSqlStorage.pdb

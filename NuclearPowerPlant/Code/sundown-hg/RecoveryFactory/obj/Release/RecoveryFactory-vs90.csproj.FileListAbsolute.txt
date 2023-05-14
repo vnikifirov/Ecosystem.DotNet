@@ -1,0 +1,8 @@
+C:\sundown-hg\test2\bin\Release\RecoveryFactory.exe
+C:\sundown-hg\test2\bin\Release\RecoveryFactory.pdb
+C:\sundown-hg\RecoveryFactory\obj\Release\ResolveAssemblyReference.cache
+C:\sundown-hg\RecoveryFactory\obj\Release\corelib.MainForm.resources
+C:\sundown-hg\RecoveryFactory\obj\Release\RecoveryFactory-vs90.csproj.GenerateResource.Cache
+C:\sundown-hg\RecoveryFactory\obj\Release\RecoveryFactory.exe
+C:\sundown-hg\RecoveryFactory\obj\Release\RecoveryFactory.pdb
+C:\sundown-hg\RecoveryFactory\obj\Release\corelib.RecoverySimple.resources

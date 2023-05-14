@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\MDX sundown-hg\PluginMDX-vs90\bin\Debug\PluginMDX-vs90.dll" total="0" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2012-04-15" time="23:18:08">
+  <environment nunit-version="2.5.10.11092" clr-version="2.0.50727.1433" os-version="Microsoft Windows NT 5.1.2600 Service Pack 3" platform="Win32NT" cwd="C:\MDX sundown-hg\PluginMDX-vs90\bin\Debug" machine-name="ASUS-EEE" user="Ramzes" user-domain="ASUS-EEE" />
+  <culture-info current-culture="ru-RU" current-uiculture="ru-RU" />
+  <test-suite type="Assembly" name="C:\MDX sundown-hg\PluginMDX-vs90\bin\Debug\PluginMDX-vs90.dll" executed="True" result="Inconclusive" success="False" time="0.031" asserts="0" />
+</test-results>

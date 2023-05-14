@@ -1,0 +1,5 @@
+C:\sundown-hg\test2\bin\Debug_NET2\Algorithms.dll
+C:\sundown-hg\test2\bin\Debug_NET2\Algorithms.pdb
+C:\sundown-hg\Algorithms\obj\Debug_NET2\ResolveAssemblyReference.cache
+C:\sundown-hg\Algorithms\obj\Debug_NET2\Algorithms.dll
+C:\sundown-hg\Algorithms\obj\Debug_NET2\Algorithms.pdb

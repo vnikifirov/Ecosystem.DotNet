@@ -1,0 +1,15 @@
+C:\sundown-hg\SunBrowser\bin\Release\SunBrowser.exe
+C:\sundown-hg\SunBrowser\bin\Release\corelib.dll
+C:\sundown-hg\SunBrowser\bin\Release\RockMicoPlugin.dll
+C:\sundown-hg\SunBrowser\bin\Release\WindowsApplication1.dll
+C:\sundown-hg\SunBrowser\bin\Release\lzmalib.dll
+C:\sundown-hg\SunBrowser\bin\Release\RockMicoPlugin.pdb
+C:\sundown-hg\SunBrowser\bin\Release\lzmalib.pdb
+C:\sundown-hg\SunBrowser\bin\Release\WindowsApplication1.pdb
+C:\sundown-hg\SunBrowser\bin\Release\corelib.pdb
+C:\sundown-hg\SunBrowser\obj\Release\ResolveAssemblyReference.cache
+C:\sundown-hg\SunBrowser\obj\Release\SunBrowser.SunBrowserEnviroment.resources
+C:\sundown-hg\SunBrowser\obj\Release\SunBrowser-vs90.csproj.GenerateResource.Cache
+C:\sundown-hg\SunBrowser\obj\Release\SunBrowser.exe
+C:\sundown-hg\SunBrowser\bin\Release\PluginMDX-vs90.dll
+C:\sundown-hg\SunBrowser\bin\Release\PluginMDX-vs90.pdb

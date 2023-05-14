@@ -1,0 +1,5 @@
+C:\sundown-hg\test2\bin\Debug_NET2\RockMicoPlugin.dll
+C:\sundown-hg\test2\bin\Debug_NET2\RockMicoPlugin.pdb
+C:\sundown-hg\RockMicoPlugin\obj\Debug_NET2\ResolveAssemblyReference.cache
+C:\sundown-hg\RockMicoPlugin\obj\Debug_NET2\RockMicoPlugin.dll
+C:\sundown-hg\RockMicoPlugin\obj\Debug_NET2\RockMicoPlugin.pdb

@@ -1,0 +1,37 @@
+<Combine name="sundown" fileversion="2.0">
+  <Configurations active="Debug">
+    <Configuration name="Debug" ctype="CombineConfiguration">
+      <Entry build="True" name="corelib" configuration="Debug" />
+      <Entry build="True" name="RockMicoPlugin" configuration="Debug" />
+      <Entry build="True" name="PgSqlStorage" configuration="Debug" />
+      <Entry build="True" name="testlib" configuration="Debug" />
+      <Entry build="True" name="test2" configuration="Debug" />
+      <Entry build="True" name="WindowsApplication1" configuration="Debug" />
+    </Configuration>
+    <Configuration name="Release" ctype="CombineConfiguration">
+      <Entry build="True" name="corelib" configuration="Release" />
+      <Entry build="True" name="RockMicoPlugin" configuration="Release" />
+      <Entry build="True" name="PgSqlStorage" configuration="Release" />
+      <Entry build="True" name="testlib" configuration="Release" />
+      <Entry build="True" name="test2" configuration="Release" />
+      <Entry build="True" name="WindowsApplication1" configuration="Release" />
+    </Configuration>
+  </Configurations>
+  <StartMode startupentry="test2" single="True">
+    <Execute type="None" entry="corelib" />
+    <Execute type="None" entry="RockMicoPlugin" />
+    <Execute type="None" entry="PgSqlStorage" />
+    <Execute type="None" entry="testlib" />
+    <Execute type="None" entry="test2" />
+    <Execute type="None" entry="WindowsApplication1" />
+  </StartMode>
+  <MonoDevelop.ChangeLogAddIn.ChangeLogInfo policy="UpdateNearestChangeLog" />
+  <Entries>
+    <Entry filename="corelib/corelib.mdp" />
+    <Entry filename="RockMicoPlugin/RockMicoPlugin.mdp" />
+    <Entry filename="PgSqlStorage/PgSqlStorage.mdp" />
+    <Entry filename="testlib/testlib.mdp" />
+    <Entry filename="test2/test2.mdp" />
+    <Entry filename="WindowsApplication1/WindowsApplication1.mdp" />
+  </Entries>
+</Combine>

@@ -1,0 +1,5 @@
+C:\sundown-hg\PgSqlStorage\obj\Release\ResolveAssemblyReference.cache
+C:\sundown-hg\test2\bin\Release\PgSqlStorage.dll
+C:\sundown-hg\test2\bin\Release\PgSqlStorage.pdb
+C:\sundown-hg\PgSqlStorage\obj\Release\PgSqlStorage.dll
+C:\sundown-hg\PgSqlStorage\obj\Release\PgSqlStorage.pdb

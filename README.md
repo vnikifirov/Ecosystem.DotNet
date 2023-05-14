@@ -24,7 +24,7 @@
 
 11. [Junior/Middle 👨‍🏫 Test Full Stack - ARORA marketing agency 🏭](https://github.com/vnikifirov/Ecosystem.DotNet/tree/master/test-full-stack)
 
-12. [Software / Solution Architect 👨‍🏫 Project Managment System SDE (.Net) - Akvelonv 🏭](https://github.com/vnikifirov/Ecosystem.DotNet/tree/master/TestTaskTracker)
+12. [Software / Solution Architect 👨‍🏫 Project Managment System SDE (.Net) - Akvelon 🏭](https://github.com/vnikifirov/Ecosystem.DotNet/tree/master/TestTaskTracker)
 
 13. [Junior/Senior 👨‍🏫 Word Counter - SimbirSoft 🏭🏢](https://github.com/vnikifirov/Ecosystem.DotNet/tree/master/WordCounter)
 
@@ -71,6 +71,8 @@
 34. [Intern / Student 👩‍🎓👨‍🎓 Computer Science 👨🏻‍💻🧬, Game Dev 🎲 - Snake game 🎲 uncompleted ✅ in C# / .NET 6 🧬](https://github.com/vnikifirov/Ecosystem.DotNet/tree/master/Snake)
 
 35. [School 🎒 assignment - American 🏈🇺🇸 school 🎒 boy 👦🏻 assignment 📖](https://github.com/vnikifirov/Ecosystem.DotNet/tree/master/School_AssessedExercise)
+
+36. [Nuclear ⚛️ power ⚡ plant 🔌🏭](https://github.com/vnikifirov/Ecosystem.DotNet/tree/master/NuclearPowerPlant)
 
 # Note
 

@@ -1,0 +1,5 @@
+C:\sundown-hg\test2\bin\Release\SqlLiteStorage.dll
+C:\sundown-hg\test2\bin\Release\SqlLiteStorage.pdb
+C:\sundown-hg\SqlLiteStorage\obj\Release\ResolveAssemblyReference.cache
+C:\sundown-hg\SqlLiteStorage\obj\Release\SqlLiteStorage.dll
+C:\sundown-hg\SqlLiteStorage\obj\Release\SqlLiteStorage.pdb

@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ParamTuple stream="config">
+  <i name="booBluginPath" help="">../../../dsl</i>
+  <!-- Параметры отображения картограммы и отсчета в системе 1884 -->
+  <i name="coordsCalculation" help="">5</i>
+  <i name="coordsVisualization" help="">5</i>
+  <!-- Путь к плагинам -->
+  <i name="componentPath" help="">.</i>
+  <!-- Параметры отображения интерфейса -->
+  <i name="SunEnv_ShowAdminButtons" help="">false</i>
+  <i name="SunEnv_ShowExportButton" help="">true</i>
+  <i name="SunEnv_HideActionForm" help="">true</i>
+
+  <i name="SunEnv_AlgoZagrConvert" help="">zagrConvertToInternal</i>
+  <i name="SunEnv_ParseWarningLevel" help="">500</i>
+  <i name="SunEnv_ParseFailLevel" help="">1550</i>
+  <!-- -->
+
+
+
+  <p name="kgoExporterUseProvider" value="AkgoSqlProvider">
+    <i name="akgoConnectionString" help="">DSN=kgodb;</i>
+    <i name="akgoDbSystem" help="">default</i>
+  </p>
+
+  <i name="SunEnv_CreateDatabaseName" help="">kgo</i>
+
+  <!-- Настройки хранилищ данных -->
+
+  <!-- Хранилище PostgreSql-->
+  <p name="SunEnv_PgDataStorageProvider" value="PgSqlProvider">
+    <i name="serverNameString" help="">127.0.0.1</i>
+    <i name="serverPort" help="">5432</i>
+    <i name="pgsqlUserId" help="">postgres</i>
+    <i name="pgsqlPassword" help="">skala</i>
+    <i name="baseName" help="">postgres</i>
+
+  </p>
+  
+  <!-- Главное хранилище -->
+  <p name="SunEnv_DataStorageProvider" value="SqliteProvider">
+    <i name="databaseFileString" help="">C:\Users\tem2m\Desktop\SqliteTestOPE.db3</i>
+    <i name="readOnlyAccess" help="">False</i>
+    <i name="autoInit" help="">True</i>
+    <i name="abiVer" help="">v1</i>
+    
+  </p>
+  <i name="SunEnv_DataStorageStream" help="">main</i>
+  
+  <!-- Источник файлов состояний -->
+  <p name="SunEnv_ImportSkalaProvider" value="RockMicroSingleProvider">
+    <i name="rockMicroSingleDirectoryPath" help="">C:\tmp\skala</i>
+  </p>
+  <i name="SunEnv_ImportSkalaStream" help="">rock_micro</i>
+
+  <!-- Источник данных азотной активности -->
+  <p name="SunEnv_ImportAzotProvider" value="DataTupleProvider">    
+  </p>
+  <i name="SunEnv_ImportAzotStream" help="">prp</i>
+  
+  <!-- Источние схемы ПВК -->
+  <p name="SunEnv_PvkSchemeProvider" value="DataTupleProvider">
+    <i name="dataTupleSingleFilePath" help="">pvkTuple.tup</i>
+  </p>
+
+  <!-- Источние длин ПВК -->
+  <p name="SunEnv_PvkLengthProvider" value="CSVPvkLengthProvider">
+    <i name="csvPvkLengthFilePath">KNPP1.csv</i>
+  </p>
+  
+  <!-- Экспортное хранилище -->
+  <p name="SunEnv_ExportStorageProvider" value="SqliteProvider">    
+    <i name="readOnlyAccess" help="">False</i>
+  </p>  
+  
+  <xml name="DrawZagrCart" help="">
+    <cart type="DrawZagrCart"  name="zagr_rockmicro">
+      <item id="08" name="ТК" descr="ТК1 2.8%" draw="0001" color="7f7f7f"/>
+      <item id="10" name="ТК" descr="ТК2 2.4%" draw="0001" color="9f9f9f"/>
+      <item id="18" name="ТК" descr="ТК3 2.6%" draw="0001" color="bfbfbf"/>
+
+
+      <item id="24" name="РР" descr="РР сб.2091.01" draw="0050" color="00af7f"/>
+      <item id="26" name="РР" descr="РВ сб.2477.01" draw="0050" color="a06f9f"/>
+      <item id="2A" name="РР" descr="КРР сб.2399.00.000" draw="0050" color="203fdf"/>
+
+      <item id="23" name="АЗ" descr="АЗ сб.2505" draw="0051" color="00afdf"/>
+
+      <item id="25" name="УСП" descr="УСП сб.2093" draw="0069" color="201fdf"/>
+
+      <item id="21" name="АРБ" descr="АРБ сб.2091.00" draw="0052" color="703fdf"/>
+      <item id="2C" name="АРБ" descr="КАБ сб.2399.00.000" draw="0052" color="506f9f"/>
+      <item id="27" name="ПК АРБ" descr="ПКБ сб.2477.01" draw="0053" color="703fdf"/>
+      <item id="2B" name="ПК АРБ" descr="КПБ сб.2399.00.000" draw="0053" color="506f9f"/>
+
+
+      <item id="22" name="АРВ" descr="АРВ сб.2091.00" draw="0070" color="403f1f"/>
+      <item id="2E" name="АРВ" descr="КАВ сб.2399.00.000" draw="0070" color="202f1f"/>
+
+      <item id="29" name="ПК АРВ" descr="ПАВ сб.2091.01" draw="0057" color="305fdf"/>
+      <item id="28" name="ПК АРВ" descr="ПКВ сб.2477.01" draw="0057" color="703fdf"/>
+      <item id="2D" name="ПК АРВ" descr="КПВ сб.2399.00.000" draw="0057" color="506f9f"/>
+
+
+      <item id="47" name="СВ" descr="СВ" draw="0041" color="30cf0f"/>
+      <item id="48" name="ПЯ" descr="СВ" draw="0045" color="cf00a0"/>
+
+      <item id="50" name="ДП" descr="ДП0 сб.2365.00" draw="0049" color="cf5000"/>
+      <item id="51" name="ДП" descr="ДП1 сб.2365.01" draw="0049" color="cf7000"/>
+      <item id="52" name="ДП" descr="ДП2 сб.2365.02" draw="0049" color="cf9000"/>
+      <item id="53" name="ДП" descr="ДП3 сб.2365.03" draw="0049" color="cfb000"/>
+      <item id="54" name="ДП" descr="ДП4 сб.2365.04" draw="0049" color="cfd000"/>
+      <item id="55" name="ДП" descr="ДП5 сб.2365.05" draw="0049" color="cfff00"/>
+      <item id="60" name="ДП" descr="ДПК сб.2641" draw="0049" color="3f7f40"/>
+
+    </cart>
+  </xml>
+</ParamTuple>

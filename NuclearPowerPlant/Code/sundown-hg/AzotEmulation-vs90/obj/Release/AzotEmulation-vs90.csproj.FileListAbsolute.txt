@@ -1,0 +1,16 @@
+C:\sundown-hg\AzotEmulation-vs90\bin\Release\AzotEmulation-vs90.exe
+C:\sundown-hg\AzotEmulation-vs90\bin\Release\AzotEmulation-vs90.pdb
+C:\sundown-hg\AzotEmulation-vs90\bin\Release\corelib.dll
+C:\sundown-hg\AzotEmulation-vs90\bin\Release\RecoveryFactory.exe
+C:\sundown-hg\AzotEmulation-vs90\bin\Release\WindowsApplication1.dll
+C:\sundown-hg\AzotEmulation-vs90\bin\Release\lzmalib.dll
+C:\sundown-hg\AzotEmulation-vs90\bin\Release\RecoveryFactory.pdb
+C:\sundown-hg\AzotEmulation-vs90\bin\Release\lzmalib.pdb
+C:\sundown-hg\AzotEmulation-vs90\bin\Release\WindowsApplication1.pdb
+C:\sundown-hg\AzotEmulation-vs90\bin\Release\corelib.pdb
+C:\sundown-hg\AzotEmulation-vs90\obj\Release\ResolveAssemblyReference.cache
+C:\sundown-hg\AzotEmulation-vs90\obj\Release\AzotEmulation_vs90.Form1.resources
+C:\sundown-hg\AzotEmulation-vs90\obj\Release\AzotEmulation_vs90.Properties.Resources.resources
+C:\sundown-hg\AzotEmulation-vs90\obj\Release\AzotEmulation-vs90.csproj.GenerateResource.Cache
+C:\sundown-hg\AzotEmulation-vs90\obj\Release\AzotEmulation-vs90.exe
+C:\sundown-hg\AzotEmulation-vs90\obj\Release\AzotEmulation-vs90.pdb

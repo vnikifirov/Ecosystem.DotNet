@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\newMyPrograms\sundown-hg\test2\bin\Debug_NET2\test2.dll" total="45" errors="0" failures="0" not-run="0" ignored="0" skipped="0" invalid="0" date="2009-09-09" time="13:11:51">
+  <environment nunit-version="2.5.0.9122" clr-version="2.0.50727.3074" os-version="Microsoft Windows NT 6.0.6001 Service Pack 1" platform="Win32NT" cwd="C:\newMyPrograms\sundown-hg\test2\bin\Debug_NET2" machine-name="SONYUSER-PC" user="SonyUser" user-domain="SonyUser-PC" />
+  <culture-info current-culture="ru-RU" current-uiculture="ru-RU" />
+  <test-suite name="C:\newMyPrograms\sundown-hg\test2\bin\Debug_NET2\test2.dll" executed="True" success="True" time="33.305" asserts="0">
+    <results>
+      <test-suite name="corelib" executed="True" success="True" time="33.296" asserts="0">
+        <results>
+          <test-suite name="AnyTypeTest" executed="True" success="True" time="0.070" asserts="0">
+            <results>
+              <test-case name="corelib.AnyTypeTest.TestCreate" executed="True" success="True" time="0.039" asserts="12" />
+              <test-case name="corelib.AnyTypeTest.TestScale" executed="True" success="True" time="0.003" asserts="10" />
+            </results>
+          </test-suite>
+          <test-suite name="CoordsConverterTest" executed="True" success="True" time="0.078" asserts="0">
+            <results>
+              <test-case name="corelib.CoordsConverterTest.TestLinear1884" executed="True" success="True" time="0.046" asserts="16" />
+              <test-case name="corelib.CoordsConverterTest.TestWideLinear2448" executed="True" success="True" time="0.029" asserts="16" />
+            </results>
+          </test-suite>
+          <test-suite name="DataArrayTest" executed="True" success="True" time="20.637" asserts="0">
+            <results>
+              <test-case name="corelib.DataArrayTest.TesNormalize" executed="True" success="True" time="0.042" asserts="56" />
+              <test-case name="corelib.DataArrayTest.TestBadCastToDataType" executed="True" success="True" time="5.787" asserts="0" />
+              <test-case name="corelib.DataArrayTest.TestBadCastToRank" executed="True" success="True" time="1.908" asserts="0" />
+              <test-case name="corelib.DataArrayTest.TestBadCastToType" executed="True" success="True" time="1.895" asserts="0" />
+              <test-case name="corelib.DataArrayTest.TestBadCastToUnknownArgumant" executed="True" success="True" time="2.015" asserts="0" />
+              <test-case name="corelib.DataArrayTest.TestBadCastToUnsupportedType" executed="True" success="True" time="3.138" asserts="0" />
+              <test-case name="corelib.DataArrayTest.TestCastTo" executed="True" success="True" time="0.022" asserts="7" />
+              <test-case name="corelib.DataArrayTest.TestCastToArray" executed="True" success="True" time="0.024" asserts="0" />
+              <test-case name="corelib.DataArrayTest.TestCastToArrayBadDim" executed="True" success="True" time="2.823" asserts="0" />
+              <test-case name="corelib.DataArrayTest.TestCastToArrayBadSize" executed="True" success="True" time="2.713" asserts="0" />
+              <test-case name="corelib.DataArrayTest.TestCastToNew" executed="True" success="True" time="0.003" asserts="0" />
+              <test-case name="corelib.DataArrayTest.TestConvert1" executed="True" success="True" time="0.077" asserts="390" />
+              <test-case name="corelib.DataArrayTest.TestConvert2" executed="True" success="True" time="0.011" asserts="390" />
+              <test-case name="corelib.DataArrayTest.TestConvert3" executed="True" success="True" time="0.008" asserts="390" />
+              <test-case name="corelib.DataArrayTest.TestConvertToArray" executed="True" success="True" time="0.005" asserts="3" />
+              <test-case name="corelib.DataArrayTest.TestCreate1" executed="True" success="True" time="0.003" asserts="5" />
+              <test-case name="corelib.DataArrayTest.TestCreate2" executed="True" success="True" time="0.001" asserts="5" />
+              <test-case name="corelib.DataArrayTest.TestCreate3" executed="True" success="True" time="0.000" asserts="5" />
+              <test-case name="corelib.DataArrayTest.TestDataGrid" executed="True" success="True" time="0.012" asserts="0" />
+              <test-case name="corelib.DataArrayTest.TestEnumerator1" executed="True" success="True" time="0.002" asserts="7" />
+              <test-case name="corelib.DataArrayTest.TestEnumerator2" executed="True" success="True" time="0.001" asserts="8" />
+              <test-case name="corelib.DataArrayTest.TestEnumerator3" executed="True" success="True" time="0.002" asserts="8" />
+              <test-case name="corelib.DataArrayTest.TestMean" executed="True" success="True" time="0.006" asserts="3" />
+              <test-case name="corelib.DataArrayTest.TestSerialization1" executed="True" success="True" time="0.042" asserts="117" />
+              <test-case name="corelib.DataArrayTest.TestSerialization2" executed="True" success="True" time="0.013" asserts="117" />
+              <test-case name="corelib.DataArrayTest.TestSerialization3" executed="True" success="True" time="0.012" asserts="137" />
+            </results>
+          </test-suite>
+          <test-suite name="DataCartogramTest" executed="True" success="True" time="12.373" asserts="0">
+            <results>
+              <test-case name="corelib.DataCartogramTest.TestCastTo" executed="True" success="True" time="0.035" asserts="0" />
+              <test-case name="corelib.DataCartogramTest.TestCastToNew" executed="True" success="True" time="0.006" asserts="0" />
+              <test-case name="corelib.DataCartogramTest.TestCastToNew2" executed="True" success="True" time="0.011" asserts="0" />
+              <test-case name="corelib.DataCartogramTest.TestConvertIdxToNInt" executed="True" success="True" time="0.055" asserts="9420" />
+              <test-case name="corelib.DataCartogramTest.TestCreateIndexedInt" executed="True" success="True" time="0.006" asserts="3768" />
+              <test-case name="corelib.DataCartogramTest.TestCreateNativeInt" executed="True" success="True" time="0.022" asserts="16128" />
+              <test-case name="corelib.DataCartogramTest.TestDataGrid" executed="True" success="True" time="5.186" asserts="0" />
+              <test-case name="corelib.DataCartogramTest.TestScalePerfConv" executed="True" success="True" time="1.456" asserts="0" />
+              <test-case name="corelib.DataCartogramTest.TestScalePerfOdinary" executed="True" success="True" time="1.884" asserts="0" />
+              <test-case name="corelib.DataCartogramTest.TestScalePerfOp" executed="True" success="True" time="1.581" asserts="0" />
+              <test-case name="corelib.DataCartogramTest.TestScalePerfVoid" executed="True" success="True" time="0.169" asserts="0" />
+              <test-case name="corelib.DataCartogramTest.TestScalePerfVoidConv" executed="True" success="True" time="1.929" asserts="0" />
+            </results>
+          </test-suite>
+          <test-suite name="DataParamTableTest" executed="True" success="True" time="0.112" asserts="0">
+            <results>
+              <test-case name="corelib.DataParamTableTest.CreateTest" executed="True" success="True" time="0.016" asserts="0" />
+              <test-case name="corelib.DataParamTableTest.Enumeration" executed="True" success="True" time="0.075" asserts="0" />
+              <test-case name="corelib.DataParamTableTest.TestCastToNew" executed="True" success="True" time="0.011" asserts="0" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

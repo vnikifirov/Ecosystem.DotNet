@@ -1,0 +1,11 @@
+C:\sundown-hg\PluginMDX-vs90\bin\Release\PluginMDX-vs90.dll
+C:\sundown-hg\PluginMDX-vs90\bin\Release\PluginMDX-vs90.pdb
+C:\sundown-hg\PluginMDX-vs90\bin\Release\corelib.dll
+C:\sundown-hg\PluginMDX-vs90\bin\Release\RockMicoPlugin.dll
+C:\sundown-hg\PluginMDX-vs90\bin\Release\lzmalib.dll
+C:\sundown-hg\PluginMDX-vs90\bin\Release\RockMicoPlugin.pdb
+C:\sundown-hg\PluginMDX-vs90\bin\Release\lzmalib.pdb
+C:\sundown-hg\PluginMDX-vs90\bin\Release\corelib.pdb
+C:\sundown-hg\PluginMDX-vs90\obj\Release\ResolveAssemblyReference.cache
+C:\sundown-hg\PluginMDX-vs90\obj\Release\PluginMDX-vs90.dll
+C:\sundown-hg\PluginMDX-vs90\obj\Release\PluginMDX-vs90.pdb

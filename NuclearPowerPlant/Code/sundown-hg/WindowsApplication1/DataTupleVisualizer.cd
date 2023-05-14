@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="corelib.DataCartogramVisualizer" BaseTypeListCollapsed="true">
+    <Position X="19" Y="1" Width="2.25" />
+    <TypeIdentifier>
+      <FileName>DataCartogramVisualizer.cs</FileName>
+      <HashCode>EAgkBAIAAECKAQAEAAAUQAQAIBAARAoSAAAAAkQAQII=</HashCode>
+    </TypeIdentifier>
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="corelib.DataCartogramVisualizer.ActionViewChange">
+        <TypeIdentifier>
+          <NewMemberFileName>DataCartogramVisualizer.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="corelib.DataCartogramVisualizer.ActionHystShowChange">
+        <TypeIdentifier>
+          <NewMemberFileName>DataCartogramVisualizer.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="corelib.DCVPluginCellsReport">
+    <Position X="5.25" Y="6" Width="2" />
+    <TypeIdentifier>
+      <FileName>DataCartogramVisualizerPlugins.cs</FileName>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="corelib.DCVPluginClearSelection">
+    <Position X="7.5" Y="6" Width="2" />
+    <TypeIdentifier>
+      <FileName>DataCartogramVisualizerPlugins.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="corelib.DCVPluginCellHistory">
+    <Position X="0.5" Y="6" Width="2" />
+    <TypeIdentifier>
+      <FileName>DataCartogramVisualizerPlugins.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="corelib.DCVPluginSelectedCellsHistory">
+    <Position X="2.75" Y="6" Width="2.25" />
+    <TypeIdentifier>
+      <FileName>DataCartogramVisualizerPlugins.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="corelib.DataTupleVisualizer" BaseTypeListCollapsed="true">
+    <Position X="22.25" Y="1" Width="2.25" />
+    <TypeIdentifier>
+      <FileName>DataTupleVisualizer.cs</FileName>
+      <HashCode>AhQgBAQRAGCKIYAAAGCqRgTCAAEgRoICxAAAgIYAGCo=</HashCode>
+    </TypeIdentifier>
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Struct Name="corelib.DataTupleVisualizer.TupleVisualizerActiveTuple">
+        <TypeIdentifier>
+          <NewMemberFileName>DataTupleVisualizer.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="corelib.DTVPluginSaveItem">
+    <Position X="13.25" Y="6" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>DataTupleVisualizerPlugins.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="corelib.DTVPluginSaveTuple">
+    <Position X="15.25" Y="6" Width="2" />
+    <TypeIdentifier>
+      <FileName>DataTupleVisualizerPlugins.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAAgAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="corelib.DTVPluginSaveAllDataTuple">
+    <Position X="10.75" Y="6" Width="2.25" />
+    <TypeIdentifier>
+      <FileName>DataTupleVisualizerPlugins.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="corelib.ActionVisualizerUI">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>DataTupleVisualizerInterfaces.cs</FileName>
+      <HashCode>AAAAIABAAAAAAABAACEAAAAAAAABQAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="corelib.ADTVEventArgs">
+    <Position X="2.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>DataTupleVisualizerInterfaces.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAQAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="corelib.ADTVEventItemArgs">
+    <Position X="1" Y="12" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>DataTupleVisualizerInterfaces.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="corelib.ADTVEventTupleArgs">
+    <Position X="4" Y="12" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>DataTupleVisualizerInterfaces.cs</FileName>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="corelib.ADCVEventArgs">
+    <Position X="6.75" Y="9.75" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>DataTupleVisualizerInterfaces.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAQAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="corelib.ADCVEventCoordArgs">
+    <Position X="6.75" Y="12" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>DataTupleVisualizerInterfaces.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="corelib.ActionDataCartogramVisualizerUI">
+    <Position X="3.5" Y="3.5" Width="2.5" />
+    <TypeIdentifier>
+      <FileName>DataTupleVisualizerInterfaces.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <NestedTypes>
+      <Enum Name="corelib.ActionDataCartogramVisualizerUI.Actions">
+        <TypeIdentifier>
+          <NewMemberFileName>DataTupleVisualizerInterfaces.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+  </Class>
+  <Class Name="corelib.ActionDataTupleVisualizerUI">
+    <Position X="13" Y="3.5" Width="2.25" />
+    <TypeIdentifier>
+      <FileName>DataTupleVisualizerInterfaces.cs</FileName>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <NestedTypes>
+      <Enum Name="corelib.ActionDataTupleVisualizerUI.Actions" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>DataTupleVisualizerInterfaces.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="corelib.ActionDataTupleVisualizerUI.Flags" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>DataTupleVisualizerInterfaces.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+  </Class>
+  <Interface Name="corelib.ITupleItemVisualizerUI">
+    <Position X="11" Y="9.75" Width="2.25" />
+    <TypeIdentifier>
+      <FileName>DataTupleVisualizerInterfaces.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAEQAAAA=</HashCode>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="corelib.IDataCartogramVisualizerUI">
+    <Position X="11" Y="12" Width="2.25" />
+    <TypeIdentifier>
+      <FileName>DataTupleVisualizerInterfaces.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAQAAAAAAAAAgAAAAAAgAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="corelib.IDataTupleVisualizerUI">
+    <Position X="14.75" Y="9.75" Width="2" />
+    <TypeIdentifier>
+      <FileName>DataTupleVisualizerInterfaces.cs</FileName>
+      <HashCode>AgAABAAAAAAIAYAAAAAAQgBAAAAAQAAAAAAAAAQAAAA=</HashCode>
+    </TypeIdentifier>
+  </Interface>
+</ClassDiagram>
