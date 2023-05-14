@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32611.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TODOList.BLL", "TODOList.BLL\TODOList.BLL.csproj", "{7E54B22D-75C0-4C00-A32E-E937AFF678A7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TODOList.API", "TODOList.API\TODOList.API.csproj", "{690A84D0-0616-410B-AFE3-6A40E6A90FB1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FDBF02BB-97B0-496B-805C-D02C11CC0064}"
+	ProjectSection(SolutionItems) = preProject
+		Dockerfile.txt = Dockerfile.txt
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TODOList.UI.Razor", "..\..\..\Docs 📄\Associaltion Of Tutors\Project\TODOList\TODOList.UI.Razor\TODOList.UI.Razor.csproj", "{FD084E53-8A1D-4905-B1F7-FA19F804862C}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "TODOList.Ui.React", "TODOList.UI.ReactJS\TODOList.Ui.React.esproj", "{CC6BD302-C5CF-4A00-B990-ABB401E5D3EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E54B22D-75C0-4C00-A32E-E937AFF678A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E54B22D-75C0-4C00-A32E-E937AFF678A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E54B22D-75C0-4C00-A32E-E937AFF678A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E54B22D-75C0-4C00-A32E-E937AFF678A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{690A84D0-0616-410B-AFE3-6A40E6A90FB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{690A84D0-0616-410B-AFE3-6A40E6A90FB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{690A84D0-0616-410B-AFE3-6A40E6A90FB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{690A84D0-0616-410B-AFE3-6A40E6A90FB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD084E53-8A1D-4905-B1F7-FA19F804862C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD084E53-8A1D-4905-B1F7-FA19F804862C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD084E53-8A1D-4905-B1F7-FA19F804862C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD084E53-8A1D-4905-B1F7-FA19F804862C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC6BD302-C5CF-4A00-B990-ABB401E5D3EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC6BD302-C5CF-4A00-B990-ABB401E5D3EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC6BD302-C5CF-4A00-B990-ABB401E5D3EF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CC6BD302-C5CF-4A00-B990-ABB401E5D3EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC6BD302-C5CF-4A00-B990-ABB401E5D3EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC6BD302-C5CF-4A00-B990-ABB401E5D3EF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D27B5843-7624-4656-90A8-CA59F675F099}
+	EndGlobalSection
+EndGlobal
