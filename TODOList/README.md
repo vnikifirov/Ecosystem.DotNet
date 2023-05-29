@@ -4,8 +4,14 @@
 
 Application for education purpose
 
-npm start to run UI on ReactJS 
-dotnet run to run back end logic of UI
+To run UI on ReactJS 
+* npm start 
 
-# Image of application v1.0:
-<img width="1440" alt="Screen Shot 2023-05-07 at 11 29 39 AM" src="https://user-images.githubusercontent.com/39588115/236667426-d8bf1b5f-0701-459e-87f1-07f85ba41bbb.png">
+ To run back end logic of UI
+* dotnet run 
+
+# Image of simple UI application v1.0:
+![FwBP8_hX0AEih8n](https://github.com/vnikifirov/Ecosystem.DotNet/assets/39588115/2a69dff4-35bc-4c7f-bb83-da7d059386a8)
+
+# Image of API tests with Swagger:
+![Swagger](https://github.com/vnikifirov/Ecosystem.DotNet/assets/39588115/7124c684-1c92-4350-809f-d08ec150c0f3)
