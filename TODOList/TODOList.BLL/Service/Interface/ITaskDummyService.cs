@@ -4,6 +4,6 @@ namespace TODOList.BLL.Service.Interface
 {
     public interface ITaskDummyService
     {
-        Task<List<Item>> GetAllTasksAsync();
+        Task<IList<Item>> GetAllTasksAsync(CancellationToken cancellationToken = default);
     }
 }

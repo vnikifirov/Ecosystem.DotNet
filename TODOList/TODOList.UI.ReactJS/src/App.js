@@ -49,7 +49,7 @@ function App() {
 
                 <tbody>
                         {todos.map(item => (
-                            <tr>
+                            <tr key="item.id" >
                                 <th scope="row">{ item.id }</th>
                                 <td> { item.name } </td>
                                 <td> {item.isCompleted ? "Yes ✅" : "No ❌"} </td>

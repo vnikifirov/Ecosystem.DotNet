@@ -19,6 +19,6 @@ namespace TODOList.API.Controllers
         }
 
         [HttpGet(Name = "Tasks")]
-        public async Task<List<Item>> Get() => await _taskService.GetAllTasksAsync();
+        public async Task<List<Item>> Get(CancellationToken cancellationToken) => await _taskService.GetAllTasksAsync(cancellationToken);
     }
 }
