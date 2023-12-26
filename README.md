@@ -78,6 +78,8 @@
 
 38. [File tracking system](https://github.com/vnikifirov/Ecosystem.DotNet/tree/master/FileTrackingSystem)
 
+38. [Algorithm Find difference between 2 numbers](https://github.com/vnikifirov/Ecosystem.DotNet/tree/master/2023.12.26_Algorithm)
+
 # Note
 
 * If you like this repo and find it useful, please consider ★ starring it (on top right of the page) :)
